@@ -14,10 +14,10 @@ const Card = ({ children }) => {
           (flipped ? "rotate-y-half" : "rotate-y-none")
         }
       >
-        <div className="bg-orange-500 absolute w-full h-full rounded-lg shadow-md hover:shadow-lg backface-hidden">
+        <div className="absolute w-full h-full shadow-md hover:shadow-lg backface-hidden">
           {children && children["FRONT"]}
         </div>
-        <div className="bg-orange-900 absolute w-full h-full rounded-lg shadow-md hover:shadow-lg backface-hidden rotate-y-half">
+        <div className="absolute w-full h-full shadow-md hover:shadow-lg backface-hidden rotate-y-half">
           {children && children["BACK"]}
         </div>
       </div>
