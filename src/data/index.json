@@ -4,7 +4,7 @@
       "title": "Real Madrid",
       "defaultTeam": "realmadrid",
       "logo": "/images/logos/realmadrid.png",
-      "players": ["ikercasillas"]
+      "players": ["ikercasillas", "zinedinezidane"]
     },
     "mexico": {
       "title": "Mexico",
@@ -22,6 +22,14 @@
       "color2": "#001870",
       "isNational": true
     },
+    "france": {
+      "id": "france",
+      "title": "France",
+      "logo": "/images/logos/france.png",
+      "color1": "#112855",
+      "color2": "#FFFFFF",
+      "isNational": true
+    },
     "realmadrid": {
       "id": "realmadrid",
       "title": "Real Madrid",
@@ -35,6 +43,27 @@
       "logo": "/images/logos/porto.png",
       "color1": "#003C71",
       "color2": "#FFFFFF"
+    },
+    "cannes": {
+      "id": "cannes",
+      "title": "Cannes",
+      "logo": "/images/logos/cannes.png",
+      "color1": "#FFFFFF",
+      "color2": "#FE0003"
+    },
+    "bordeaux": {
+      "id": "bordeaux",
+      "title": "Bordeaux",
+      "logo": "/images/logos/bordeaux.png",
+      "color1": "#000630",
+      "color2": "#FFFFFF"
+    },
+    "juventus": {
+      "id": "juventus",
+      "title": "Juventus",
+      "logo": "/images/logos/juventus.png",
+      "color1": "#000000",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -47,6 +76,19 @@
         "spain": "/images/players/ikercasillas-spain.png",
         "porto": "/images/players/ikercasillas-porto.png",
         "realmadrid": "/images/players/ikercasillas-realmadrid.png"
+      }
+    },
+    "zinedinezidane": {
+      "name": "Zinedine Zidane",
+      "number": 10,
+      "clubs": ["realmadrid", "juventus", "bordeaux", "cannes"],
+      "nationalTeam": "france",
+      "images": {
+        "france": "/images/players/zinedinezidane-france.png",
+        "realmadrid": "/images/players/zinedinezidane-realmadrid.png",
+        "juventus": "/images/players/zinedinezidane-juventus.png",
+        "bordeaux": "/images/players/zinedinezidane-bordeaux.png",
+        "cannes": "/images/players/zinedinezidane-cannes.png"
       }
     }
   }
