@@ -32,7 +32,7 @@
 }
 
 .logo-filter {
-  filter: grayscale(100%) blur(1px) opacity(0.5);
+  filter: grayscale(100%) opacity(0.5);
 }
 
 .filter-grayscale {

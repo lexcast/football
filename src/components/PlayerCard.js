@@ -22,8 +22,7 @@ const PlayerCard = ({ player, grid, clubs }) => {
       >
         <Card>
           <div
-            alt={player.name}
-            className="w-full h-full bg-cover bg-no-repeat select-none"
+            className="w-full h-full bg-cover bg-no-repeat bg-center select-none"
             style={{
               backgroundColor: team.color1,
               backgroundImage: `url("${player.images[team.id]}")`
@@ -47,7 +46,7 @@ const PlayerCard = ({ player, grid, clubs }) => {
               style={{ color: team.color1 }}
             >
               <p
-                className="font-mono font-bold text-xl"
+                className="font-mono font-bold text-xl uppercase"
                 style={{ backgroundColor: team.color2 }}
               >
                 {player.name}
