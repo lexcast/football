@@ -22,7 +22,7 @@ const PlayerCard = ({ player, grid, clubs }) => {
       >
         <Card>
           <div
-            className="w-full h-full bg-cover bg-no-repeat bg-center select-none"
+            className="w-full h-full bg-cover bg-no-repeat bg-center select-none transition-all"
             style={{
               backgroundColor: team.color1,
               backgroundImage: `url("${player.images[team.id]}")`
@@ -54,7 +54,7 @@ const PlayerCard = ({ player, grid, clubs }) => {
             </div>
           </div>
           <div
-            className="w-full h-full inline-flex items-center select-none"
+            className="w-full h-full inline-flex items-center select-none transition-all"
             style={{
               backgroundImage: `
               repeating-linear-gradient(45deg, rgba(255, 255, 255, 0.7) 0, rgba(255, 255, 255, 0.7) 20px, transparent 20px, transparent 32px, rgba(255, 255, 255, 0.7) 32px, rgba(255, 255, 255, 0.7) 44px, transparent 44px, transparent 56px, rgba(255, 255, 255, 0.7) 56px, rgba(255, 255, 255, 0.7) 68px, transparent 68px, transparent 80px, rgba(255, 255, 255, 0.7) 0),
