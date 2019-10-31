@@ -8,7 +8,7 @@ const PlayerCard = ({ player, grid, clubs }) => {
   const national = clubs[player.nationalTeam];
 
   return (
-    <div className="flex group">
+    <div className="flex">
       <Tilt
         className="w-48 h-64"
         options={{

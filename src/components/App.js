@@ -27,7 +27,7 @@ const App = () => {
           );
         })}
       </div>
-      <div className="px-10 py-5">
+      <div className="px-10 py-5 flex">
         {data.grids[grid].players.map(key => {
           return (
             <PlayerCard
