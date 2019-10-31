@@ -34,7 +34,6 @@ const App = () => {
               key={key}
               player={data.players[key]}
               grid={data.grids[grid]}
-              nationalTeams={data.nationalTeams}
               clubs={data.clubs}
             />
           );

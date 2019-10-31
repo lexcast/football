@@ -1,72 +1,105 @@
-import React from "react";
+import React, { useState } from "react";
 import Tilt from "./Tilt";
 import Card from "./Card";
 
-const PlayerCard = ({ player, grid, nationalTeams, clubs }) => {
-  const team = grid.defaultClub
-    ? clubs[grid.defaultClub]
-    : nationalTeams[grid.defaultNational];
+const PlayerCard = ({ player, grid, clubs }) => {
+  const [selectedTeam, setSelectedTeam] = useState(grid.defaultTeam);
+  const team = clubs[selectedTeam];
+  const national = clubs[player.nationalTeam];
 
   return (
-    <Tilt
-      className="w-48 h-64"
-      options={{
-        max: 10,
-        speed: 300,
-        scale: 1.05,
-        gyroscope: false,
-        glare: true,
-        "max-glare": 0.4
-      }}
-    >
-      <Card>
-        <div
-          alt={player.name}
-          className="w-full h-full bg-cover bg-no-repeat select-none"
-          style={{
-            backgroundColor: team.color1,
-            backgroundImage: `url("${player.image}")`
-          }}
-        >
-          <p
-            className="font-sans font-extrabold text-4xl pt-1 pl-3"
-            style={{ color: team.color2 }}
-          >
-            {player.number}
-          </p>
-          <div className="w-4/5 h-full -mt-2">
-            <img
-              src={team.logo}
-              alt={team.title}
-              className="logo-filter opacity-25 -ml-10"
-            />
-          </div>
+    <div className="flex group">
+      <Tilt
+        className="w-48 h-64"
+        options={{
+          max: 10,
+          speed: 300,
+          scale: 1.05,
+          gyroscope: false,
+          glare: true,
+          "max-glare": 0.4
+        }}
+      >
+        <Card>
           <div
-            className="absolute bottom-0 pb-3"
-            style={{ color: team.color1 }}
+            alt={player.name}
+            className="w-full h-full bg-cover bg-no-repeat select-none"
+            style={{
+              backgroundColor: team.color1,
+              backgroundImage: `url("${player.images[team.id]}")`
+            }}
           >
             <p
-              className="font-mono font-bold text-xl"
-              style={{ backgroundColor: team.color2 }}
+              className="font-sans font-extrabold text-4xl pt-1 pl-3"
+              style={{ color: team.color2 }}
             >
-              {player.name}
+              {player.number}
             </p>
+            <div className="w-4/5 h-full -mt-2">
+              <img
+                src={team.logo}
+                alt={team.title}
+                className="logo-filter opacity-25 -ml-10"
+              />
+            </div>
+            <div
+              className="absolute bottom-0 pb-3"
+              style={{ color: team.color1 }}
+            >
+              <p
+                className="font-mono font-bold text-xl"
+                style={{ backgroundColor: team.color2 }}
+              >
+                {player.name}
+              </p>
+            </div>
           </div>
-        </div>
-        <div
-          className="w-full h-full inline-flex items-center select-none"
-          style={{
-            backgroundImage: `
+          <div
+            className="w-full h-full inline-flex items-center select-none"
+            style={{
+              backgroundImage: `
               repeating-linear-gradient(45deg, rgba(255, 255, 255, 0.7) 0, rgba(255, 255, 255, 0.7) 20px, transparent 20px, transparent 32px, rgba(255, 255, 255, 0.7) 32px, rgba(255, 255, 255, 0.7) 44px, transparent 44px, transparent 56px, rgba(255, 255, 255, 0.7) 56px, rgba(255, 255, 255, 0.7) 68px, transparent 68px, transparent 80px, rgba(255, 255, 255, 0.7) 0),
               repeating-linear-gradient(-45deg, rgba(255, 255, 255, 0.7) 0, rgba(255, 255, 255, 0.7) 20px, transparent 20px, transparent 32px, rgba(255, 255, 255, 0.7) 32px, rgba(255, 255, 255, 0.7) 44px, transparent 44px, transparent 56px, rgba(255, 255, 255, 0.7) 56px, rgba(255, 255, 255, 0.7) 68px, transparent 68px, transparent 80px, rgba(255, 255, 255, 0.7) 0),
               linear-gradient(to bottom right, ${team.color1}, ${team.color2})
             `
-          }}
+            }}
+          >
+            <img src={team.logo} alt={team.title} className="h-10 m-auto" />
+          </div>
+        </Card>
+      </Tilt>
+      <div>
+        <div
+          onClick={() => setSelectedTeam(player.nationalTeam)}
+          className={
+            "px-2 py-1 cursor-pointer transition-all " +
+            (selectedTeam === player.nationalTeam
+              ? ""
+              : "filter-grayscale hover:filter-none opacity-50 hover:opacity-100")
+          }
         >
-          <img src={team.logo} alt={team.title} className="h-10 m-auto" />
+          <img src={national.logo} alt={national.title} className="h-6" />
         </div>
-      </Card>
-    </Tilt>
+        {player.clubs.map(c => {
+          const club = clubs[c];
+
+          return (
+            <div
+              key={c}
+              onClick={() => setSelectedTeam(c)}
+              className={
+                "px-2 py-1 cursor-pointer transition-all " +
+                (selectedTeam === c
+                  ? ""
+                  : "filter-grayscale hover:filter-none opacity-50 hover:opacity-100")
+              }
+            >
+              <img src={club.logo} alt={club.title} className="h-6" />
+            </div>
+          );
+        })}
+      </div>
+    </div>
   );
 };
 
