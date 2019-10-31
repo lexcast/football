@@ -18,8 +18,8 @@
       "id": "spain",
       "title": "Spain",
       "logo": "/images/logos/spain.png",
-      "color1": "red",
-      "color2": "blue",
+      "color1": "#FE0003",
+      "color2": "#001870",
       "isNational": true
     },
     "realmadrid": {
@@ -33,8 +33,8 @@
       "id": "porto",
       "title": "Porto",
       "logo": "/images/logos/porto.png",
-      "color1": "#FFFFFF",
-      "color2": "#D8BD75"
+      "color1": "#003C71",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
