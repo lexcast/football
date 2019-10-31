@@ -16,13 +16,13 @@ const PlayerCard = ({ player, grid, nationalTeams, clubs }) => {
         scale: 1.05,
         gyroscope: false,
         glare: true,
-        "max-glare": 0.5
+        "max-glare": 0.4
       }}
     >
       <Card>
         <div
           alt={player.name}
-          className="w-full h-full bg-cover bg-no-repeat"
+          className="w-full h-full bg-cover bg-no-repeat select-none"
           style={{
             backgroundColor: team.color1,
             backgroundImage: `url("${player.image}")`
@@ -34,7 +34,7 @@ const PlayerCard = ({ player, grid, nationalTeams, clubs }) => {
           >
             {player.number}
           </p>
-          <div className="overflow-hidden w-4/5 h-full -mt-2">
+          <div className="w-4/5 h-full -mt-2">
             <img
               src={team.logo}
               alt={team.title}
@@ -54,7 +54,7 @@ const PlayerCard = ({ player, grid, nationalTeams, clubs }) => {
           </div>
         </div>
         <div
-          className="w-full h-full rounded-lg inline-flex items-center"
+          className="w-full h-full inline-flex items-center select-none"
           style={{
             backgroundImage: `
               repeating-linear-gradient(45deg, rgba(255, 255, 255, 0.7) 0, rgba(255, 255, 255, 0.7) 20px, transparent 20px, transparent 32px, rgba(255, 255, 255, 0.7) 32px, rgba(255, 255, 255, 0.7) 44px, transparent 44px, transparent 56px, rgba(255, 255, 255, 0.7) 56px, rgba(255, 255, 255, 0.7) 68px, transparent 68px, transparent 80px, rgba(255, 255, 255, 0.7) 0),

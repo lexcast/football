@@ -2,7 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-.backface-hidden {
+.backface-hidden,
+.backface-hidden * {
   backface-visibility: hidden;
 }
 
