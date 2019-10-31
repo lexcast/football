@@ -1,0 +1,41 @@
+{
+  "grids": {
+    "realmadrid": {
+      "title": "Real Madrid",
+      "defaultClub": "realmadrid",
+      "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
+      "players": ["ikercasillas"]
+    },
+    "mexico": {
+      "title": "Mexico",
+      "defaultNational": "mexico",
+      "logo": "https://i.pinimg.com/originals/b3/d1/e2/b3d1e2867ec0abdb5baf58c06c30715a.png",
+      "players": []
+    }
+  },
+  "clubs": {
+    "realmadrid": {
+      "title": "Real Madrid",
+      "logo": "https://upload.wikimedia.org/wikipedia/an/c/c7/Logo_Real_Madrid.svg",
+      "color1": "#FFFFFF",
+      "color2": "#D8BD75"
+    }
+  },
+  "nationalTeams": {
+    "spain": {
+      "title": "Spain",
+      "logo": "spain.jpg",
+      "color1": "red",
+      "color2": "blue"
+    }
+  },
+  "players": {
+    "ikercasillas": {
+      "name": "Iker Casillas",
+      "image": "https://www.realmadrid.com/cs/Satellite?blobcol=urldata&blobheader=image%2Fjpeg&blobkey=id&blobtable=MungoBlobs&blobwhere=1203341486666&ssbinary=true",
+      "number": 1,
+      "clubs": ["realmadrid", "porto"],
+      "nationalTeam": "spain"
+    }
+  }
+}
