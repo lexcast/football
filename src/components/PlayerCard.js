@@ -74,10 +74,14 @@ const PlayerCard = ({ player, grid, clubs }) => {
             "px-2 py-1 cursor-pointer transition-all " +
             (selectedTeam === player.nationalTeam
               ? ""
-              : "filter-grayscale hover:filter-none opacity-50 hover:opacity-100")
+              : "filter-grayscale hover:filter-none opacity-25 hover:opacity-100")
           }
         >
-          <img src={national.logo} alt={national.title} className="h-6" />
+          <img
+            src={national.logo}
+            alt={national.title}
+            className="h-6 mx-auto"
+          />
         </div>
         {player.clubs.map(c => {
           const club = clubs[c];
@@ -90,10 +94,10 @@ const PlayerCard = ({ player, grid, clubs }) => {
                 "px-2 py-1 cursor-pointer transition-all " +
                 (selectedTeam === c
                   ? ""
-                  : "filter-grayscale hover:filter-none opacity-50 hover:opacity-100")
+                  : "filter-grayscale hover:filter-none opacity-25 hover:opacity-100")
               }
             >
-              <img src={club.logo} alt={club.title} className="h-6" />
+              <img src={club.logo} alt={club.title} className="h-6 mx-auto" />
             </div>
           );
         })}
