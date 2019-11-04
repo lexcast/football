@@ -9,7 +9,8 @@
         "zinedinezidane",
         "ronaldo",
         "raul",
-        "luisfigo"
+        "luisfigo",
+        "davidbeckham"
       ]
     },
     "mexico": {
@@ -50,6 +51,14 @@
       "logo": "/images/logos/portugal.png",
       "color1": "#EB0528",
       "color2": "#006200",
+      "isNational": true
+    },
+    "england": {
+      "id": "england",
+      "title": "England",
+      "logo": "/images/logos/england.png",
+      "color1": "#FBFBFB",
+      "color2": "#0C1351",
       "isNational": true
     },
     "realmadrid": {
@@ -156,6 +165,27 @@
       "logo": "/images/logos/sporting.png",
       "color1": "#058331",
       "color2": "#FFFFFF"
+    },
+    "manchesterunited": {
+      "id": "manchesterunited",
+      "title": "Manchester United",
+      "logo": "/images/logos/manchesterunited.png",
+      "color1": "#FE0003",
+      "color2": "#FFFFFF"
+    },
+    "galaxy": {
+      "id": "galaxy",
+      "title": "Los Angeles Galaxy",
+      "logo": "/images/logos/galaxy.png",
+      "color1": "#FFFFFF",
+      "color2": "#000040"
+    },
+    "psg": {
+      "id": "psg",
+      "title": "Paris Saint-Germain",
+      "logo": "/images/logos/psg.png",
+      "color1": "#000040",
+      "color2": "#E50002"
     }
   },
   "players": {
@@ -231,6 +261,20 @@
         "barcelona": "/images/players/luisfigo-barcelona.png",
         "realmadrid": "/images/players/luisfigo-realmadrid.png",
         "inter": "/images/players/luisfigo-inter.png"
+      }
+    },
+    "davidbeckham": {
+      "name": "David Beckham",
+      "number": 7,
+      "clubs": ["manchesterunited", "realmadrid", "galaxy", "milan", "psg"],
+      "nationalTeam": "england",
+      "images": {
+        "england": "/images/players/davidbeckham-england.png",
+        "manchesterunited": "/images/players/davidbeckham-manchesterunited.png",
+        "realmadrid": "/images/players/davidbeckham-realmadrid.png",
+        "galaxy": "/images/players/davidbeckham-galaxy.png",
+        "milan": "/images/players/davidbeckham-milan.png",
+        "psg": "/images/players/davidbeckham-psg.png"
       }
     }
   }
