@@ -4,7 +4,7 @@
       "title": "Real Madrid",
       "defaultTeam": "realmadrid",
       "logo": "/images/logos/realmadrid.png",
-      "players": ["ikercasillas", "zinedinezidane", "ronaldo"]
+      "players": ["ikercasillas", "zinedinezidane", "ronaldo", "raul"]
     },
     "mexico": {
       "title": "Mexico",
@@ -114,6 +114,27 @@
       "logo": "/images/logos/corinthians.png",
       "color1": "#FFFFFF",
       "color2": "#000000"
+    },
+    "schalke": {
+      "id": "schalke",
+      "title": "Schalke 04",
+      "logo": "/images/logos/schalke.png",
+      "color1": "#0000FF",
+      "color2": "#FFFFFF"
+    },
+    "alsadd": {
+      "id": "alsadd",
+      "title": "Al-Sadd",
+      "logo": "/images/logos/alsadd.png",
+      "color1": "#FFFFFF",
+      "color2": "#1A1A1A"
+    },
+    "cosmos": {
+      "id": "cosmos",
+      "title": "Cosmos",
+      "logo": "/images/logos/cosmos.png",
+      "color1": "#FFFFFF",
+      "color2": "#008800"
     }
   },
   "players": {
@@ -163,6 +184,19 @@
         "realmadrid": "/images/players/ronaldo-realmadrid.png",
         "milan": "/images/players/ronaldo-milan.png",
         "corinthians": "/images/players/ronaldo-corinthians.png"
+      }
+    },
+    "raul": {
+      "name": "Raúl",
+      "number": 7,
+      "clubs": ["realmadrid", "schalke", "alsadd", "cosmos"],
+      "nationalTeam": "spain",
+      "images": {
+        "spain": "/images/players/raul-spain.png",
+        "realmadrid": "/images/players/raul-realmadrid.png",
+        "schalke": "/images/players/raul-schalke.png",
+        "alsadd": "/images/players/raul-alsadd.png",
+        "cosmos": "/images/players/raul-cosmos.png"
       }
     }
   }
