@@ -141,25 +141,25 @@
     "ikercasillas": {
       "name": "Iker Casillas",
       "number": 1,
-      "clubs": ["porto", "realmadrid"],
+      "clubs": ["realmadrid", "porto"],
       "nationalTeam": "spain",
       "images": {
         "spain": "/images/players/ikercasillas-spain.png",
-        "porto": "/images/players/ikercasillas-porto.png",
-        "realmadrid": "/images/players/ikercasillas-realmadrid.png"
+        "realmadrid": "/images/players/ikercasillas-realmadrid.png",
+        "porto": "/images/players/ikercasillas-porto.png"
       }
     },
     "zinedinezidane": {
       "name": "Zinedine Zidane",
       "number": 10,
-      "clubs": ["realmadrid", "juventus", "bordeaux", "cannes"],
+      "clubs": ["cannes", "bordeaux", "juventus", "realmadrid"],
       "nationalTeam": "france",
       "images": {
         "france": "/images/players/zinedinezidane-france.png",
-        "realmadrid": "/images/players/zinedinezidane-realmadrid.png",
-        "juventus": "/images/players/zinedinezidane-juventus.png",
+        "cannes": "/images/players/zinedinezidane-cannes.png",
         "bordeaux": "/images/players/zinedinezidane-bordeaux.png",
-        "cannes": "/images/players/zinedinezidane-cannes.png"
+        "juventus": "/images/players/zinedinezidane-juventus.png",
+        "realmadrid": "/images/players/zinedinezidane-realmadrid.png"
       }
     },
     "ronaldo": {
