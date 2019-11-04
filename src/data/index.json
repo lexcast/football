@@ -4,7 +4,13 @@
       "title": "Real Madrid",
       "defaultTeam": "realmadrid",
       "logo": "/images/logos/realmadrid.png",
-      "players": ["ikercasillas", "zinedinezidane", "ronaldo", "raul"]
+      "players": [
+        "ikercasillas",
+        "zinedinezidane",
+        "ronaldo",
+        "raul",
+        "luisfigo"
+      ]
     },
     "mexico": {
       "title": "Mexico",
@@ -36,6 +42,14 @@
       "logo": "/images/logos/brazil.png",
       "color1": "#FBE103",
       "color2": "#003CFF",
+      "isNational": true
+    },
+    "portugal": {
+      "id": "portugal",
+      "title": "Portugal",
+      "logo": "/images/logos/portugal.png",
+      "color1": "#EB0528",
+      "color2": "#006200",
       "isNational": true
     },
     "realmadrid": {
@@ -135,6 +149,13 @@
       "logo": "/images/logos/cosmos.png",
       "color1": "#FFFFFF",
       "color2": "#008800"
+    },
+    "sporting": {
+      "id": "sporting",
+      "title": "Sporting",
+      "logo": "/images/logos/sporting.png",
+      "color1": "#058331",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -197,6 +218,19 @@
         "schalke": "/images/players/raul-schalke.png",
         "alsadd": "/images/players/raul-alsadd.png",
         "cosmos": "/images/players/raul-cosmos.png"
+      }
+    },
+    "luisfigo": {
+      "name": "Luís Figo",
+      "number": 7,
+      "clubs": ["sporting", "barcelona", "realmadrid", "inter"],
+      "nationalTeam": "portugal",
+      "images": {
+        "portugal": "/images/players/luisfigo-portugal.png",
+        "sporting": "/images/players/luisfigo-sporting.png",
+        "barcelona": "/images/players/luisfigo-barcelona.png",
+        "realmadrid": "/images/players/luisfigo-realmadrid.png",
+        "inter": "/images/players/luisfigo-inter.png"
       }
     }
   }
