@@ -7,7 +7,7 @@ const App = () => {
 
   return (
     <div className="w-screen h-screen bg-gray-200">
-      <div className="px-10 py-5">
+      <div className="px-6 py-5">
         {Object.keys(data.grids).map(key => {
           const g = data.grids[key];
           return (
@@ -27,7 +27,7 @@ const App = () => {
           );
         })}
       </div>
-      <div className="px-10 py-5 flex">
+      <div className="px-6 py-5 flex flex-wrap">
         {data.grids[grid].players.map(key => {
           return (
             <PlayerCard

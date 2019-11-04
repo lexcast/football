@@ -8,7 +8,7 @@ const PlayerCard = ({ player, grid, clubs }) => {
   const national = clubs[player.nationalTeam];
 
   return (
-    <div className="flex">
+    <div className="flex mb-3">
       <Tilt
         className="w-48 h-64"
         options={{
@@ -80,7 +80,7 @@ const PlayerCard = ({ player, grid, clubs }) => {
           <img
             src={national.logo}
             alt={national.title}
-            className="h-6 mx-auto"
+            className="w-5 mx-auto"
           />
         </div>
         {player.clubs.map(c => {
@@ -97,7 +97,7 @@ const PlayerCard = ({ player, grid, clubs }) => {
                   : "filter-grayscale hover:filter-none opacity-25 hover:opacity-100")
               }
             >
-              <img src={club.logo} alt={club.title} className="h-6 mx-auto" />
+              <img src={club.logo} alt={club.title} className="w-5 mx-auto" />
             </div>
           );
         })}
