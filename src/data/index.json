@@ -4,7 +4,7 @@
       "title": "Real Madrid",
       "defaultTeam": "realmadrid",
       "logo": "/images/logos/realmadrid.png",
-      "players": ["ikercasillas", "zinedinezidane"]
+      "players": ["ikercasillas", "zinedinezidane", "ronaldo"]
     },
     "mexico": {
       "title": "Mexico",
@@ -28,6 +28,14 @@
       "logo": "/images/logos/france.png",
       "color1": "#112855",
       "color2": "#FFFFFF",
+      "isNational": true
+    },
+    "brazil": {
+      "id": "brazil",
+      "title": "Brazil",
+      "logo": "/images/logos/brazil.png",
+      "color1": "#FBE103",
+      "color2": "#003CFF",
       "isNational": true
     },
     "realmadrid": {
@@ -64,6 +72,48 @@
       "logo": "/images/logos/juventus.png",
       "color1": "#000000",
       "color2": "#FFFFFF"
+    },
+    "cruzeiro": {
+      "id": "cruzeiro",
+      "title": "Cruzeiro",
+      "logo": "/images/logos/cruzeiro.png",
+      "color1": "#0000FF",
+      "color2": "#FFFFFF"
+    },
+    "psv": {
+      "id": "psv",
+      "title": "PSV",
+      "logo": "/images/logos/psv.png",
+      "color1": "#FE0003",
+      "color2": "#FFFFFF"
+    },
+    "barcelona": {
+      "id": "barcelona",
+      "title": "Barcelona",
+      "logo": "/images/logos/barcelona.png",
+      "color1": "#000080",
+      "color2": "#C10001"
+    },
+    "inter": {
+      "id": "inter",
+      "title": "Inter",
+      "logo": "/images/logos/inter.png",
+      "color1": "#005FBF",
+      "color2": "#000000"
+    },
+    "milan": {
+      "id": "milan",
+      "title": "Milan",
+      "logo": "/images/logos/milan.png",
+      "color1": "#AD0020",
+      "color2": "#100001"
+    },
+    "corinthians": {
+      "id": "corinthians",
+      "title": "Corinthians",
+      "logo": "/images/logos/corinthians.png",
+      "color1": "#FFFFFF",
+      "color2": "#000000"
     }
   },
   "players": {
@@ -89,6 +139,30 @@
         "juventus": "/images/players/zinedinezidane-juventus.png",
         "bordeaux": "/images/players/zinedinezidane-bordeaux.png",
         "cannes": "/images/players/zinedinezidane-cannes.png"
+      }
+    },
+    "ronaldo": {
+      "name": "Ronaldo",
+      "number": 9,
+      "clubs": [
+        "cruzeiro",
+        "psv",
+        "barcelona",
+        "inter",
+        "realmadrid",
+        "milan",
+        "corinthians"
+      ],
+      "nationalTeam": "brazil",
+      "images": {
+        "brazil": "/images/players/ronaldo-brazil.png",
+        "cruzeiro": "/images/players/ronaldo-cruzeiro.png",
+        "psv": "/images/players/ronaldo-psv.png",
+        "barcelona": "/images/players/ronaldo-barcelona.png",
+        "inter": "/images/players/ronaldo-inter.png",
+        "realmadrid": "/images/players/ronaldo-realmadrid.png",
+        "milan": "/images/players/ronaldo-milan.png",
+        "corinthians": "/images/players/ronaldo-corinthians.png"
       }
     }
   }
