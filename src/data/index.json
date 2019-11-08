@@ -1,7 +1,7 @@
 {
   "grids": {
-    "realmadrid": {
-      "title": "Real Madrid",
+    "realmadrid-galacticos": {
+      "title": "Galacticos",
       "defaultTeam": "realmadrid",
       "logo": "/images/logos/realmadrid.png",
       "players": [
@@ -17,10 +17,18 @@
       "title": "Mexico",
       "defaultTeam": "mexico",
       "logo": "/images/logos/mexico.png",
-      "players": []
+      "players": ["jorgecampos"]
     }
   },
   "clubs": {
+    "mexico": {
+      "id": "mexico",
+      "title": "Mexico",
+      "logo": "/images/logos/mexico.png",
+      "color1": "#1F5745",
+      "color2": "#FFFFFF",
+      "isNational": true
+    },
     "spain": {
       "id": "spain",
       "title": "Spain",
@@ -186,6 +194,48 @@
       "logo": "/images/logos/psg.png",
       "color1": "#000040",
       "color2": "#E50002"
+    },
+    "unam": {
+      "id": "unam",
+      "title": "UNAM",
+      "logo": "/images/logos/unam.png",
+      "color1": "#FFFFFF",
+      "color2": "#000040"
+    },
+    "atlante": {
+      "id": "atlante",
+      "title": "Atlante",
+      "logo": "/images/logos/atlante.png",
+      "color1": "#01267E",
+      "color2": "#E00002"
+    },
+    "chicago": {
+      "id": "chicago",
+      "title": "Chicago",
+      "logo": "/images/logos/chicago.png",
+      "color1": "#FE0003",
+      "color2": "#FFFFFF"
+    },
+    "cruzazul": {
+      "id": "cruzazul",
+      "title": "Cruz Azul",
+      "logo": "/images/logos/cruzazul.png",
+      "color1": "#001CBB",
+      "color2": "#FFFFFF"
+    },
+    "uanl": {
+      "id": "uanl",
+      "title": "UANL",
+      "logo": "/images/logos/uanl.png",
+      "color1": "#FED01A",
+      "color2": "#0000E9"
+    },
+    "puebla": {
+      "id": "puebla",
+      "title": "Puebla",
+      "logo": "/images/logos/puebla.png",
+      "color1": "#FFFFFF",
+      "color2": "#0032A8"
     }
   },
   "players": {
@@ -275,6 +325,30 @@
         "galaxy": "/images/players/davidbeckham-galaxy.png",
         "milan": "/images/players/davidbeckham-milan.png",
         "psg": "/images/players/davidbeckham-psg.png"
+      }
+    },
+    "jorgecampos": {
+      "name": "Jorge Campos",
+      "number": 1,
+      "clubs": [
+        "unam",
+        "atlante",
+        "galaxy",
+        "cruzazul",
+        "chicago",
+        "uanl",
+        "puebla"
+      ],
+      "nationalTeam": "mexico",
+      "images": {
+        "mexico": "/images/players/jorgecampos-mexico.png",
+        "unam": "/images/players/jorgecampos-unam.png",
+        "atlante": "/images/players/jorgecampos-atlante.png",
+        "galaxy": "/images/players/jorgecampos-galaxy.png",
+        "cruzazul": "/images/players/jorgecampos-cruzazul.png",
+        "chicago": "/images/players/jorgecampos-chicago.png",
+        "uanl": "/images/players/jorgecampos-uanl.png",
+        "puebla": "/images/players/jorgecampos-puebla.png"
       }
     }
   }
