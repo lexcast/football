@@ -18,7 +18,7 @@ const PlayerCard = ({ player, grid, clubs }) => {
       : clubs[selectedTeam];
 
   return (
-    <div className="flex mb-3">
+    <div className="flex mb-3 h-64">
       <Tilt
         className="w-48 h-64"
         options={{
@@ -77,7 +77,7 @@ const PlayerCard = ({ player, grid, clubs }) => {
           </div>
         </Card>
       </Tilt>
-      <div>
+      <div className="overflow-x-hidden h-full scrollbar-hide">
         <div
           onClick={() => setSelectedTeam(player.nationalTeam)}
           className={
