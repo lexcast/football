@@ -271,6 +271,20 @@
       "logo": "/images/logos/celaya.png",
       "color1": "#FFFFFF",
       "color2": "#00009A"
+    },
+    "sandiego": {
+      "id": "sandiego",
+      "title": "San Diego Sockers",
+      "logo": "/images/logos/sandiego.png",
+      "color1": "#FFFF04",
+      "color2": "#0000FF"
+    },
+    "dallas": {
+      "id": "dallas",
+      "title": "Dallas",
+      "logo": "/images/logos/dallas.png",
+      "color1": "#C31C22",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -391,24 +405,28 @@
       "number": 9,
       "clubs": [
         "unam",
+        "sandiego",
         "atleticomadrid",
         "realmadrid",
         "america",
         "rayovallecano",
         "atlante",
         "linz",
+        "dallas",
         "celaya"
       ],
       "nationalTeam": "mexico",
       "images": {
         "mexico": "/images/players/hugosanchez-mexico.png",
         "unam": "/images/players/hugosanchez-unam.png",
+        "sandiego": "/images/players/hugosanchez-sandiego.png",
         "atleticomadrid": "/images/players/hugosanchez-atleticomadrid.png",
         "realmadrid": "/images/players/hugosanchez-realmadrid.png",
         "america": "/images/players/hugosanchez-america.png",
         "rayovallecano": "/images/players/hugosanchez-rayovallecano.png",
         "atlante": "/images/players/hugosanchez-atlante.png",
         "linz": "/images/players/hugosanchez-linz.png",
+        "dallas": "/images/players/hugosanchez-dallas.png",
         "celaya": "/images/players/hugosanchez-celaya.png"
       }
     }
