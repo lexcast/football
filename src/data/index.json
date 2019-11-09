@@ -304,12 +304,14 @@
       "number": 10,
       "clubs": ["cannes", "bordeaux", "juventus", "realmadrid"],
       "nationalTeam": "france",
+      "retired": true,
       "images": {
         "france": "/images/players/zinedinezidane-france.png",
         "cannes": "/images/players/zinedinezidane-cannes.png",
         "bordeaux": "/images/players/zinedinezidane-bordeaux.png",
         "juventus": "/images/players/zinedinezidane-juventus.png",
-        "realmadrid": "/images/players/zinedinezidane-realmadrid.png"
+        "realmadrid": "/images/players/zinedinezidane-realmadrid.png",
+        "retired": "/images/players/zinedinezidane-retired.png"
       }
     },
     "ronaldo": {
