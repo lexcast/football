@@ -1,11 +1,21 @@
 import React, { useState } from "react";
 import Tilt from "./Tilt";
 import Card from "./Card";
+import tie from "assets/tie.svg";
 
 const PlayerCard = ({ player, grid, clubs }) => {
   const [selectedTeam, setSelectedTeam] = useState(grid.defaultTeam);
-  const team = clubs[selectedTeam];
   const national = clubs[player.nationalTeam];
+  const team =
+    selectedTeam === "RETIRED"
+      ? {
+          id: "retired",
+          title: "Retired",
+          color1: "#FFFFFF",
+          color2: "#1A202C",
+          logo: national.logo
+        }
+      : clubs[selectedTeam];
 
   return (
     <div className="flex mb-3">
@@ -101,6 +111,19 @@ const PlayerCard = ({ player, grid, clubs }) => {
             </div>
           );
         })}
+        {player.retired && (
+          <div
+            onClick={() => setSelectedTeam("RETIRED")}
+            className={
+              "px-2 py-1 cursor-pointer transition-all " +
+              (selectedTeam === "RETIRED"
+                ? ""
+                : "filter-grayscale hover:filter-none opacity-25 hover:opacity-100")
+            }
+          >
+            <img src={tie} alt="Retired" className="w-5 mx-auto" />
+          </div>
+        )}
       </div>
     </div>
   );
