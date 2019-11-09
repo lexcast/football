@@ -17,7 +17,7 @@
       "title": "Mexico",
       "defaultTeam": "mexico",
       "logo": "/images/logos/mexico.png",
-      "players": ["jorgecampos"]
+      "players": ["jorgecampos", "hugosanchez"]
     }
   },
   "clubs": {
@@ -236,6 +236,41 @@
       "logo": "/images/logos/puebla.png",
       "color1": "#FFFFFF",
       "color2": "#0032A8"
+    },
+    "linz": {
+      "id": "linz",
+      "title": "Linz",
+      "logo": "/images/logos/linz.png",
+      "color1": "#FFFFFF",
+      "color2": "#000000"
+    },
+    "atleticomadrid": {
+      "id": "atleticomadrid",
+      "title": "Atletico de Madrid",
+      "logo": "/images/logos/atleticomadrid.png",
+      "color1": "#FE0003",
+      "color2": "#FFFFFF"
+    },
+    "america": {
+      "id": "america",
+      "title": "America",
+      "logo": "/images/logos/america.png",
+      "color1": "#FFFF91",
+      "color2": "#000E50"
+    },
+    "rayovallecano": {
+      "id": "rayovallecano",
+      "title": "Rayo Vallecano",
+      "logo": "/images/logos/rayovallecano.png",
+      "color1": "#FFFFFF",
+      "color2": "#F90004"
+    },
+    "celaya": {
+      "id": "celaya",
+      "title": "Celaya",
+      "logo": "/images/logos/celaya.png",
+      "color1": "#FFFFFF",
+      "color2": "#00009A"
     }
   },
   "players": {
@@ -349,6 +384,32 @@
         "chicago": "/images/players/jorgecampos-chicago.png",
         "uanl": "/images/players/jorgecampos-uanl.png",
         "puebla": "/images/players/jorgecampos-puebla.png"
+      }
+    },
+    "hugosanchez": {
+      "name": "Hugo Sanchez",
+      "number": 9,
+      "clubs": [
+        "unam",
+        "atleticomadrid",
+        "realmadrid",
+        "america",
+        "rayovallecano",
+        "atlante",
+        "linz",
+        "celaya"
+      ],
+      "nationalTeam": "mexico",
+      "images": {
+        "mexico": "/images/players/hugosanchez-mexico.png",
+        "unam": "/images/players/hugosanchez-unam.png",
+        "atleticomadrid": "/images/players/hugosanchez-atleticomadrid.png",
+        "realmadrid": "/images/players/hugosanchez-realmadrid.png",
+        "america": "/images/players/hugosanchez-america.png",
+        "rayovallecano": "/images/players/hugosanchez-rayovallecano.png",
+        "atlante": "/images/players/hugosanchez-atlante.png",
+        "linz": "/images/players/hugosanchez-linz.png",
+        "celaya": "/images/players/hugosanchez-celaya.png"
       }
     }
   }
