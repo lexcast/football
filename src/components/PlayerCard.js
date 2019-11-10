@@ -39,7 +39,7 @@ const PlayerCard = ({ id, player, grid, clubs }) => {
             }}
           >
             <p
-              className="font-sans font-extrabold text-4xl pt-1 pl-3"
+              className="font-bungee tracking-tighter font-black text-4xl pt-1 pl-3"
               style={{ color: team.color2 }}
             >
               {player.number}
@@ -56,7 +56,7 @@ const PlayerCard = ({ id, player, grid, clubs }) => {
               style={{ color: team.color1 }}
             >
               <p
-                className="font-mono font-bold text-xl uppercase"
+                className="font-bungee font-semibold tracking-tighter text-xl"
                 style={{ backgroundColor: team.color2 }}
               >
                 {player.name}

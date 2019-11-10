@@ -1,5 +1,11 @@
 module.exports = {
-  theme: {},
+  theme: {
+    extend: {
+      fontFamily: {
+        bungee: ["Bungee Hairline", "cursive"]
+      }
+    }
+  },
   variants: {},
   plugins: []
 };
