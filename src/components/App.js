@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import PlayerCard from "./PlayerCard";
 import data from "data";
+import { getLogo } from "utils/image";
 
 const App = () => {
   const [grid, setGrid] = useState(Object.keys(data.grids)[0]);
@@ -21,7 +22,11 @@ const App = () => {
                   : "border-transparent hover:bg-gray-400")
               }
             >
-              <img src={g.logo} alt={g.title} className="h-6 mr-1" />
+              <img
+                src={getLogo(g.defaultTeam)}
+                alt={g.title}
+                className="h-6 mr-1"
+              />
               {g.title}
             </div>
           );
@@ -32,6 +37,7 @@ const App = () => {
           return (
             <PlayerCard
               key={key}
+              id={key}
               player={data.players[key]}
               grid={data.grids[grid]}
               clubs={data.clubs}

@@ -2,8 +2,9 @@ import React, { useState } from "react";
 import Tilt from "./Tilt";
 import Card from "./Card";
 import tie from "assets/tie.svg";
+import { getLogo, getPlayer } from "utils/image";
 
-const PlayerCard = ({ player, grid, clubs }) => {
+const PlayerCard = ({ id, player, grid, clubs }) => {
   const [selectedTeam, setSelectedTeam] = useState(grid.defaultTeam);
   const national = clubs[player.nationalTeam];
   const team =
@@ -12,8 +13,7 @@ const PlayerCard = ({ player, grid, clubs }) => {
           id: "retired",
           title: "Retired",
           color1: "#FFFFFF",
-          color2: "#1A202C",
-          logo: national.logo
+          color2: "#1A202C"
         }
       : clubs[selectedTeam];
 
@@ -35,7 +35,7 @@ const PlayerCard = ({ player, grid, clubs }) => {
             className="w-full h-full bg-cover bg-no-repeat bg-center select-none transition-all"
             style={{
               backgroundColor: team.color1,
-              backgroundImage: `url("${player.images[team.id]}")`
+              backgroundImage: `url("${getPlayer(id, team.id)}")`
             }}
           >
             <p
@@ -46,7 +46,7 @@ const PlayerCard = ({ player, grid, clubs }) => {
             </p>
             <div className="w-4/5 h-full -mt-2">
               <img
-                src={team.logo}
+                src={getLogo(team.id)}
                 alt={team.title}
                 className="logo-filter opacity-25 -ml-10"
               />
@@ -73,11 +73,18 @@ const PlayerCard = ({ player, grid, clubs }) => {
             `
             }}
           >
-            <img src={team.logo} alt={team.title} className="h-10 m-auto" />
+            <img
+              src={getLogo(team.id === "retired" ? national.id : team.id)}
+              alt={team.title}
+              className={
+                "h-10 m-auto " +
+                (team.id !== "retired" ? "" : "filter-grayscale")
+              }
+            />
           </div>
         </Card>
       </Tilt>
-      <div className="overflow-x-hidden h-full scrollbar-hide">
+      <div className="overflow-x-hidden h-full scrollbar-hide transition-all">
         <div
           onClick={() => setSelectedTeam(player.nationalTeam)}
           className={
@@ -88,7 +95,7 @@ const PlayerCard = ({ player, grid, clubs }) => {
           }
         >
           <img
-            src={national.logo}
+            src={getLogo(national.id)}
             alt={national.title}
             className="w-5 mx-auto"
           />
@@ -107,7 +114,11 @@ const PlayerCard = ({ player, grid, clubs }) => {
                   : "filter-grayscale hover:filter-none opacity-25 hover:opacity-100")
               }
             >
-              <img src={club.logo} alt={club.title} className="w-5 mx-auto" />
+              <img
+                src={getLogo(club.id)}
+                alt={club.title}
+                className="w-5 mx-auto"
+              />
             </div>
           );
         })}

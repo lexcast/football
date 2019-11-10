@@ -3,7 +3,6 @@
     "realmadrid-galacticos": {
       "title": "Galacticos",
       "defaultTeam": "realmadrid",
-      "logo": "/images/logos/realmadrid.png",
       "players": [
         "ikercasillas",
         "zinedinezidane",
@@ -16,7 +15,6 @@
     "mexico": {
       "title": "Mexico",
       "defaultTeam": "mexico",
-      "logo": "/images/logos/mexico.png",
       "players": ["jorgecampos", "hugosanchez"]
     }
   },
@@ -24,7 +22,6 @@
     "mexico": {
       "id": "mexico",
       "title": "Mexico",
-      "logo": "/images/logos/mexico.png",
       "color1": "#1F5745",
       "color2": "#FFFFFF",
       "isNational": true
@@ -32,7 +29,6 @@
     "spain": {
       "id": "spain",
       "title": "Spain",
-      "logo": "/images/logos/spain.png",
       "color1": "#FE0003",
       "color2": "#001870",
       "isNational": true
@@ -40,7 +36,6 @@
     "france": {
       "id": "france",
       "title": "France",
-      "logo": "/images/logos/france.png",
       "color1": "#112855",
       "color2": "#FFFFFF",
       "isNational": true
@@ -48,7 +43,6 @@
     "brazil": {
       "id": "brazil",
       "title": "Brazil",
-      "logo": "/images/logos/brazil.png",
       "color1": "#FBE103",
       "color2": "#003CFF",
       "isNational": true
@@ -56,7 +50,6 @@
     "portugal": {
       "id": "portugal",
       "title": "Portugal",
-      "logo": "/images/logos/portugal.png",
       "color1": "#EB0528",
       "color2": "#006200",
       "isNational": true
@@ -64,7 +57,6 @@
     "england": {
       "id": "england",
       "title": "England",
-      "logo": "/images/logos/england.png",
       "color1": "#FBFBFB",
       "color2": "#0C1351",
       "isNational": true
@@ -72,217 +64,186 @@
     "realmadrid": {
       "id": "realmadrid",
       "title": "Real Madrid",
-      "logo": "/images/logos/realmadrid.png",
       "color1": "#FFFFFF",
       "color2": "#D8BD75"
     },
     "porto": {
       "id": "porto",
       "title": "Porto",
-      "logo": "/images/logos/porto.png",
       "color1": "#003C71",
       "color2": "#FFFFFF"
     },
     "cannes": {
       "id": "cannes",
       "title": "Cannes",
-      "logo": "/images/logos/cannes.png",
       "color1": "#FFFFFF",
       "color2": "#FE0003"
     },
     "bordeaux": {
       "id": "bordeaux",
       "title": "Bordeaux",
-      "logo": "/images/logos/bordeaux.png",
       "color1": "#000630",
       "color2": "#FFFFFF"
     },
     "juventus": {
       "id": "juventus",
       "title": "Juventus",
-      "logo": "/images/logos/juventus.png",
       "color1": "#000000",
       "color2": "#FFFFFF"
     },
     "cruzeiro": {
       "id": "cruzeiro",
       "title": "Cruzeiro",
-      "logo": "/images/logos/cruzeiro.png",
       "color1": "#0000FF",
       "color2": "#FFFFFF"
     },
     "psv": {
       "id": "psv",
       "title": "PSV",
-      "logo": "/images/logos/psv.png",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
     },
     "barcelona": {
       "id": "barcelona",
       "title": "Barcelona",
-      "logo": "/images/logos/barcelona.png",
       "color1": "#000080",
       "color2": "#C10001"
     },
     "inter": {
       "id": "inter",
       "title": "Inter",
-      "logo": "/images/logos/inter.png",
       "color1": "#005FBF",
       "color2": "#000000"
     },
     "milan": {
       "id": "milan",
       "title": "Milan",
-      "logo": "/images/logos/milan.png",
       "color1": "#AD0020",
       "color2": "#100001"
     },
     "corinthians": {
       "id": "corinthians",
       "title": "Corinthians",
-      "logo": "/images/logos/corinthians.png",
       "color1": "#FFFFFF",
       "color2": "#000000"
     },
     "schalke": {
       "id": "schalke",
       "title": "Schalke 04",
-      "logo": "/images/logos/schalke.png",
       "color1": "#0000FF",
       "color2": "#FFFFFF"
     },
     "alsadd": {
       "id": "alsadd",
       "title": "Al-Sadd",
-      "logo": "/images/logos/alsadd.png",
       "color1": "#FFFFFF",
       "color2": "#1A1A1A"
     },
     "cosmos": {
       "id": "cosmos",
       "title": "Cosmos",
-      "logo": "/images/logos/cosmos.png",
       "color1": "#FFFFFF",
       "color2": "#008800"
     },
     "sporting": {
       "id": "sporting",
       "title": "Sporting",
-      "logo": "/images/logos/sporting.png",
       "color1": "#058331",
       "color2": "#FFFFFF"
     },
     "manchesterunited": {
       "id": "manchesterunited",
       "title": "Manchester United",
-      "logo": "/images/logos/manchesterunited.png",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
     },
     "galaxy": {
       "id": "galaxy",
       "title": "Los Angeles Galaxy",
-      "logo": "/images/logos/galaxy.png",
       "color1": "#FFFFFF",
       "color2": "#000040"
     },
     "psg": {
       "id": "psg",
       "title": "Paris Saint-Germain",
-      "logo": "/images/logos/psg.png",
       "color1": "#000040",
       "color2": "#E50002"
     },
     "unam": {
       "id": "unam",
       "title": "UNAM",
-      "logo": "/images/logos/unam.png",
       "color1": "#FFFFFF",
       "color2": "#000040"
     },
     "atlante": {
       "id": "atlante",
       "title": "Atlante",
-      "logo": "/images/logos/atlante.png",
       "color1": "#01267E",
       "color2": "#E00002"
     },
     "chicago": {
       "id": "chicago",
       "title": "Chicago",
-      "logo": "/images/logos/chicago.png",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
     },
     "cruzazul": {
       "id": "cruzazul",
       "title": "Cruz Azul",
-      "logo": "/images/logos/cruzazul.png",
       "color1": "#001CBB",
       "color2": "#FFFFFF"
     },
     "uanl": {
       "id": "uanl",
       "title": "UANL",
-      "logo": "/images/logos/uanl.png",
       "color1": "#FED01A",
       "color2": "#0000E9"
     },
     "puebla": {
       "id": "puebla",
       "title": "Puebla",
-      "logo": "/images/logos/puebla.png",
       "color1": "#FFFFFF",
       "color2": "#0032A8"
     },
     "linz": {
       "id": "linz",
       "title": "Linz",
-      "logo": "/images/logos/linz.png",
       "color1": "#FFFFFF",
       "color2": "#000000"
     },
     "atleticomadrid": {
       "id": "atleticomadrid",
       "title": "Atletico de Madrid",
-      "logo": "/images/logos/atleticomadrid.png",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
     },
     "america": {
       "id": "america",
       "title": "America",
-      "logo": "/images/logos/america.png",
       "color1": "#FFFF91",
       "color2": "#000E50"
     },
     "rayovallecano": {
       "id": "rayovallecano",
       "title": "Rayo Vallecano",
-      "logo": "/images/logos/rayovallecano.png",
       "color1": "#FFFFFF",
       "color2": "#F90004"
     },
     "celaya": {
       "id": "celaya",
       "title": "Celaya",
-      "logo": "/images/logos/celaya.png",
       "color1": "#FFFFFF",
       "color2": "#00009A"
     },
     "sandiego": {
       "id": "sandiego",
       "title": "San Diego Sockers",
-      "logo": "/images/logos/sandiego.png",
       "color1": "#FFFF04",
       "color2": "#0000FF"
     },
     "dallas": {
       "id": "dallas",
       "title": "Dallas",
-      "logo": "/images/logos/dallas.png",
       "color1": "#C31C22",
       "color2": "#FFFFFF"
     }
@@ -292,27 +253,14 @@
       "name": "Iker Casillas",
       "number": 1,
       "clubs": ["realmadrid", "porto"],
-      "nationalTeam": "spain",
-      "images": {
-        "spain": "/images/players/ikercasillas-spain.png",
-        "realmadrid": "/images/players/ikercasillas-realmadrid.png",
-        "porto": "/images/players/ikercasillas-porto.png"
-      }
+      "nationalTeam": "spain"
     },
     "zinedinezidane": {
       "name": "Zinedine Zidane",
       "number": 10,
       "clubs": ["cannes", "bordeaux", "juventus", "realmadrid"],
       "nationalTeam": "france",
-      "retired": true,
-      "images": {
-        "france": "/images/players/zinedinezidane-france.png",
-        "cannes": "/images/players/zinedinezidane-cannes.png",
-        "bordeaux": "/images/players/zinedinezidane-bordeaux.png",
-        "juventus": "/images/players/zinedinezidane-juventus.png",
-        "realmadrid": "/images/players/zinedinezidane-realmadrid.png",
-        "retired": "/images/players/zinedinezidane-retired.png"
-      }
+      "retired": true
     },
     "ronaldo": {
       "name": "Ronaldo",
@@ -326,57 +274,25 @@
         "milan",
         "corinthians"
       ],
-      "nationalTeam": "brazil",
-      "images": {
-        "brazil": "/images/players/ronaldo-brazil.png",
-        "cruzeiro": "/images/players/ronaldo-cruzeiro.png",
-        "psv": "/images/players/ronaldo-psv.png",
-        "barcelona": "/images/players/ronaldo-barcelona.png",
-        "inter": "/images/players/ronaldo-inter.png",
-        "realmadrid": "/images/players/ronaldo-realmadrid.png",
-        "milan": "/images/players/ronaldo-milan.png",
-        "corinthians": "/images/players/ronaldo-corinthians.png"
-      }
+      "nationalTeam": "brazil"
     },
     "raul": {
       "name": "Raúl",
       "number": 7,
       "clubs": ["realmadrid", "schalke", "alsadd", "cosmos"],
-      "nationalTeam": "spain",
-      "images": {
-        "spain": "/images/players/raul-spain.png",
-        "realmadrid": "/images/players/raul-realmadrid.png",
-        "schalke": "/images/players/raul-schalke.png",
-        "alsadd": "/images/players/raul-alsadd.png",
-        "cosmos": "/images/players/raul-cosmos.png"
-      }
+      "nationalTeam": "spain"
     },
     "luisfigo": {
       "name": "Luís Figo",
       "number": 7,
       "clubs": ["sporting", "barcelona", "realmadrid", "inter"],
-      "nationalTeam": "portugal",
-      "images": {
-        "portugal": "/images/players/luisfigo-portugal.png",
-        "sporting": "/images/players/luisfigo-sporting.png",
-        "barcelona": "/images/players/luisfigo-barcelona.png",
-        "realmadrid": "/images/players/luisfigo-realmadrid.png",
-        "inter": "/images/players/luisfigo-inter.png"
-      }
+      "nationalTeam": "portugal"
     },
     "davidbeckham": {
       "name": "David Beckham",
       "number": 7,
       "clubs": ["manchesterunited", "realmadrid", "galaxy", "milan", "psg"],
-      "nationalTeam": "england",
-      "images": {
-        "england": "/images/players/davidbeckham-england.png",
-        "manchesterunited": "/images/players/davidbeckham-manchesterunited.png",
-        "realmadrid": "/images/players/davidbeckham-realmadrid.png",
-        "galaxy": "/images/players/davidbeckham-galaxy.png",
-        "milan": "/images/players/davidbeckham-milan.png",
-        "psg": "/images/players/davidbeckham-psg.png"
-      }
+      "nationalTeam": "england"
     },
     "jorgecampos": {
       "name": "Jorge Campos",
@@ -390,17 +306,7 @@
         "uanl",
         "puebla"
       ],
-      "nationalTeam": "mexico",
-      "images": {
-        "mexico": "/images/players/jorgecampos-mexico.png",
-        "unam": "/images/players/jorgecampos-unam.png",
-        "atlante": "/images/players/jorgecampos-atlante.png",
-        "galaxy": "/images/players/jorgecampos-galaxy.png",
-        "cruzazul": "/images/players/jorgecampos-cruzazul.png",
-        "chicago": "/images/players/jorgecampos-chicago.png",
-        "uanl": "/images/players/jorgecampos-uanl.png",
-        "puebla": "/images/players/jorgecampos-puebla.png"
-      }
+      "nationalTeam": "mexico"
     },
     "hugosanchez": {
       "name": "Hugo Sanchez",
@@ -417,20 +323,7 @@
         "dallas",
         "celaya"
       ],
-      "nationalTeam": "mexico",
-      "images": {
-        "mexico": "/images/players/hugosanchez-mexico.png",
-        "unam": "/images/players/hugosanchez-unam.png",
-        "sandiego": "/images/players/hugosanchez-sandiego.png",
-        "atleticomadrid": "/images/players/hugosanchez-atleticomadrid.png",
-        "realmadrid": "/images/players/hugosanchez-realmadrid.png",
-        "america": "/images/players/hugosanchez-america.png",
-        "rayovallecano": "/images/players/hugosanchez-rayovallecano.png",
-        "atlante": "/images/players/hugosanchez-atlante.png",
-        "linz": "/images/players/hugosanchez-linz.png",
-        "dallas": "/images/players/hugosanchez-dallas.png",
-        "celaya": "/images/players/hugosanchez-celaya.png"
-      }
+      "nationalTeam": "mexico"
     }
   }
 }
