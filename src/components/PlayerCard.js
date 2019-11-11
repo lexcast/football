@@ -88,7 +88,7 @@ const PlayerCard = ({ id, player, grid, clubs }) => {
         <div
           onClick={() => setSelectedTeam(player.nationalTeam)}
           className={
-            "px-2 py-1 cursor-pointer transition-all " +
+            "w-8 h-8 p-1 flex items-center cursor-pointer transition-all " +
             (selectedTeam === player.nationalTeam
               ? ""
               : "filter-grayscale hover:filter-none opacity-25 hover:opacity-100")
@@ -97,7 +97,7 @@ const PlayerCard = ({ id, player, grid, clubs }) => {
           <img
             src={getLogo(national.id)}
             alt={national.title}
-            className="w-5 mx-auto"
+            className="max-w-full max-h-full mx-auto"
           />
         </div>
         {player.clubs.map(c => {
@@ -108,7 +108,7 @@ const PlayerCard = ({ id, player, grid, clubs }) => {
               key={c}
               onClick={() => setSelectedTeam(c)}
               className={
-                "px-2 py-1 cursor-pointer transition-all " +
+                "w-8 h-8 p-1 flex items-center cursor-pointer transition-all " +
                 (selectedTeam === c
                   ? ""
                   : "filter-grayscale hover:filter-none opacity-25 hover:opacity-100")
@@ -117,7 +117,7 @@ const PlayerCard = ({ id, player, grid, clubs }) => {
               <img
                 src={getLogo(club.id)}
                 alt={club.title}
-                className="w-5 mx-auto"
+                className="max-w-full max-h-full mx-auto"
               />
             </div>
           );
@@ -126,13 +126,17 @@ const PlayerCard = ({ id, player, grid, clubs }) => {
           <div
             onClick={() => setSelectedTeam("RETIRED")}
             className={
-              "px-2 py-1 cursor-pointer transition-all " +
+              "w-8 h-8 p-1 flex items-center cursor-pointer transition-all " +
               (selectedTeam === "RETIRED"
                 ? ""
                 : "filter-grayscale hover:filter-none opacity-25 hover:opacity-100")
             }
           >
-            <img src={tie} alt="Retired" className="w-5 mx-auto" />
+            <img
+              src={tie}
+              alt="Retired"
+              className="max-w-full max-h-full mx-auto"
+            />
           </div>
         )}
       </div>

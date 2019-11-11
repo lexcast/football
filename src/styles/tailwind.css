@@ -2,11 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.backface-hidden,
-.backface-hidden * {
-  backface-visibility: hidden;
-}
-
 .rotate-y-half {
   transform: rotateY(180deg);
 }
@@ -51,4 +46,8 @@
 }
 .scrollbar-hide::-webkit-scrollbar {
   display: none;
+}
+
+.js-tilt-glare {
+  @apply rounded-lg;
 }
