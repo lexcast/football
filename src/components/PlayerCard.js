@@ -20,7 +20,7 @@ const PlayerCard = ({ id, player, grid, clubs }) => {
   return (
     <div className="flex mb-3 h-64">
       <Tilt
-        className="w-48 h-64"
+        className="w-48 h-64 z-10"
         options={{
           max: 10,
           speed: 300,
@@ -56,7 +56,7 @@ const PlayerCard = ({ id, player, grid, clubs }) => {
               />
             </div>
             {player.signature && (
-              <div className="w-20 h-20 flex items-center absolute right-0 bottom-0 pb-12">
+              <div className="w-20 h-20 flex items-center justify-center absolute right-0 bottom-0 pb-12">
                 <img
                   src={getSignature(id)}
                   alt={id}
