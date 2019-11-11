@@ -15,7 +15,7 @@
     "mexico": {
       "title": "Mexico",
       "defaultTeam": "mexico",
-      "players": ["jorgecampos", "hugosanchez"]
+      "players": ["jorgecampos", "hugosanchez", "cuauhtemocblanco"]
     }
   },
   "clubs": {
@@ -246,6 +246,48 @@
       "title": "Dallas",
       "color1": "#C31C22",
       "color2": "#FFFFFF"
+    },
+    "necaxa": {
+      "id": "necaxa",
+      "title": "Necaxa",
+      "color1": "#FFFFFF",
+      "color2": "#FE0003"
+    },
+    "realvalladolid": {
+      "id": "realvalladolid",
+      "title": "Real Valladolid",
+      "color1": "#FFFFFF",
+      "color2": "#3A006A"
+    },
+    "veracruz": {
+      "id": "veracruz",
+      "title": "Veracruz",
+      "color1": "#FE0003",
+      "color2": "#010101"
+    },
+    "santoslaguna": {
+      "id": "santoslaguna",
+      "title": "Santos Laguna",
+      "color1": "#14926D",
+      "color2": "#FFFFFF"
+    },
+    "irapuato": {
+      "id": "irapuato",
+      "title": "Irapuato",
+      "color1": "#D20002",
+      "color2": "#000040"
+    },
+    "dorados": {
+      "id": "dorados",
+      "title": "Dorados",
+      "color1": "#FFF6AD",
+      "color2": "#020202"
+    },
+    "buap": {
+      "id": "buap",
+      "title": "BUAP",
+      "color1": "#FFFFFF",
+      "color2": "#FE0003"
     }
   },
   "players": {
@@ -334,6 +376,25 @@
         "linz",
         "dallas",
         "celaya"
+      ],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": true
+    },
+    "cuauhtemocblanco": {
+      "name": "Cuauhtémoc Blanco",
+      "number": 10,
+      "clubs": [
+        "america",
+        "necaxa",
+        "realvalladolid",
+        "veracruz",
+        "chicago",
+        "santoslaguna",
+        "irapuato",
+        "dorados",
+        "buap",
+        "puebla"
       ],
       "nationalTeam": "mexico",
       "signature": true,
