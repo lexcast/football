@@ -55,6 +55,26 @@ const PlayerCard = ({ id, player, grid, clubs }) => {
                 className="logo-filter opacity-25 -ml-10"
               />
             </div>
+            <div
+              className="absolute bottom-0 pb-3"
+              style={{ color: team.color1 }}
+            >
+              <p
+                className="font-bungee font-semibold tracking-tighter text-xl"
+                style={{ backgroundColor: team.color2 }}
+              >
+                {player.name.split(" ").map((txt, i, arr) => {
+                  if (arr.length !== i + 1) {
+                    return (
+                      <span className="text-sm" key={i}>
+                        {txt}
+                      </span>
+                    );
+                  }
+                  return <span key={i}>{txt}</span>;
+                })}
+              </p>
+            </div>
             {player.signature && (
               <div className="w-20 h-20 flex items-center justify-center absolute right-0 bottom-0 pb-12">
                 <img
@@ -64,17 +84,6 @@ const PlayerCard = ({ id, player, grid, clubs }) => {
                 />
               </div>
             )}
-            <div
-              className="absolute bottom-0 pb-3"
-              style={{ color: team.color1 }}
-            >
-              <p
-                className="font-bungee font-semibold tracking-tighter text-xl"
-                style={{ backgroundColor: team.color2 }}
-              >
-                {player.name}
-              </p>
-            </div>
           </div>
           <div
             className="w-full h-full inline-flex items-center select-none transition-all"
