@@ -253,6 +253,7 @@
       "name": "Iker Casillas",
       "number": 1,
       "clubs": ["realmadrid", "porto"],
+      "signature": true,
       "nationalTeam": "spain"
     },
     "zinedinezidane": {
@@ -260,6 +261,7 @@
       "number": 10,
       "clubs": ["cannes", "bordeaux", "juventus", "realmadrid"],
       "nationalTeam": "france",
+      "signature": true,
       "retired": true
     },
     "ronaldo": {
@@ -275,6 +277,7 @@
         "corinthians"
       ],
       "nationalTeam": "brazil",
+      "signature": true,
       "retired": true
     },
     "raul": {
@@ -282,6 +285,7 @@
       "number": 7,
       "clubs": ["realmadrid", "schalke", "alsadd", "cosmos"],
       "nationalTeam": "spain",
+      "signature": true,
       "retired": true
     },
     "luisfigo": {
@@ -289,6 +293,7 @@
       "number": 7,
       "clubs": ["sporting", "barcelona", "realmadrid", "inter"],
       "nationalTeam": "portugal",
+      "signature": true,
       "retired": true
     },
     "davidbeckham": {
@@ -296,6 +301,7 @@
       "number": 7,
       "clubs": ["manchesterunited", "realmadrid", "galaxy", "milan", "psg"],
       "nationalTeam": "england",
+      "signature": true,
       "retired": true
     },
     "jorgecampos": {
@@ -311,6 +317,7 @@
         "puebla"
       ],
       "nationalTeam": "mexico",
+      "signature": true,
       "retired": true
     },
     "hugosanchez": {
@@ -329,6 +336,7 @@
         "celaya"
       ],
       "nationalTeam": "mexico",
+      "signature": true,
       "retired": true
     }
   }
