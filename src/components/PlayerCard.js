@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Tilt from "./Tilt";
 import Card from "./Card";
 import tie from "assets/tie.svg";
-import { getLogo, getPlayer } from "utils/image";
+import { getLogo, getPlayer, getSignature } from "utils/image";
 
 const PlayerCard = ({ id, player, grid, clubs }) => {
   const [selectedTeam, setSelectedTeam] = useState(grid.defaultTeam);
@@ -55,6 +55,15 @@ const PlayerCard = ({ id, player, grid, clubs }) => {
                 className="logo-filter opacity-25 -ml-10"
               />
             </div>
+            {player.signature && (
+              <div className="w-20 h-20 flex items-center absolute right-0 bottom-0 pb-12">
+                <img
+                  src={getSignature(id)}
+                  alt={id}
+                  className="signature-filter max-w-full max-h-full"
+                />
+              </div>
+            )}
             <div
               className="absolute bottom-0 pb-3"
               style={{ color: team.color1 }}

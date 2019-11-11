@@ -30,6 +30,11 @@
   filter: grayscale(100%) opacity(0.5);
 }
 
+.signature-filter {
+  filter: grayscale(100%) contrast(0) brightness(0) invert(0)
+    drop-shadow(2px 0px 2px black);
+}
+
 .filter-grayscale {
   filter: grayscale(100%);
 }
