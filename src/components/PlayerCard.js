@@ -46,8 +46,12 @@ const PlayerCard = ({ id, player, grid, clubs }) => {
             </p>
             <div className="w-4/5 h-full -mt-2">
               <img
-                src={getLogo(team.id)}
-                alt={team.title}
+                src={
+                  team.id === "retired"
+                    ? getLogo(national.id)
+                    : getLogo(team.id)
+                }
+                alt={team.id === "retired" ? national.title : team.title}
                 className="logo-filter opacity-25 -ml-10"
               />
             </div>
@@ -74,8 +78,10 @@ const PlayerCard = ({ id, player, grid, clubs }) => {
             }}
           >
             <img
-              src={getLogo(team.id === "retired" ? national.id : team.id)}
-              alt={team.title}
+              src={
+                team.id === "retired" ? getLogo(national.id) : getLogo(team.id)
+              }
+              alt={team.id === "retired" ? national.title : team.title}
               className={
                 "h-10 m-auto " +
                 (team.id !== "retired" ? "" : "filter-grayscale")
@@ -128,8 +134,8 @@ const PlayerCard = ({ id, player, grid, clubs }) => {
             className={
               "w-8 h-8 p-1 flex items-center cursor-pointer transition-all " +
               (selectedTeam === "RETIRED"
-                ? ""
-                : "filter-grayscale hover:filter-none opacity-25 hover:opacity-100")
+                ? "opacity-75"
+                : "filter-grayscale hover:filter-none opacity-25 hover:opacity-75")
             }
           >
             <img
