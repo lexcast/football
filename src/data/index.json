@@ -274,25 +274,29 @@
         "milan",
         "corinthians"
       ],
-      "nationalTeam": "brazil"
+      "nationalTeam": "brazil",
+      "retired": true
     },
     "raul": {
       "name": "Raúl",
       "number": 7,
       "clubs": ["realmadrid", "schalke", "alsadd", "cosmos"],
-      "nationalTeam": "spain"
+      "nationalTeam": "spain",
+      "retired": true
     },
     "luisfigo": {
       "name": "Luís Figo",
       "number": 7,
       "clubs": ["sporting", "barcelona", "realmadrid", "inter"],
-      "nationalTeam": "portugal"
+      "nationalTeam": "portugal",
+      "retired": true
     },
     "davidbeckham": {
       "name": "David Beckham",
       "number": 7,
       "clubs": ["manchesterunited", "realmadrid", "galaxy", "milan", "psg"],
-      "nationalTeam": "england"
+      "nationalTeam": "england",
+      "retired": true
     },
     "jorgecampos": {
       "name": "Jorge Campos",
@@ -306,7 +310,8 @@
         "uanl",
         "puebla"
       ],
-      "nationalTeam": "mexico"
+      "nationalTeam": "mexico",
+      "retired": true
     },
     "hugosanchez": {
       "name": "Hugo Sanchez",
@@ -323,7 +328,8 @@
         "dallas",
         "celaya"
       ],
-      "nationalTeam": "mexico"
+      "nationalTeam": "mexico",
+      "retired": true
     }
   }
 }
