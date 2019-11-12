@@ -15,7 +15,12 @@
     "mexico": {
       "title": "Mexico",
       "defaultTeam": "mexico",
-      "players": ["jorgecampos", "hugosanchez", "cuauhtemocblanco"]
+      "players": [
+        "jorgecampos",
+        "hugosanchez",
+        "cuauhtemocblanco",
+        "rafaelmarquez"
+      ]
     }
   },
   "clubs": {
@@ -288,6 +293,36 @@
       "title": "BUAP",
       "color1": "#FFFFFF",
       "color2": "#FE0003"
+    },
+    "atlas": {
+      "id": "atlas",
+      "title": "Atlas",
+      "color1": "#C20002",
+      "color2": "#010101"
+    },
+    "monaco": {
+      "id": "monaco",
+      "title": "Monaco",
+      "color1": "#FE0003",
+      "color2": "#FFFFFF"
+    },
+    "newyork": {
+      "id": "newyork",
+      "title": "New York Red Bulls",
+      "color1": "#C9C7C8",
+      "color2": "#CC2832"
+    },
+    "leon": {
+      "id": "leon",
+      "title": "León",
+      "color1": "#077A54",
+      "color2": "#FFFFFF"
+    },
+    "hellasverona": {
+      "id": "hellasverona",
+      "title": "Hellas Verona",
+      "color1": "#121FB4",
+      "color2": "#F5E840"
     }
   },
   "players": {
@@ -395,6 +430,21 @@
         "dorados",
         "buap",
         "puebla"
+      ],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": true
+    },
+    "rafaelmarquez": {
+      "name": "Rafael Márquez",
+      "number": 4,
+      "clubs": [
+        "atlas",
+        "monaco",
+        "barcelona",
+        "newyork",
+        "leon",
+        "hellasverona"
       ],
       "nationalTeam": "mexico",
       "signature": true,
