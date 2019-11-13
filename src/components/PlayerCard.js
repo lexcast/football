@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import Tilt from "./Tilt";
 import Card from "./Card";
 import tie from "assets/tie.svg";
@@ -6,6 +6,11 @@ import { getLogo, getPlayer, getSignature } from "utils/image";
 
 const PlayerCard = ({ id, player, teamId, clubs }) => {
   const [selectedTeam, setSelectedTeam] = useState(teamId);
+
+  useEffect(() => {
+    setSelectedTeam(teamId);
+  }, [teamId]);
+
   const national = clubs[player.nationalTeam];
   const team =
     selectedTeam === "RETIRED"
