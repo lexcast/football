@@ -299,6 +299,12 @@
       "title": "Hellas Verona",
       "color1": "#121FB4",
       "color2": "#F5E840"
+    },
+    "santos": {
+      "id": "santos",
+      "title": "Santos",
+      "color1": "#FFFFFF",
+      "color2": "#000000"
     }
   },
   "players": {
@@ -423,6 +429,14 @@
         "hellasverona"
       ],
       "nationalTeam": "mexico",
+      "signature": true,
+      "retired": true
+    },
+    "pele": {
+      "name": "Pelé",
+      "number": 10,
+      "clubs": ["santos", "cosmos"],
+      "nationalTeam": "brazil",
       "signature": true,
       "retired": true
     }
