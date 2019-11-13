@@ -1,28 +1,4 @@
 {
-  "grids": {
-    "realmadrid-galacticos": {
-      "title": "Galacticos",
-      "defaultTeam": "realmadrid",
-      "players": [
-        "ikercasillas",
-        "zinedinezidane",
-        "ronaldo",
-        "raul",
-        "luisfigo",
-        "davidbeckham"
-      ]
-    },
-    "mexico": {
-      "title": "Mexico",
-      "defaultTeam": "mexico",
-      "players": [
-        "jorgecampos",
-        "hugosanchez",
-        "cuauhtemocblanco",
-        "rafaelmarquez"
-      ]
-    }
-  },
   "clubs": {
     "mexico": {
       "id": "mexico",

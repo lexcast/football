@@ -4,8 +4,8 @@ import Card from "./Card";
 import tie from "assets/tie.svg";
 import { getLogo, getPlayer, getSignature } from "utils/image";
 
-const PlayerCard = ({ id, player, grid, clubs }) => {
-  const [selectedTeam, setSelectedTeam] = useState(grid.defaultTeam);
+const PlayerCard = ({ id, player, teamId, clubs }) => {
+  const [selectedTeam, setSelectedTeam] = useState(teamId);
   const national = clubs[player.nationalTeam];
   const team =
     selectedTeam === "RETIRED"
