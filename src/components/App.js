@@ -7,7 +7,7 @@ const App = () => {
   const [team, setTeam] = useState(Object.keys(data.clubs)[0]);
 
   return (
-    <div className="w-screen h-screen bg-gray-200">
+    <div className="w-full h-full">
       <div className="px-6 py-5 flex flex-wrap">
         {Object.keys(data.clubs).map(key => {
           const t = data.clubs[key];
