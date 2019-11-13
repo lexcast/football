@@ -42,6 +42,13 @@
       "color2": "#0C1351",
       "isNational": true
     },
+    "argentina": {
+      "id": "argentina",
+      "title": "Argentina",
+      "color1": "#FFFFFF",
+      "color2": "#CAE6FF",
+      "isNational": true
+    },
     "realmadrid": {
       "id": "realmadrid",
       "title": "Real Madrid",
@@ -305,6 +312,36 @@
       "title": "Santos",
       "color1": "#FFFFFF",
       "color2": "#000000"
+    },
+    "argentinos": {
+      "id": "argentinos",
+      "title": "Argentinos Juniors",
+      "color1": "#FE0003",
+      "color2": "#FFFFFF"
+    },
+    "bocajuniors": {
+      "id": "bocajuniors",
+      "title": "Boca Juniors",
+      "color1": "#000050",
+      "color2": "#FFCC03"
+    },
+    "napoli": {
+      "id": "napoli",
+      "title": "Napoli",
+      "color1": "#0676D2",
+      "color2": "#FFFFFF"
+    },
+    "sevilla": {
+      "id": "sevilla",
+      "title": "Sevilla",
+      "color1": "#FFFFFF",
+      "color2": "#FE0003"
+    },
+    "newells": {
+      "id": "newells",
+      "title": "Newell's Old Boys",
+      "color1": "#000000",
+      "color2": "#FE0404"
     }
   },
   "players": {
@@ -437,6 +474,21 @@
       "number": 10,
       "clubs": ["santos", "cosmos"],
       "nationalTeam": "brazil",
+      "signature": true,
+      "retired": true
+    },
+    "diegomaradona": {
+      "name": "Diego Maradona",
+      "number": 10,
+      "clubs": [
+        "argentinos",
+        "bocajuniors",
+        "barcelona",
+        "napoli",
+        "sevilla",
+        "newells"
+      ],
+      "nationalTeam": "argentina",
       "signature": true,
       "retired": true
     }
