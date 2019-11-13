@@ -94,8 +94,8 @@ const PlayerCard = ({ id, player, teamId, clubs }) => {
             className="w-full h-full inline-flex items-center select-none transition-all"
             style={{
               backgroundImage: `
-              repeating-linear-gradient(45deg, rgba(255, 255, 255, 0.7) 0, rgba(255, 255, 255, 0.7) 20px, transparent 20px, transparent 32px, rgba(255, 255, 255, 0.7) 32px, rgba(255, 255, 255, 0.7) 44px, transparent 44px, transparent 56px, rgba(255, 255, 255, 0.7) 56px, rgba(255, 255, 255, 0.7) 68px, transparent 68px, transparent 80px, rgba(255, 255, 255, 0.7) 0),
-              repeating-linear-gradient(-45deg, rgba(255, 255, 255, 0.7) 0, rgba(255, 255, 255, 0.7) 20px, transparent 20px, transparent 32px, rgba(255, 255, 255, 0.7) 32px, rgba(255, 255, 255, 0.7) 44px, transparent 44px, transparent 56px, rgba(255, 255, 255, 0.7) 56px, rgba(255, 255, 255, 0.7) 68px, transparent 68px, transparent 80px, rgba(255, 255, 255, 0.7) 0),
+              repeating-linear-gradient(-45deg, ${team.color2}80 0, ${team.color2}80 20px, transparent 20px, transparent 32px, ${team.color2}80 32px, ${team.color2}80 44px, transparent 44px, transparent 56px, ${team.color2}80 56px, ${team.color2}80 68px, transparent 68px, transparent 80px, ${team.color2}80 0),
+              repeating-linear-gradient(45deg, ${team.color1} 0, ${team.color1} 20px, transparent 20px, transparent 32px, ${team.color1} 32px, ${team.color1} 44px, transparent 44px, transparent 56px, ${team.color1} 56px, ${team.color1} 68px, transparent 68px, transparent 80px, ${team.color1} 0),
               linear-gradient(to bottom right, ${team.color1}, ${team.color2})
             `
             }}
