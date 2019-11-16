@@ -49,6 +49,13 @@
       "color2": "#CAE6FF",
       "isNational": true
     },
+    "germany": {
+      "id": "germany",
+      "title": "Germany",
+      "color1": "#FFFFFF",
+      "color2": "#000000",
+      "isNational": true
+    },
     "realmadrid": {
       "id": "realmadrid",
       "title": "Real Madrid",
@@ -342,6 +349,18 @@
       "title": "Newell's Old Boys",
       "color1": "#000000",
       "color2": "#FE0404"
+    },
+    "karlsruher": {
+      "id": "karlsruher",
+      "title": "Karlsruher",
+      "color1": "#0003EA",
+      "color2": "#FFFFFF"
+    },
+    "bayernmunich": {
+      "id": "bayernmunich",
+      "title": "Bayern Munich",
+      "color1": "#D50002",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -507,6 +526,14 @@
       "nationalTeam": "portugal",
       "signature": true,
       "retired": false
+    },
+    "oliverkahn": {
+      "name": "Oliver Kahn",
+      "number": 1,
+      "clubs": ["karlsruher", "bayernmunich"],
+      "nationalTeam": "germany",
+      "signature": true,
+      "retired": true
     }
   }
 }
