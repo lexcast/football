@@ -398,6 +398,12 @@
       "title": "Real Zaragoza",
       "color1": "#FFFFFF",
       "color2": "#0000FF"
+    },
+    "hamburger": {
+      "id": "hamburger",
+      "title": "Hamburger",
+      "color1": "#FFFFFF",
+      "color2": "#FE0003"
     }
   },
   "players": {
@@ -595,6 +601,14 @@
       "nationalTeam": "portugal",
       "signature": true,
       "retired": false
+    },
+    "franzbeckenbauer": {
+      "name": "Franz Beckenbauer",
+      "number": 5,
+      "clubs": ["bayernmunich", "cosmos", "hamburger"],
+      "nationalTeam": "germany",
+      "signature": true,
+      "retired": true
     }
   }
 }
