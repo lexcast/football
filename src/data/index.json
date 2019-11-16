@@ -56,6 +56,13 @@
       "color2": "#000000",
       "isNational": true
     },
+    "italy": {
+      "id": "italy",
+      "title": "Italy",
+      "color1": "#113ED7",
+      "color2": "#FFFFFF",
+      "isNational": true
+    },
     "realmadrid": {
       "id": "realmadrid",
       "title": "Real Madrid",
@@ -361,6 +368,12 @@
       "title": "Bayern Munich",
       "color1": "#D50002",
       "color2": "#FFFFFF"
+    },
+    "parma": {
+      "id": "parma",
+      "title": "Parma",
+      "color1": "#FFFFFF",
+      "color2": "#000000"
     }
   },
   "players": {
@@ -534,6 +547,14 @@
       "nationalTeam": "germany",
       "signature": true,
       "retired": true
+    },
+    "gianluigibuffon": {
+      "name": "Gianluigi Buffon",
+      "number": 1,
+      "clubs": ["parma", "juventus", "psg"],
+      "nationalTeam": "italy",
+      "signature": true,
+      "retired": false
     }
   }
 }
