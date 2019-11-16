@@ -491,6 +491,14 @@
       "nationalTeam": "argentina",
       "signature": true,
       "retired": true
+    },
+    "lionelmessi": {
+      "name": "Lionel Messi",
+      "number": 10,
+      "clubs": ["barcelona"],
+      "nationalTeam": "argentina",
+      "signature": true,
+      "retired": false
     }
   }
 }
