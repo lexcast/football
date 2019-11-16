@@ -374,6 +374,30 @@
       "title": "Parma",
       "color1": "#FFFFFF",
       "color2": "#000000"
+    },
+    "rioave": {
+      "id": "rioave",
+      "title": "Rio Ave",
+      "color1": "#007600",
+      "color2": "#FFFFFF"
+    },
+    "benfica": {
+      "id": "benfica",
+      "title": "Benfica",
+      "color1": "#FE0003",
+      "color2": "#FFFFFF"
+    },
+    "nacional": {
+      "id": "nacional",
+      "title": "Nacional",
+      "color1": "#FFFFFF",
+      "color2": "#000000"
+    },
+    "realzaragoza": {
+      "id": "realzaragoza",
+      "title": "Real Zaragoza",
+      "color1": "#FFFFFF",
+      "color2": "#0000FF"
     }
   },
   "players": {
@@ -553,6 +577,22 @@
       "number": 1,
       "clubs": ["parma", "juventus", "psg"],
       "nationalTeam": "italy",
+      "signature": true,
+      "retired": false
+    },
+    "fabiocoentrao": {
+      "name": "Fábio Coentrão",
+      "number": 5,
+      "clubs": [
+        "rioave",
+        "benfica",
+        "nacional",
+        "realzaragoza",
+        "realmadrid",
+        "monaco",
+        "sporting"
+      ],
+      "nationalTeam": "portugal",
       "signature": true,
       "retired": false
     }
