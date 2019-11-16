@@ -4,7 +4,7 @@ import data from "data";
 import { getLogo } from "utils/image";
 
 const App = () => {
-  const [team, setTeam] = useState(Object.keys(data.clubs)[0]);
+  const [team, setTeam] = useState();
 
   return (
     <div className="w-full h-full">
@@ -14,7 +14,7 @@ const App = () => {
           return (
             <div
               key={key}
-              onClick={() => setTeam(key)}
+              onClick={() => setTeam(team === key ? null : key)}
               className={
                 "inline-flex items-center ml-1 mb-1 w-12 h-12 p-2 border-2 cursor-pointer rounded-full bg-gray-300 " +
                 (team === key
@@ -31,11 +31,14 @@ const App = () => {
           );
         })}
       </div>
-      <div className="px-6 py-5 flex flex-wrap">
+      <div className="px-6 py-5 flex flex-wrap justify-center">
         {Object.keys(data.players).map(key => {
           const player = data.players[key];
 
-          if (!(player.clubs.includes(team) || player.nationalTeam === team)) {
+          if (
+            team &&
+            !(player.clubs.includes(team) || player.nationalTeam === team)
+          ) {
             return null;
           }
 
@@ -44,7 +47,7 @@ const App = () => {
               key={key}
               id={key}
               player={data.players[key]}
-              teamId={team}
+              teamId={team || player.nationalTeam}
               clubs={data.clubs}
             />
           );
