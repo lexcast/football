@@ -499,6 +499,14 @@
       "nationalTeam": "argentina",
       "signature": true,
       "retired": false
+    },
+    "cristianoronaldo": {
+      "name": "Cristiano Ronaldo",
+      "number": 7,
+      "clubs": ["sporting", "manchesterunited", "realmadrid", "juventus"],
+      "nationalTeam": "portugal",
+      "signature": true,
+      "retired": false
     }
   }
 }
