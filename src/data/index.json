@@ -73,408 +73,476 @@
     "realmadrid": {
       "id": "realmadrid",
       "title": "Real Madrid",
+      "country": "spain",
       "color1": "#FFFFFF",
       "color2": "#D8BD75"
     },
     "porto": {
       "id": "porto",
       "title": "Porto",
+      "country": "portugal",
       "color1": "#003C71",
       "color2": "#FFFFFF"
     },
     "cannes": {
       "id": "cannes",
       "title": "Cannes",
+      "country": "france",
       "color1": "#FFFFFF",
       "color2": "#FE0003"
     },
     "bordeaux": {
       "id": "bordeaux",
       "title": "Bordeaux",
+      "country": "france",
       "color1": "#000630",
       "color2": "#FFFFFF"
     },
     "juventus": {
       "id": "juventus",
       "title": "Juventus",
+      "country": "italy",
       "color1": "#000000",
       "color2": "#FFFFFF"
     },
     "cruzeiro": {
       "id": "cruzeiro",
       "title": "Cruzeiro",
+      "country": "brazil",
       "color1": "#0000FF",
       "color2": "#FFFFFF"
     },
     "psv": {
       "id": "psv",
       "title": "PSV",
+      "country": "netherlands",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
     },
     "barcelona": {
       "id": "barcelona",
       "title": "Barcelona",
+      "country": "spain",
       "color1": "#000080",
       "color2": "#C10001"
     },
     "inter": {
       "id": "inter",
       "title": "Inter",
+      "country": "italy",
       "color1": "#005FBF",
       "color2": "#000000"
     },
     "milan": {
       "id": "milan",
       "title": "Milan",
+      "country": "italy",
       "color1": "#AD0020",
       "color2": "#100001"
     },
     "corinthians": {
       "id": "corinthians",
       "title": "Corinthians",
+      "country": "brazil",
       "color1": "#FFFFFF",
       "color2": "#000000"
     },
     "schalke": {
       "id": "schalke",
       "title": "Schalke 04",
+      "country": "germany",
       "color1": "#0000FF",
       "color2": "#FFFFFF"
     },
     "alsadd": {
       "id": "alsadd",
       "title": "Al-Sadd",
+      "country": "qatar",
       "color1": "#FFFFFF",
       "color2": "#1A1A1A"
     },
     "cosmos": {
       "id": "cosmos",
       "title": "Cosmos",
+      "country": "unitedstates",
       "color1": "#FFFFFF",
       "color2": "#008800"
     },
     "sporting": {
       "id": "sporting",
       "title": "Sporting",
+      "country": "portugal",
       "color1": "#058331",
       "color2": "#FFFFFF"
     },
     "manchesterunited": {
       "id": "manchesterunited",
       "title": "Manchester United",
+      "country": "england",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
     },
     "galaxy": {
       "id": "galaxy",
       "title": "Los Angeles Galaxy",
+      "country": "unitedstates",
       "color1": "#FFFFFF",
       "color2": "#000040"
     },
     "psg": {
       "id": "psg",
       "title": "Paris Saint-Germain",
+      "country": "france",
       "color1": "#000040",
       "color2": "#E50002"
     },
     "unam": {
       "id": "unam",
       "title": "UNAM",
+      "country": "mexico",
       "color1": "#FFFFFF",
       "color2": "#000040"
     },
     "atlante": {
       "id": "atlante",
       "title": "Atlante",
+      "country": "mexico",
       "color1": "#01267E",
       "color2": "#E00002"
     },
     "chicago": {
       "id": "chicago",
       "title": "Chicago",
+      "country": "unitedstates",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
     },
     "cruzazul": {
       "id": "cruzazul",
       "title": "Cruz Azul",
+      "country": "mexico",
       "color1": "#001CBB",
       "color2": "#FFFFFF"
     },
     "uanl": {
       "id": "uanl",
       "title": "UANL",
+      "country": "mexico",
       "color1": "#FED01A",
       "color2": "#0000E9"
     },
     "puebla": {
       "id": "puebla",
       "title": "Puebla",
+      "country": "mexico",
       "color1": "#FFFFFF",
       "color2": "#0032A8"
     },
     "linz": {
       "id": "linz",
       "title": "Linz",
+      "country": "austria",
       "color1": "#FFFFFF",
       "color2": "#000000"
     },
     "atleticomadrid": {
       "id": "atleticomadrid",
       "title": "Atletico de Madrid",
+      "country": "spain",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
     },
     "america": {
       "id": "america",
       "title": "America",
+      "country": "mexico",
       "color1": "#FFFF91",
       "color2": "#000E50"
     },
     "rayovallecano": {
       "id": "rayovallecano",
       "title": "Rayo Vallecano",
+      "country": "spain",
       "color1": "#FFFFFF",
       "color2": "#F90004"
     },
     "celaya": {
       "id": "celaya",
       "title": "Celaya",
+      "country": "mexico",
       "color1": "#FFFFFF",
       "color2": "#00009A"
     },
     "sandiego": {
       "id": "sandiego",
       "title": "San Diego Sockers",
+      "country": "unitedstates",
       "color1": "#FFFF04",
       "color2": "#0000FF"
     },
     "dallas": {
       "id": "dallas",
       "title": "Dallas",
+      "country": "unitedstates",
       "color1": "#C31C22",
       "color2": "#FFFFFF"
     },
     "necaxa": {
       "id": "necaxa",
       "title": "Necaxa",
+      "country": "mexico",
       "color1": "#FFFFFF",
       "color2": "#FE0003"
     },
     "realvalladolid": {
       "id": "realvalladolid",
       "title": "Real Valladolid",
+      "country": "spain",
       "color1": "#FFFFFF",
       "color2": "#3A006A"
     },
     "veracruz": {
       "id": "veracruz",
       "title": "Veracruz",
+      "country": "mexico",
       "color1": "#FE0003",
       "color2": "#010101"
     },
     "santoslaguna": {
       "id": "santoslaguna",
       "title": "Santos Laguna",
+      "country": "mexico",
       "color1": "#14926D",
       "color2": "#FFFFFF"
     },
     "irapuato": {
       "id": "irapuato",
       "title": "Irapuato",
+      "country": "mexico",
       "color1": "#D20002",
       "color2": "#000040"
     },
     "dorados": {
       "id": "dorados",
       "title": "Dorados",
+      "country": "mexico",
       "color1": "#FFF6AD",
       "color2": "#020202"
     },
     "buap": {
       "id": "buap",
       "title": "BUAP",
+      "country": "mexico",
       "color1": "#FFFFFF",
       "color2": "#FE0003"
     },
     "atlas": {
       "id": "atlas",
       "title": "Atlas",
+      "country": "mexico",
       "color1": "#C20002",
       "color2": "#010101"
     },
     "monaco": {
       "id": "monaco",
       "title": "Monaco",
+      "country": "france",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
     },
     "newyork": {
       "id": "newyork",
       "title": "New York Red Bulls",
+      "country": "unitedstates",
       "color1": "#C9C7C8",
       "color2": "#CC2832"
     },
     "leon": {
       "id": "leon",
       "title": "León",
+      "country": "mexico",
       "color1": "#077A54",
       "color2": "#FFFFFF"
     },
     "hellasverona": {
       "id": "hellasverona",
       "title": "Hellas Verona",
+      "country": "italy",
       "color1": "#121FB4",
       "color2": "#F5E840"
     },
     "santos": {
       "id": "santos",
       "title": "Santos",
+      "country": "mexico",
       "color1": "#FFFFFF",
       "color2": "#000000"
     },
     "argentinos": {
       "id": "argentinos",
       "title": "Argentinos Juniors",
+      "country": "argentina",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
     },
     "bocajuniors": {
       "id": "bocajuniors",
       "title": "Boca Juniors",
+      "country": "argentina",
       "color1": "#000050",
       "color2": "#FFCC03"
     },
     "napoli": {
       "id": "napoli",
       "title": "Napoli",
+      "country": "italy",
       "color1": "#0676D2",
       "color2": "#FFFFFF"
     },
     "sevilla": {
       "id": "sevilla",
       "title": "Sevilla",
+      "country": "spain",
       "color1": "#FFFFFF",
       "color2": "#FE0003"
     },
     "newells": {
       "id": "newells",
       "title": "Newell's Old Boys",
+      "country": "argentina",
       "color1": "#000000",
       "color2": "#FE0404"
     },
     "karlsruher": {
       "id": "karlsruher",
       "title": "Karlsruher",
+      "country": "germany",
       "color1": "#0003EA",
       "color2": "#FFFFFF"
     },
     "bayernmunich": {
       "id": "bayernmunich",
       "title": "Bayern Munich",
+      "country": "germany",
       "color1": "#D50002",
       "color2": "#FFFFFF"
     },
     "parma": {
       "id": "parma",
       "title": "Parma",
+      "country": "italy",
       "color1": "#FFFFFF",
       "color2": "#000000"
     },
     "rioave": {
       "id": "rioave",
       "title": "Rio Ave",
+      "country": "portugal",
       "color1": "#007600",
       "color2": "#FFFFFF"
     },
     "benfica": {
       "id": "benfica",
       "title": "Benfica",
+      "country": "portugal",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
     },
     "nacional": {
       "id": "nacional",
       "title": "Nacional",
+      "country": "portugal",
       "color1": "#FFFFFF",
       "color2": "#000000"
     },
     "realzaragoza": {
       "id": "realzaragoza",
       "title": "Real Zaragoza",
+      "country": "spain",
       "color1": "#FFFFFF",
       "color2": "#0000FF"
     },
     "hamburger": {
       "id": "hamburger",
       "title": "Hamburger",
+      "country": "germany",
       "color1": "#FFFFFF",
       "color2": "#FE0003"
     },
     "ajax": {
       "id": "ajax",
       "title": "Ajax",
+      "country": "netherlands",
       "color1": "#FFFFFF",
       "color2": "#FE0003"
     },
     "aztecs": {
       "id": "aztecs",
       "title": "Los Angeles Aztecs",
+      "country": "unitedstates",
       "color1": "#FFFFFF",
       "color2": "#0000FF"
     },
     "diplomats": {
       "id": "diplomats",
       "title": "Washington Diplomats",
+      "country": "unitedstates",
       "color1": "#BC1234",
       "color2": "#FFFFFF"
     },
     "levante": {
       "id": "levante",
       "title": "Levante",
+      "country": "spain",
       "color1": "#0A1E97",
       "color2": "#DB0002"
     },
     "feyenoord": {
       "id": "feyenoord",
       "title": "Feyenoord",
+      "country": "netherlands",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
     },
     "nancy": {
       "id": "nancy",
       "title": "Nancy",
+      "country": "france",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
     },
     "saintetienne": {
       "id": "saintetienne",
       "title": "Saint-Étienne",
+      "country": "france",
       "color1": "#00812D",
       "color2": "#FFFFFF"
     },
     "uniaosaojoao": {
       "id": "uniaosaojoao",
       "title": "União São João",
+      "country": "brazil",
       "color1": "#FFFFFF",
       "color2": "#008000"
     },
     "palmeiras": {
       "id": "palmeiras",
       "title": "Saint-Étienne",
+      "country": "brazil",
       "color1": "#003e00",
       "color2": "#FFFFFF"
     },
     "fenerbahce": {
       "id": "fenerbahce",
       "title": "Fenerbahçe",
+      "country": "turkey",
       "color1": "#00005F",
       "color2": "#FFEE03"
     },
     "anzhi": {
       "id": "anzhi",
       "title": "Anzhí",
+      "country": "russia",
       "color1": "#FFFF04",
       "color2": "#008900"
     }
