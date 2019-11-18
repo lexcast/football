@@ -441,6 +441,18 @@
       "title": "Feyenoord",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
+    },
+    "nancy": {
+      "id": "nancy",
+      "title": "Nancy",
+      "color1": "#FE0003",
+      "color2": "#FFFFFF"
+    },
+    "saintetienne": {
+      "id": "saintetienne",
+      "title": "Saint-Étienne",
+      "color1": "#00812D",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -659,6 +671,14 @@
         "feyenoord"
       ],
       "nationalTeam": "netherlands",
+      "signature": true,
+      "retired": true
+    },
+    "michelplatini": {
+      "name": "Michel Platini",
+      "number": 10,
+      "clubs": ["nancy", "saintetienne", "juventus"],
+      "nationalTeam": "france",
       "signature": true,
       "retired": true
     }
