@@ -63,6 +63,13 @@
       "color2": "#FFFFFF",
       "isNational": true
     },
+    "netherlands": {
+      "id": "netherlands",
+      "title": "Neetherlands",
+      "color1": "#FE6003",
+      "color2": "#FFFFFF",
+      "isNational": true
+    },
     "realmadrid": {
       "id": "realmadrid",
       "title": "Real Madrid",
@@ -404,6 +411,36 @@
       "title": "Hamburger",
       "color1": "#FFFFFF",
       "color2": "#FE0003"
+    },
+    "ajax": {
+      "id": "ajax",
+      "title": "Ajax",
+      "color1": "#FFFFFF",
+      "color2": "#FE0003"
+    },
+    "aztecs": {
+      "id": "aztecs",
+      "title": "Los Angeles Aztecs",
+      "color1": "#FFFFFF",
+      "color2": "#0000FF"
+    },
+    "diplomats": {
+      "id": "diplomats",
+      "title": "Washington Diplomats",
+      "color1": "#BC1234",
+      "color2": "#FFFFFF"
+    },
+    "levante": {
+      "id": "levante",
+      "title": "Levante",
+      "color1": "#0A1E97",
+      "color2": "#DB0002"
+    },
+    "feyenoord": {
+      "id": "feyenoord",
+      "title": "Feyenoord",
+      "color1": "#FE0003",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -607,6 +644,21 @@
       "number": 5,
       "clubs": ["bayernmunich", "cosmos", "hamburger"],
       "nationalTeam": "germany",
+      "signature": true,
+      "retired": true
+    },
+    "johancruyff": {
+      "name": "Johan Cruyff",
+      "number": 14,
+      "clubs": [
+        "ajax",
+        "barcelona",
+        "aztecs",
+        "diplomats",
+        "levante",
+        "feyenoord"
+      ],
+      "nationalTeam": "netherlands",
       "signature": true,
       "retired": true
     }
