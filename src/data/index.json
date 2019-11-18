@@ -551,6 +551,7 @@
     "ikercasillas": {
       "name": "Iker Casillas",
       "number": 1,
+      "position": "GK",
       "clubs": ["realmadrid", "porto"],
       "signature": true,
       "nationalTeam": "spain"
@@ -558,6 +559,7 @@
     "zinedinezidane": {
       "name": "Zinedine Zidane",
       "number": 10,
+      "position": "AM",
       "clubs": ["cannes", "bordeaux", "juventus", "realmadrid"],
       "nationalTeam": "france",
       "signature": true,
@@ -566,6 +568,7 @@
     "ronaldo": {
       "name": "Ronaldo",
       "number": 9,
+      "position": "CF",
       "clubs": [
         "cruzeiro",
         "psv",
@@ -582,6 +585,7 @@
     "raul": {
       "name": "Raúl",
       "number": 7,
+      "position": "SS",
       "clubs": ["realmadrid", "schalke", "alsadd", "cosmos"],
       "nationalTeam": "spain",
       "signature": true,
@@ -590,6 +594,7 @@
     "luisfigo": {
       "name": "Luís Figo",
       "number": 7,
+      "position": "RW",
       "clubs": ["sporting", "barcelona", "realmadrid", "inter"],
       "nationalTeam": "portugal",
       "signature": true,
@@ -598,6 +603,7 @@
     "davidbeckham": {
       "name": "David Beckham",
       "number": 7,
+      "position": "RM",
       "clubs": ["manchesterunited", "realmadrid", "galaxy", "milan", "psg"],
       "nationalTeam": "england",
       "signature": true,
@@ -606,6 +612,7 @@
     "jorgecampos": {
       "name": "Jorge Campos",
       "number": 1,
+      "position": "GK",
       "clubs": [
         "unam",
         "atlante",
@@ -622,6 +629,7 @@
     "hugosanchez": {
       "name": "Hugo Sánchez",
       "number": 9,
+      "position": "CF",
       "clubs": [
         "unam",
         "sandiego",
@@ -641,6 +649,7 @@
     "cuauhtemocblanco": {
       "name": "Cuauhtémoc Blanco",
       "number": 10,
+      "position": "SS",
       "clubs": [
         "america",
         "necaxa",
@@ -660,6 +669,7 @@
     "rafaelmarquez": {
       "name": "Rafael Márquez",
       "number": 4,
+      "position": "CB",
       "clubs": [
         "atlas",
         "monaco",
@@ -675,6 +685,7 @@
     "pele": {
       "name": "Pelé",
       "number": 10,
+      "position": "CF",
       "clubs": ["santos", "cosmos"],
       "nationalTeam": "brazil",
       "signature": true,
@@ -683,6 +694,7 @@
     "diegomaradona": {
       "name": "Diego Maradona",
       "number": 10,
+      "position": "AM",
       "clubs": [
         "argentinos",
         "bocajuniors",
@@ -698,6 +710,7 @@
     "lionelmessi": {
       "name": "Lionel Messi",
       "number": 10,
+      "position": "RW",
       "clubs": ["barcelona"],
       "nationalTeam": "argentina",
       "signature": true,
@@ -706,6 +719,7 @@
     "cristianoronaldo": {
       "name": "Cristiano Ronaldo",
       "number": 7,
+      "position": "LW",
       "clubs": ["sporting", "manchesterunited", "realmadrid", "juventus"],
       "nationalTeam": "portugal",
       "signature": true,
@@ -714,6 +728,7 @@
     "oliverkahn": {
       "name": "Oliver Kahn",
       "number": 1,
+      "position": "GK",
       "clubs": ["karlsruher", "bayernmunich"],
       "nationalTeam": "germany",
       "signature": true,
@@ -722,6 +737,7 @@
     "gianluigibuffon": {
       "name": "Gianluigi Buffon",
       "number": 1,
+      "position": "GK",
       "clubs": ["parma", "juventus", "psg"],
       "nationalTeam": "italy",
       "signature": true,
@@ -730,6 +746,7 @@
     "fabiocoentrao": {
       "name": "Fábio Coentrão",
       "number": 5,
+      "position": "LB",
       "clubs": [
         "rioave",
         "benfica",
@@ -746,6 +763,7 @@
     "franzbeckenbauer": {
       "name": "Franz Beckenbauer",
       "number": 5,
+      "position": "SW",
       "clubs": ["bayernmunich", "cosmos", "hamburger"],
       "nationalTeam": "germany",
       "signature": true,
@@ -754,6 +772,7 @@
     "johancruyff": {
       "name": "Johan Cruyff",
       "number": 14,
+      "position": "AM",
       "clubs": [
         "ajax",
         "barcelona",
@@ -769,6 +788,7 @@
     "michelplatini": {
       "name": "Michel Platini",
       "number": 10,
+      "position": "AM",
       "clubs": ["nancy", "saintetienne", "juventus"],
       "nationalTeam": "france",
       "signature": true,
@@ -777,6 +797,7 @@
     "robertocarlos": {
       "name": "Roberto‏‏‎|Carlos",
       "number": 6,
+      "position": "LB",
       "clubs": [
         "uniaosaojoao",
         "palmeiras",

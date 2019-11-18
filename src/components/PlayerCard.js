@@ -48,6 +48,7 @@ const PlayerCard = ({ id, player, teamId, clubs }) => {
               style={{ color: team.color2 }}
             >
               {player.number}
+              <span className="text-base opacity-50">{player.position}</span>
             </p>
             <div className="w-4/5 h-full -mt-2">
               <img
