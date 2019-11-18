@@ -76,7 +76,7 @@ const PlayerCard = ({ id, player, teamId, clubs }) => {
                       </span>
                     );
                   }
-                  return <span key={i}>{txt}</span>;
+                  return <span key={i}>{txt.replace("|", " ")}</span>;
                 })}
               </p>
             </div>
