@@ -453,6 +453,30 @@
       "title": "Saint-Étienne",
       "color1": "#00812D",
       "color2": "#FFFFFF"
+    },
+    "uniaosaojoao": {
+      "id": "uniaosaojoao",
+      "title": "União São João",
+      "color1": "#FFFFFF",
+      "color2": "#008000"
+    },
+    "palmeiras": {
+      "id": "palmeiras",
+      "title": "Saint-Étienne",
+      "color1": "#003e00",
+      "color2": "#FFFFFF"
+    },
+    "fenerbahce": {
+      "id": "fenerbahce",
+      "title": "Fenerbahçe",
+      "color1": "#00005F",
+      "color2": "#FFEE03"
+    },
+    "anzhi": {
+      "id": "anzhi",
+      "title": "Anzhí",
+      "color1": "#FFFF04",
+      "color2": "#008900"
     }
   },
   "players": {
@@ -679,6 +703,22 @@
       "number": 10,
       "clubs": ["nancy", "saintetienne", "juventus"],
       "nationalTeam": "france",
+      "signature": true,
+      "retired": true
+    },
+    "robertocarlos": {
+      "name": "Roberto‏‏‎ Carlos",
+      "number": 6,
+      "clubs": [
+        "uniaosaojoao",
+        "palmeiras",
+        "inter",
+        "realmadrid",
+        "fenerbahce",
+        "corinthians",
+        "anzhi"
+      ],
+      "nationalTeam": "brazil",
       "signature": true,
       "retired": true
     }
