@@ -3,7 +3,7 @@ import { getLogo } from "utils/image";
 
 const TeamsFilter = ({ team, setTeam, clubs }) => {
   return (
-    <div className="px-6 py-5 flex flex-wrap">
+    <div className="px-6 py-3 flex flex-wrap">
       {Object.keys(clubs)
         .map(key => clubs[key])
         .sort((a, b) => {
@@ -21,7 +21,7 @@ const TeamsFilter = ({ team, setTeam, clubs }) => {
               className={
                 "inline-flex items-center ml-1 mb-1 w-12 h-12 p-2 border-2 cursor-pointer rounded-full bg-gray-300 " +
                 (team === t.id
-                  ? "border-teal-400"
+                  ? "border-green-400"
                   : "border-transparent hover:bg-gray-400")
               }
             >

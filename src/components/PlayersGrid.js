@@ -1,7 +1,8 @@
 import React from "react";
 import PlayerCard from "./PlayerCard";
+import { positions } from "./PositionFilter";
 
-const PlayersGrid = ({ team, players, clubs }) => {
+const PlayersGrid = ({ team, position, players, clubs }) => {
   return (
     <div className="px-6 py-5 flex flex-wrap justify-center">
       {Object.keys(players)
@@ -11,6 +12,13 @@ const PlayersGrid = ({ team, players, clubs }) => {
 
           return player;
         })
+        .filter(
+          player =>
+            !position ||
+            player.position === position ||
+            (positions[position] &&
+              positions[position].includes(player.position))
+        )
         .filter(
           player =>
             !team || player.clubs.includes(team) || player.nationalTeam === team
