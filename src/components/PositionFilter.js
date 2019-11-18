@@ -35,10 +35,10 @@ const PositionFilter = ({ position, setPosition }) => {
                     "font-bungee inline-flex items-center text-base font-bold px-1 cursor-pointer" +
                     " " +
                     (position === bPos
-                      ? "text-green-600 bg-green-200"
+                      ? "text-green-500 bg-green-200"
                       : position === p
                       ? "text-white bg-green-400"
-                      : "hover:bg-gray-300 text-gray-600")
+                      : "hover:bg-gray-300 text-gray-500")
                   }
                 >
                   {p}
