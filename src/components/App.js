@@ -32,26 +32,41 @@ const App = () => {
         })}
       </div>
       <div className="px-6 py-5 flex flex-wrap justify-center">
-        {Object.keys(data.players).map(key => {
-          const player = data.players[key];
+        {Object.keys(data.players)
+          .map(key => {
+            const player = data.players[key];
+            player.id = key;
 
-          if (
-            team &&
-            !(player.clubs.includes(team) || player.nationalTeam === team)
-          ) {
-            return null;
-          }
+            return player;
+          })
+          .filter(player => {
+            return (
+              !team ||
+              player.clubs.includes(team) ||
+              player.nationalTeam === team
+            );
+          })
+          .sort((a, b) => {
+            const pa = a.name.split(" ");
+            const pb = b.name.split(" ");
 
-          return (
-            <PlayerCard
-              key={key}
-              id={key}
-              player={data.players[key]}
-              teamId={team || player.nationalTeam}
-              clubs={data.clubs}
-            />
-          );
-        })}
+            return pa[pa.length - 1] > pb[pb.length - 1]
+              ? 1
+              : pa[pa.length - 1] < pb[pb.length - 1]
+              ? -1
+              : 0;
+          })
+          .map(player => {
+            return (
+              <PlayerCard
+                key={player.id}
+                id={player.id}
+                player={data.players[player.id]}
+                teamId={team || player.nationalTeam}
+                clubs={data.clubs}
+              />
+            );
+          })}
       </div>
     </div>
   );
