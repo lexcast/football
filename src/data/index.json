@@ -70,6 +70,13 @@
       "color2": "#FFFFFF",
       "isNational": true
     },
+    "hungary": {
+      "id": "hungary",
+      "title": "Hungary",
+      "color1": "#FE0003",
+      "color2": "#FFFFFF",
+      "isNational": true
+    },
     "realmadrid": {
       "id": "realmadrid",
       "title": "Real Madrid",
@@ -545,6 +552,13 @@
       "country": "russia",
       "color1": "#FFFF04",
       "color2": "#008900"
+    },
+    "budapest": {
+      "id": "budapest",
+      "title": "Budapest Honvéd",
+      "country": "hungary",
+      "color1": "#F32C2F",
+      "color2": "#008900"
     }
   },
   "players": {
@@ -808,6 +822,15 @@
         "anzhi"
       ],
       "nationalTeam": "brazil",
+      "signature": true,
+      "retired": true
+    },
+    "ferencpuskas": {
+      "name": "Ferenc Puskás",
+      "number": 10,
+      "position": "CF",
+      "clubs": ["budapest", "realmadrid"],
+      "nationalTeam": "hungary",
       "signature": true,
       "retired": true
     }
