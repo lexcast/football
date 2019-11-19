@@ -77,6 +77,13 @@
       "color2": "#FFFFFF",
       "isNational": true
     },
+    "russia": {
+      "id": "russia",
+      "title": "Russia",
+      "color1": "#FE0003",
+      "color2": "#FFFFFF",
+      "isNational": true
+    },
     "realmadrid": {
       "id": "realmadrid",
       "title": "Real Madrid",
@@ -559,6 +566,13 @@
       "country": "hungary",
       "color1": "#F32C2F",
       "color2": "#008900"
+    },
+    "dynamomoscow": {
+      "id": "dynamomoscow",
+      "title": "Dynamo Moscow",
+      "country": "russia",
+      "color1": "#2447D5",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -831,6 +845,15 @@
       "position": "CF",
       "clubs": ["budapest", "realmadrid"],
       "nationalTeam": "hungary",
+      "signature": true,
+      "retired": true
+    },
+    "levyashin": {
+      "name": "Lev Yashin",
+      "number": 1,
+      "position": "GK",
+      "clubs": ["dynamomoscow"],
+      "nationalTeam": "russia",
       "signature": true,
       "retired": true
     }
