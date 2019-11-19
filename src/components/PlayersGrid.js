@@ -2,7 +2,7 @@ import React from "react";
 import PlayerCard from "./PlayerCard";
 import { positions } from "./PositionFilter";
 
-const PlayersGrid = ({ team, position, players, clubs }) => {
+const PlayersGrid = ({ search, team, position, players, clubs }) => {
   return (
     <div className="px-6 py-5 flex flex-wrap justify-center">
       {Object.keys(players)
@@ -22,6 +22,13 @@ const PlayersGrid = ({ team, position, players, clubs }) => {
         .filter(
           player =>
             !team || player.clubs.includes(team) || player.nationalTeam === team
+        )
+        .filter(
+          player =>
+            !search ||
+            player.id.includes(search.toLowerCase().replace(" ", "")) ||
+            player.name.toLowerCase().includes(search.toLowerCase()) ||
+            player.number === parseInt(search)
         )
         .sort((a, b) => {
           const pa = a.name.split(" ");
