@@ -6,9 +6,9 @@ const SearchFilter = ({ search, setSearch }) => {
       <input
         placeholder="Search by name or number..."
         className={
-          "font-bungee text-lg font-bold p-2 focus:bg-green-400 outline-none placeholder-gray-500 focus:text-white focus:placeholder-green-200" +
+          "font-bungee text-lg font-bold p-2 focus:bg-orange-400 outline-none placeholder-orange-600 focus:text-white focus:placeholder-orange-200" +
           " " +
-          (search ? "text-white bg-green-400" : "bg-transparent text-gray-600")
+          (search ? "text-white bg-orange-400" : "bg-transparent text-orange-600")
         }
         value={search}
         onChange={e => setSearch(e.target.value)}

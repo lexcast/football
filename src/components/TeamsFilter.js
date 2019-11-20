@@ -19,10 +19,10 @@ const TeamsFilter = ({ team, setTeam, clubs }) => {
               title={t.title}
               onClick={() => setTeam(team === t.id ? null : t.id)}
               className={
-                "inline-flex items-center ml-1 mb-1 w-12 h-12 p-2 border-2 cursor-pointer rounded-full bg-gray-300 " +
+                "inline-flex items-center ml-1 mb-1 w-12 h-12 p-2 border-2 cursor-pointer rounded-full " +
                 (team === t.id
-                  ? "border-green-400"
-                  : "border-transparent hover:bg-gray-400")
+                  ? "border-orange-400"
+                  : "border-transparent bg-orange-200 hover:bg-orange-300")
               }
             >
               <img

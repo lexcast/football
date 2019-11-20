@@ -20,8 +20,8 @@ const PositionFilter = ({ position, setPosition }) => {
                 "font-bungee inline-flex text-2xl items-center font-bold px-1 cursor-pointer" +
                 " " +
                 (position === bPos
-                  ? "text-white bg-green-400"
-                  : "hover:bg-gray-300 text-gray-600")
+                  ? "text-white bg-orange-400"
+                  : "hover:bg-orange-200 text-orange-600")
               }
             >
               {bPos}
@@ -35,10 +35,10 @@ const PositionFilter = ({ position, setPosition }) => {
                     "font-bungee inline-flex items-center text-base font-bold px-1 cursor-pointer" +
                     " " +
                     (position === bPos
-                      ? "text-green-500 bg-green-200"
+                      ? "text-white bg-orange-300"
                       : position === p
-                      ? "text-white bg-green-400"
-                      : "hover:bg-gray-300 text-gray-500")
+                      ? "text-white bg-orange-400"
+                      : "hover:bg-orange-200 text-orange-600")
                   }
                 >
                   {p}
