@@ -573,6 +573,34 @@
       "country": "russia",
       "color1": "#2447D5",
       "color2": "#FFFFFF"
+    },
+    "riverplate": {
+      "id": "riverplate",
+      "title": "River Plate",
+      "country": "argentina",
+      "color1": "#FFFFFF",
+      "color2": "#FE0B0B"
+    },
+    "huracan": {
+      "id": "huracan",
+      "title": "Huracán",
+      "country": "argentina",
+      "color1": "#FFFFFF",
+      "color2": "#FE0003"
+    },
+    "millonarios": {
+      "id": "millonarios",
+      "title": "Millonarios",
+      "country": "colombia",
+      "color1": "#0D3F96",
+      "color2": "#FFFFFF"
+    },
+    "espanyol": {
+      "id": "espanyol",
+      "title": "Espanyol",
+      "country": "spain",
+      "color1": "#0040FF",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -854,6 +882,21 @@
       "position": "GK",
       "clubs": ["dynamomoscow"],
       "nationalTeam": "russia",
+      "signature": true,
+      "retired": true
+    },
+    "alfredodistefano": {
+      "name": "Alfredo Di|Stéfano",
+      "number": 9,
+      "position": "SS",
+      "clubs": [
+        "riverplate",
+        "huracan",
+        "millonarios",
+        "realmadrid",
+        "espanyol"
+      ],
+      "nationalTeam": "spain",
       "signature": true,
       "retired": true
     }
