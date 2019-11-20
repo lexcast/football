@@ -12,9 +12,8 @@ const PositionFilter = ({ position, setPosition }) => {
     <div className="px-6 py-3 flex flex-wrap">
       {Object.keys(positions).map(bPos => {
         return (
-          <>
+          <React.Fragment key={bPos}>
             <div
-              key={bPos}
               onClick={() => setPosition(position === bPos ? null : bPos)}
               className={
                 "font-bungee inline-flex text-2xl items-center font-bold px-1 cursor-pointer" +
@@ -45,7 +44,7 @@ const PositionFilter = ({ position, setPosition }) => {
                 </div>
               );
             })}
-          </>
+          </React.Fragment>
         );
       })}
     </div>
