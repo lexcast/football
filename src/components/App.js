@@ -6,7 +6,7 @@ import PositionFilter from "./PositionFilter";
 import data from "data";
 
 const App = () => {
-  const [search, setSearch] = useState();
+  const [search, setSearch] = useState("");
   const [team, setTeam] = useState();
   const [position, setPosition] = useState();
 
