@@ -11,7 +11,7 @@ const App = () => {
   const [position, setPosition] = useState();
 
   return (
-    <div className="w-full h-full bg-orange-100">
+    <div className="w-full h-full">
       <SearchFilter search={search} setSearch={setSearch} />
       <TeamsFilter clubs={data.clubs} team={team} setTeam={setTeam} />
       <PositionFilter position={position} setPosition={setPosition} />
