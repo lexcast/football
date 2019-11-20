@@ -23,7 +23,7 @@ const PlayerCard = ({ id, player, teamId, clubs }) => {
       : clubs[selectedTeam];
 
   return (
-    <div className="flex mb-3 h-64">
+    <div className="flex my-2 h-64">
       <Tilt
         className="w-48 h-64 z-10"
         options={{
@@ -92,22 +92,36 @@ const PlayerCard = ({ id, player, teamId, clubs }) => {
             )}
           </div>
           <div
-            className="w-full h-full inline-flex items-center select-none transition-all"
+            className="relative w-full h-full inline-flex items-center select-none transition-all"
             style={{
-              backgroundImage: `
-              repeating-linear-gradient(-45deg, ${team.color2}80 0, ${team.color2}80 20px, transparent 20px, transparent 32px, ${team.color2}80 32px, ${team.color2}80 44px, transparent 44px, transparent 56px, ${team.color2}80 56px, ${team.color2}80 68px, transparent 68px, transparent 80px, ${team.color2}80 0),
-              repeating-linear-gradient(45deg, ${team.color1} 0, ${team.color1} 20px, transparent 20px, transparent 32px, ${team.color1} 32px, ${team.color1} 44px, transparent 44px, transparent 56px, ${team.color1} 56px, ${team.color1} 68px, transparent 68px, transparent 80px, ${team.color1} 0),
-              linear-gradient(to bottom right, ${team.color1}, ${team.color2})
-            `
+              backgroundColor: team.color1
             }}
           >
+            {["ml-6", "ml-8"].map(m => (
+              <div
+                className={
+                  "border-l-4 absolute top-0 left-0 w-full h-full " + m
+                }
+                style={{
+                  borderColor: team.color2
+                }}
+              />
+            ))}
+
+            <div
+              className="font-bungee tracking-tighter font-black text-3xl opacity-75 m-auto"
+              style={{ color: team.color2 }}
+            >
+              {player.number}
+            </div>
+
             <img
               src={
                 team.id === "retired" ? getLogo(national.id) : getLogo(team.id)
               }
               alt={team.id === "retired" ? national.title : team.title}
               className={
-                "h-10 m-auto " +
+                "absolute top-0 right-0 h-10 mr-6 mt-16 " +
                 (team.id !== "retired" ? "" : "filter-grayscale")
               }
             />

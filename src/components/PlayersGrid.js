@@ -39,7 +39,7 @@ const PlayersGrid = ({ search, team, position, players, clubs }) => {
     });
 
   return (
-    <div className="bg-green-500 px-2 py-4">
+    <div className="bg-green-700 px-2 py-2 mt-4">
       <div
         style={{ minHeight: "250px" }}
         className="border-4 border-white px-6 py-5 flex flex-wrap justify-center relative overflow-hidden"
@@ -62,7 +62,7 @@ const PlayersGrid = ({ search, team, position, players, clubs }) => {
             );
           })
         ) : (
-          <div className="text-center flex-wrap text-green-400 flex flex-col justify-center items-center font-bungee font-bold">
+          <div className="text-center flex-wrap text-green-500 flex flex-col justify-center items-center font-bungee font-bold">
             <div className="text-5xl leading-none">No players found</div>
             <div className="text-lg">
               Change filters criteria for other results
