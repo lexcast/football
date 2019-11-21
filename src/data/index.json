@@ -615,6 +615,27 @@
       "country": "italy",
       "color1": "#FFFFFF",
       "color2": "#FE0003"
+    },
+    "queretaro": {
+      "id": "queretaro",
+      "title": "Querétaro",
+      "country": "mexico",
+      "color1": "#010101",
+      "color2": "#154FFB"
+    },
+    "monterrey": {
+      "id": "monterrey",
+      "title": "Monterrey",
+      "country": "mexico",
+      "color1": "#020B3E",
+      "color2": "#FFFFFF"
+    },
+    "chiapas": {
+      "id": "chiapas",
+      "title": "Chiapas",
+      "country": "mexico",
+      "color1": "#0B7F60",
+      "color2": "#010101"
     }
   },
   "players": {
@@ -920,6 +941,27 @@
       "position": "GK",
       "clubs": ["udinese", "mantova", "napoli", "juventus"],
       "nationalTeam": "italy",
+      "signature": true,
+      "retired": true
+    },
+    "luishernandez": {
+      "name": "Luis Hernández",
+      "number": 15,
+      "position": "CF",
+      "clubs": [
+        "cruzazul",
+        "queretaro",
+        "monterrey",
+        "necaxa",
+        "bocajuniors",
+        "uanl",
+        "galaxy",
+        "america",
+        "veracruz",
+        "chiapas",
+        "buap"
+      ],
+      "nationalTeam": "mexico",
       "signature": true,
       "retired": true
     }
