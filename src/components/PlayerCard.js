@@ -99,6 +99,7 @@ const PlayerCard = ({ id, player, teamId, clubs }) => {
           >
             {["ml-6", "ml-8"].map(m => (
               <div
+                key={m}
                 className={
                   "border-l-4 absolute top-0 left-0 w-full h-full " + m
                 }
