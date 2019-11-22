@@ -94,7 +94,8 @@ const PlayerCard = ({ id, player, teamId, clubs }) => {
           <div
             className="relative w-full h-full inline-flex items-center select-none transition-all"
             style={{
-              backgroundColor: team.color1
+              backgroundColor:
+                player.position !== "GK" ? team.color1 : team.color2
             }}
           >
             {["ml-6", "ml-8"].map(m => (
@@ -104,14 +105,17 @@ const PlayerCard = ({ id, player, teamId, clubs }) => {
                   "border-l-4 absolute top-0 left-0 w-full h-full " + m
                 }
                 style={{
-                  borderColor: team.color2
+                  borderColor:
+                    player.position === "GK" ? team.color1 : team.color2
                 }}
               />
             ))}
 
             <div
               className="font-bungee tracking-tighter font-black text-3xl opacity-75 m-auto"
-              style={{ color: team.color2 }}
+              style={{
+                color: player.position === "GK" ? team.color1 : team.color2
+              }}
             >
               {player.number}
             </div>
