@@ -636,6 +636,20 @@
       "country": "mexico",
       "color1": "#0B7F60",
       "color2": "#010101"
+    },
+    "standardliege": {
+      "id": "standardliege",
+      "title": "Standard Liège",
+      "country": "belgium",
+      "color1": "#FE0003",
+      "color2": "#FFFFFF"
+    },
+    "guadalajara": {
+      "id": "guadalajara",
+      "title": "Guadalajara",
+      "country": "mexico",
+      "color1": "#FE0003",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -960,6 +974,24 @@
         "veracruz",
         "chiapas",
         "buap"
+      ],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": true
+    },
+    "carloshermosillo": {
+      "name": "Carlos Hermosillo",
+      "number": 27,
+      "position": "CF",
+      "clubs": [
+        "america",
+        "standardliege",
+        "monterrey",
+        "cruzazul",
+        "necaxa",
+        "galaxy",
+        "atlante",
+        "guadalajara"
       ],
       "nationalTeam": "mexico",
       "signature": true,
