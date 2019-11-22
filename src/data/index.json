@@ -650,6 +650,20 @@
       "country": "mexico",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
+    },
+    "saopaulo": {
+      "id": "saopaulo",
+      "title": "São Paulo",
+      "country": "brazil",
+      "color1": "#FFFFFF",
+      "color2": "#000000"
+    },
+    "roma": {
+      "id": "roma",
+      "title": "Roma",
+      "country": "italy",
+      "color1": "#8F0908",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -994,6 +1008,15 @@
         "guadalajara"
       ],
       "nationalTeam": "mexico",
+      "signature": true,
+      "retired": true
+    },
+    "cafu": {
+      "name": "Cafú",
+      "number": 2,
+      "position": "RB",
+      "clubs": ["saopaulo", "realzaragoza", "palmeiras", "roma", "milan"],
+      "nationalTeam": "brazil",
       "signature": true,
       "retired": true
     }
