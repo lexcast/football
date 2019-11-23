@@ -2,7 +2,23 @@ import React from "react";
 import PlayerCard from "./PlayerCard";
 import { positions } from "./PositionFilter";
 
-const PlayersGrid = ({ search, team, position, players, clubs }) => {
+const PlayersGrid = ({
+  search,
+  team,
+  position,
+  players,
+  clubs,
+  sort,
+  direction
+}) => {
+  const flatPositions = [];
+
+  Object.keys(positions).forEach(k => {
+    flatPositions.push(k);
+
+    positions[k].forEach(p => flatPositions.push(p));
+  });
+
   const playersFiltered = Object.keys(players)
     .map(key => {
       const player = players[key];
@@ -31,12 +47,32 @@ const PlayersGrid = ({ search, team, position, players, clubs }) => {
       const pa = a.name.split(" ");
       const pb = b.name.split(" ");
 
-      return pa[pa.length - 1] > pb[pb.length - 1]
-        ? 1
-        : pa[pa.length - 1] < pb[pb.length - 1]
-        ? -1
-        : 0;
+      let ca = pa[pa.length - 1];
+      let cb = pb[pb.length - 1];
+      let na = 0;
+      let nb = 0;
+
+      if (sort === "NUMBER") {
+        na = a.number;
+        nb = b.number;
+      }
+
+      if (sort === "POSITION") {
+        na = flatPositions.indexOf(a.position);
+        nb = flatPositions.indexOf(b.position);
+      }
+
+      if (sort === "COUNTRY") {
+        ca = a.nationalTeam + ca;
+        cb = b.nationalTeam + cb;
+      }
+
+      return na > nb ? 1 : na < nb ? -1 : a.ca > cb ? 1 : ca < cb ? -1 : 0;
     });
+
+  if (direction) {
+    playersFiltered.reverse();
+  }
 
   return (
     <div className="bg-green-700 px-2 py-2 mt-4">
