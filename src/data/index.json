@@ -664,6 +664,34 @@
       "country": "italy",
       "color1": "#8F0908",
       "color2": "#FFFFFF"
+    },
+    "deportivocoruna": {
+      "id": "deportivocoruna",
+      "title": "Deportivo de La Coruña",
+      "country": "spain",
+      "color1": "#0030FF",
+      "color2": "#FFFFFF"
+    },
+    "leverkusen": {
+      "id": "leverkusen",
+      "title": "Bayer 04 Leverkusen",
+      "country": "germany",
+      "color1": "#FE0003",
+      "color2": "#000000"
+    },
+    "valencia": {
+      "id": "valencia",
+      "title": "Valencia",
+      "country": "spain",
+      "color1": "#FFFFFF",
+      "color2": "#FE6303"
+    },
+    "realbetis": {
+      "id": "realbetis",
+      "title": "Real Betis",
+      "country": "spain",
+      "color1": "#007E00",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -1019,6 +1047,22 @@
       "nationalTeam": "brazil",
       "signature": true,
       "retired": true
+    },
+    "andresguardado": {
+      "name": "Andrés Guardado",
+      "number": 18,
+      "position": "CM",
+      "clubs": [
+        "atlas",
+        "deportivocoruna",
+        "valencia",
+        "leverkusen",
+        "psv",
+        "realbetis"
+      ],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
     }
   }
 }
