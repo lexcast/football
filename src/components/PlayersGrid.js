@@ -9,7 +9,8 @@ const PlayersGrid = ({
   players,
   clubs,
   sort,
-  direction
+  direction,
+  flipped
 }) => {
   const flatPositions = [];
 
@@ -94,6 +95,7 @@ const PlayersGrid = ({
                 player={players[player.id]}
                 teamId={team || player.nationalTeam}
                 clubs={clubs}
+                flipped={flipped}
               />
             );
           })

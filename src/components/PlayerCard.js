@@ -5,7 +5,7 @@ import PlayerFront from "./PlayerFront";
 import PlayerBack from "./PlayerBack";
 import PlayerTeams from "./PlayerTeams";
 
-const PlayerCard = ({ id, player, teamId, clubs }) => {
+const PlayerCard = ({ id, player, teamId, clubs, flipped }) => {
   const [selectedTeam, setSelectedTeam] = useState(teamId);
 
   useEffect(() => {
@@ -36,7 +36,7 @@ const PlayerCard = ({ id, player, teamId, clubs }) => {
           "max-glare": 0.4
         }}
       >
-        <Card>
+        <Card flipped={flipped}>
           <PlayerFront {...{ id, player, team, national }} />
           <PlayerBack {...{ player, team, national }} />
         </Card>
