@@ -10,6 +10,7 @@ const PlayersGrid = ({
   clubs,
   sort,
   direction,
+  preference,
   flipped
 }) => {
   const flatPositions = [];
@@ -88,12 +89,25 @@ const PlayersGrid = ({
 
         {playersFiltered.length > 0 ? (
           playersFiltered.map(player => {
+            const preferenceTeam =
+              preference === "NATIONAL"
+                ? player.nationalTeam
+                : preference === "FIRST"
+                ? player.clubs[0]
+                : preference === "LAST"
+                ? player.clubs[player.clubs.length - 1]
+                : preference === "NOW"
+                ? player.retired
+                  ? "RETIRED"
+                  : player.clubs[player.clubs.length - 1]
+                : team || player.nationalTeam;
+
             return (
               <PlayerCard
                 key={player.id}
                 id={player.id}
                 player={players[player.id]}
-                teamId={team || player.nationalTeam}
+                teamId={preferenceTeam}
                 clubs={clubs}
                 flipped={flipped}
               />

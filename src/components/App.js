@@ -13,6 +13,7 @@ const App = () => {
   const [position, setPosition] = useState();
   const [sort, setSort] = useState("NAME");
   const [direction, setDirection] = useState(false);
+  const [preference, setPreference] = useState();
   const [flipped, setFlipped] = useState(false);
 
   return (
@@ -21,7 +22,7 @@ const App = () => {
       <TeamsFilter clubs={data.clubs} team={team} setTeam={setTeam} />
       <PositionFilter position={position} setPosition={setPosition} />
       <Sorter {...{ sort, setSort, direction, setDirection }} />
-      <Toggler {...{ flipped, setFlipped }} />
+      <Toggler {...{ flipped, setFlipped, setPreference }} />
       <PlayersGrid
         players={data.players}
         clubs={data.clubs}
@@ -30,6 +31,7 @@ const App = () => {
         position={position}
         sort={sort}
         direction={direction}
+        preference={preference}
         flipped={flipped}
       />
     </div>
