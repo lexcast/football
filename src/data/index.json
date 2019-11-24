@@ -720,6 +720,13 @@
       "country": "brazil",
       "color1": "#A00001",
       "color2": "#006000"
+    },
+    "fulham": {
+      "id": "fulham",
+      "title": "Fulham",
+      "country": "england",
+      "color1": "#FFFFFF",
+      "color2": "#000000"
     }
   },
   "players": {
@@ -1107,6 +1114,15 @@
         "fluminense"
       ],
       "nationalTeam": "brazil",
+      "signature": true,
+      "retired": true
+    },
+    "carlossalcido": {
+      "name": "Carlos Salcido",
+      "number": 3,
+      "position": "CB",
+      "clubs": ["guadalajara", "psv", "fulham", "uanl", "veracruz"],
+      "nationalTeam": "mexico",
       "signature": true,
       "retired": true
     }
