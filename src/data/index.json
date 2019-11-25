@@ -727,6 +727,13 @@
       "country": "england",
       "color1": "#FFFFFF",
       "color2": "#000000"
+    },
+    "besiktas": {
+      "id": "besiktas",
+      "title": "Beşiktaş",
+      "country": "turkey",
+      "color1": "#FFFFFF",
+      "color2": "#000000"
     }
   },
   "players": {
@@ -1123,6 +1130,15 @@
       "position": "CB",
       "clubs": ["guadalajara", "psv", "fulham", "uanl", "veracruz"],
       "nationalTeam": "mexico",
+      "signature": true,
+      "retired": true
+    },
+    "guti": {
+      "name": "Guti",
+      "number": 14,
+      "position": "CM",
+      "clubs": ["realmadrid", "besiktas"],
+      "nationalTeam": "spain",
       "signature": true,
       "retired": true
     }
