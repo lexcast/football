@@ -1194,6 +1194,15 @@
       "nationalTeam": "mexico",
       "signature": true,
       "retired": false
+    },
+    "manuelneuer": {
+      "name": "Manuel Neuer",
+      "number": 1,
+      "position": "GK",
+      "clubs": ["schalke", "bayernmunich"],
+      "nationalTeam": "germany",
+      "signature": true,
+      "retired": false
     }
   }
 }
