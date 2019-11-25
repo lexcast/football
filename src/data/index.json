@@ -825,6 +825,27 @@
       "country": "england",
       "color1": "#031060",
       "color2": "#FFFFFF"
+    },
+    "ajaccio": {
+      "id": "ajaccio",
+      "title": "Ajaccio",
+      "country": "france",
+      "color1": "#FFFFFF",
+      "color2": "#CC0002"
+    },
+    "malaga": {
+      "id": "malaga",
+      "title": "Málaga",
+      "country": "spain",
+      "color1": "#FFFFFF",
+      "color2": "#68AEFA"
+    },
+    "granada": {
+      "id": "granada",
+      "title": "Granada",
+      "country": "spain",
+      "color1": "#FE0003",
+      "color2": "#0000FF"
     }
   },
   "players": {
@@ -1297,6 +1318,15 @@
         "realsociedad",
         "losangeles"
       ],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
+    },
+    "guillermoochoa": {
+      "name": "Guillermo Ochoa",
+      "number": 13,
+      "position": "GK",
+      "clubs": ["america", "ajaccio", "malaga", "granada", "standardliege"],
       "nationalTeam": "mexico",
       "signature": true,
       "retired": false
