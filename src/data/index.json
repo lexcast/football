@@ -84,6 +84,13 @@
       "color2": "#FFFFFF",
       "isNational": true
     },
+    "wales": {
+      "id": "wales",
+      "title": "Wales",
+      "color1": "#FE0003",
+      "color2": "#FFD003",
+      "isNational": true
+    },
     "realmadrid": {
       "id": "realmadrid",
       "title": "Real Madrid",
@@ -734,6 +741,20 @@
       "country": "turkey",
       "color1": "#FFFFFF",
       "color2": "#000000"
+    },
+    "southampton": {
+      "id": "southampton",
+      "title": "southampton",
+      "country": "england",
+      "color1": "#FE0003",
+      "color2": "#000000"
+    },
+    "tottenham": {
+      "id": "tottenham",
+      "title": "tottenham",
+      "country": "england",
+      "color1": "#FFFFFF",
+      "color2": "#000040"
     }
   },
   "players": {
@@ -1141,6 +1162,15 @@
       "nationalTeam": "spain",
       "signature": true,
       "retired": true
+    },
+    "garethbale": {
+      "name": "Gareth Bale",
+      "number": 11,
+      "position": "RW",
+      "clubs": ["southampton", "tottenham", "realmadrid"],
+      "nationalTeam": "wales",
+      "signature": true,
+      "retired": false
     }
   }
 }
