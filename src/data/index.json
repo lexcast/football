@@ -755,6 +755,13 @@
       "country": "england",
       "color1": "#FFFFFF",
       "color2": "#000040"
+    },
+    "westham": {
+      "id": "westham",
+      "title": "West Ham United",
+      "country": "england",
+      "color1": "#800001",
+      "color2": "#82C2FF"
     }
   },
   "players": {
@@ -1169,6 +1176,22 @@
       "position": "RW",
       "clubs": ["southampton", "tottenham", "realmadrid"],
       "nationalTeam": "wales",
+      "signature": true,
+      "retired": false
+    },
+    "javierhernandez": {
+      "name": "Javier Hernández",
+      "number": 14,
+      "position": "CF",
+      "clubs": [
+        "guadalajara",
+        "manchesterunited",
+        "realmadrid",
+        "leverkusen",
+        "westham",
+        "sevilla"
+      ],
+      "nationalTeam": "mexico",
       "signature": true,
       "retired": false
     }
