@@ -783,6 +783,48 @@
       "country": "england",
       "color1": "#FFFFFF",
       "color2": "#00004F"
+    },
+    "salamanca": {
+      "id": "salamanca",
+      "title": "Salamanca",
+      "country": "spain",
+      "color1": "#FFFFFF",
+      "color2": "#000000"
+    },
+    "osasuna": {
+      "id": "osasuna",
+      "title": "Osasuna",
+      "country": "spain",
+      "color1": "#CE0002",
+      "color2": "#00003C"
+    },
+    "arsenal": {
+      "id": "arsenal",
+      "title": "Arsenal",
+      "country": "england",
+      "color1": "#FE0003",
+      "color2": "#FFFFFF"
+    },
+    "realsociedad": {
+      "id": "realsociedad",
+      "title": "Real Sociedad",
+      "country": "spain",
+      "color1": "#FFFFFF",
+      "color2": "#0000FF"
+    },
+    "losangeles": {
+      "id": "losangeles",
+      "title": "Los Angeles",
+      "country": "england",
+      "color1": "#020202",
+      "color2": "#A68F4A"
+    },
+    "westbromwich": {
+      "id": "westbromwich",
+      "title": "West Bromwich",
+      "country": "england",
+      "color1": "#031060",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -1242,6 +1284,22 @@
       "nationalTeam": "spain",
       "signature": true,
       "retired": true
+    },
+    "carlosvela": {
+      "name": "Carlos Vela",
+      "number": 11,
+      "position": "RW",
+      "clubs": [
+        "salamanca",
+        "osasuna",
+        "arsenal",
+        "westbromwich",
+        "realsociedad",
+        "losangeles"
+      ],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
     }
   }
 }
