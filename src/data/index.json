@@ -769,6 +769,20 @@
       "country": "france",
       "color1": "#FFFFFF",
       "color2": "#DA0022"
+    },
+    "alrayyan": {
+      "id": "alrayyan",
+      "title": "Al-Rayyan",
+      "country": "qatar",
+      "color1": "#FE0003",
+      "color2": "#000000"
+    },
+    "bolton": {
+      "id": "bolton",
+      "title": "Bolton Wanderers",
+      "country": "england",
+      "color1": "#FFFFFF",
+      "color2": "#00004F"
     }
   },
   "players": {
@@ -1219,6 +1233,15 @@
       "nationalTeam": "france",
       "signature": true,
       "retired": false
+    },
+    "fernandohierro": {
+      "name": "Fernando Hierro",
+      "number": 4,
+      "position": "CB",
+      "clubs": ["realvalladolid", "realmadrid", "alrayyan", "bolton"],
+      "nationalTeam": "spain",
+      "signature": true,
+      "retired": true
     }
   }
 }
