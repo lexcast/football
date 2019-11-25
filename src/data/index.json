@@ -762,6 +762,13 @@
       "country": "england",
       "color1": "#800001",
       "color2": "#82C2FF"
+    },
+    "olympiquelyon": {
+      "id": "olympiquelyon",
+      "title": "Olympique de Lyon",
+      "country": "france",
+      "color1": "#FFFFFF",
+      "color2": "#DA0022"
     }
   },
   "players": {
@@ -1201,6 +1208,15 @@
       "position": "GK",
       "clubs": ["schalke", "bayernmunich"],
       "nationalTeam": "germany",
+      "signature": true,
+      "retired": false
+    },
+    "karimbenzema": {
+      "name": "Karim Benzema",
+      "number": 9,
+      "position": "CF",
+      "clubs": ["olympiquelyon", "realmadrid"],
+      "nationalTeam": "france",
       "signature": true,
       "retired": false
     }
