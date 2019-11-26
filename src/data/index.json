@@ -867,6 +867,13 @@
       "country": "spain",
       "color1": "#FE0003",
       "color2": "#0000FF"
+    },
+    "wolverhampton": {
+      "id": "wolverhampton",
+      "title": "Wolverhampton",
+      "country": "england",
+      "color1": "#FF8403",
+      "color2": "#000000"
     }
   },
   "players": {
@@ -1348,6 +1355,15 @@
       "number": 13,
       "position": "GK",
       "clubs": ["america", "ajaccio", "malaga", "granada", "standardliege"],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
+    },
+    "rauljimenez": {
+      "name": "Raúl Jiménez",
+      "number": 9,
+      "position": "CF",
+      "clubs": ["america", "atleticomadrid", "benfica", "wolverhampton"],
       "nationalTeam": "mexico",
       "signature": true,
       "retired": false
