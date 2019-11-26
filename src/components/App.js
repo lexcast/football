@@ -19,7 +19,12 @@ const App = () => {
   return (
     <div className="w-full h-full">
       <SearchFilter search={search} setSearch={setSearch} />
-      <TeamsFilter clubs={data.clubs} team={team} setTeam={setTeam} />
+      <TeamsFilter
+        clubs={data.clubs}
+        team={team}
+        setTeam={setTeam}
+        flags={data.flags}
+      />
       <PositionFilter position={position} setPosition={setPosition} />
       <Sorter {...{ sort, setSort, direction, setDirection }} />
       <Toggler {...{ flipped, setFlipped, setPreference }} />
