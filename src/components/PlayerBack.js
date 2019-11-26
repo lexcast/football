@@ -14,7 +14,9 @@ const PlayerBack = ({ player, team, national }) => {
       {["ml-6", "ml-8"].map(m => (
         <div
           key={m}
-          className={"border-l-4 absolute top-0 left-0 w-full h-full " + m}
+          className={
+            "border-l-4 absolute top-0 left-0 w-full h-full transition-all " + m
+          }
           style={{
             borderColor: isGK ? team.color1 : team.color2
           }}
@@ -22,7 +24,7 @@ const PlayerBack = ({ player, team, national }) => {
       ))}
 
       <div
-        className="font-bungee tracking-tighter font-black text-3xl opacity-75 m-auto"
+        className="font-bungee tracking-tighter font-black text-3xl opacity-75 m-auto transition-all"
         style={{
           color: isGK ? team.color1 : team.color2
         }}
@@ -30,12 +32,12 @@ const PlayerBack = ({ player, team, national }) => {
         {player.number}
       </div>
 
-      <div className="absolute top-0 right-0 h-10 mr-6 mt-16 w-10 h-10 flex items-center">
+      <div className="absolute top-0 right-0 h-10 mr-6 mt-16 w-10 h-10 flex items-center transition-all">
         <img
           src={team.id === "retired" ? getLogo(national.id) : getLogo(team.id)}
           alt={team.id === "retired" ? national.title : team.title}
           className={
-            "max-w-full max-h-full mx-auto " +
+            "max-w-full max-h-full mx-auto transition-all " +
             (team.id !== "retired" ? "" : "filter-grayscale")
           }
         />
