@@ -1,6 +1,6 @@
 {
   "flags": {
-    "national": "🇺🇳",
+    "*national": "🇺🇳",
     "argentina": "🇦🇷",
     "austria": "🇦🇹",
     "brazil": "🇧🇷",
@@ -836,7 +836,7 @@
     "losangeles": {
       "id": "losangeles",
       "title": "Los Angeles",
-      "country": "england",
+      "country": "unitedstates",
       "color1": "#020202",
       "color2": "#A68F4A"
     },
