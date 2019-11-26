@@ -1383,6 +1383,15 @@
       "nationalTeam": "mexico",
       "signature": true,
       "retired": false
+    },
+    "hectorherrera": {
+      "name": "Héctor Herrera",
+      "number": 16,
+      "position": "CM",
+      "clubs": ["pachuca", "porto", "atleticomadrid"],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
     }
   }
 }
