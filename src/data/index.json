@@ -874,6 +874,13 @@
       "country": "england",
       "color1": "#FF8403",
       "color2": "#000000"
+    },
+    "pachuca": {
+      "id": "pachuca",
+      "title": "Pachuca",
+      "country": "mexico",
+      "color1": "#05143B",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -1364,6 +1371,15 @@
       "number": 9,
       "position": "CF",
       "clubs": ["america", "atleticomadrid", "benfica", "wolverhampton"],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
+    },
+    "hirvinglozano": {
+      "name": "Hirving Lozano",
+      "number": 22,
+      "position": "LW",
+      "clubs": ["pachuca", "psv", "napoli"],
       "nationalTeam": "mexico",
       "signature": true,
       "retired": false
