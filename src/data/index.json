@@ -881,6 +881,13 @@
       "country": "mexico",
       "color1": "#05143B",
       "color2": "#FFFFFF"
+    },
+    "twente": {
+      "id": "twente",
+      "title": "Twente",
+      "country": "netherlands",
+      "color1": "#FE0003",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -1389,6 +1396,15 @@
       "number": 16,
       "position": "CM",
       "clubs": ["pachuca", "porto", "atleticomadrid"],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
+    },
+    "jesuscorona": {
+      "name": "Jesús Corona",
+      "number": 17,
+      "position": "RW",
+      "clubs": ["monterrey", "twente", "porto"],
       "nationalTeam": "mexico",
       "signature": true,
       "retired": false
