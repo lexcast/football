@@ -18,6 +18,7 @@ const PlayerCard = ({ id, player, teamId, clubs, flipped }) => {
       ? {
           id: "retired",
           title: "Retired",
+          brand: "adidasvintage",
           color1: "#FFFFFF",
           color2: "#1A202C"
         }

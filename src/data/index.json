@@ -24,6 +24,7 @@
     "mexico": {
       "id": "mexico",
       "title": "Mexico",
+      "brand": "adidas",
       "color1": "#1F5745",
       "color2": "#FFFFFF",
       "isNational": true
@@ -31,6 +32,7 @@
     "spain": {
       "id": "spain",
       "title": "Spain",
+      "brand": "adidas",
       "color1": "#FE0003",
       "color2": "#001870",
       "isNational": true
@@ -38,6 +40,7 @@
     "france": {
       "id": "france",
       "title": "France",
+      "brand": "nike",
       "color1": "#112855",
       "color2": "#FFFFFF",
       "isNational": true
@@ -45,6 +48,7 @@
     "brazil": {
       "id": "brazil",
       "title": "Brazil",
+      "brand": "nike",
       "color1": "#FBE103",
       "color2": "#003CFF",
       "isNational": true
@@ -52,6 +56,7 @@
     "portugal": {
       "id": "portugal",
       "title": "Portugal",
+      "brand": "nike",
       "color1": "#EB0528",
       "color2": "#006200",
       "isNational": true
@@ -59,6 +64,7 @@
     "england": {
       "id": "england",
       "title": "England",
+      "brand": "nike",
       "color1": "#FBFBFB",
       "color2": "#0C1351",
       "isNational": true
@@ -66,6 +72,7 @@
     "argentina": {
       "id": "argentina",
       "title": "Argentina",
+      "brand": "adidas",
       "color1": "#FFFFFF",
       "color2": "#CAE6FF",
       "isNational": true
@@ -73,6 +80,7 @@
     "germany": {
       "id": "germany",
       "title": "Germany",
+      "brand": "adidas",
       "color1": "#FFFFFF",
       "color2": "#000000",
       "isNational": true
@@ -80,6 +88,7 @@
     "italy": {
       "id": "italy",
       "title": "Italy",
+      "brand": "puma",
       "color1": "#113ED7",
       "color2": "#FFFFFF",
       "isNational": true
@@ -87,6 +96,7 @@
     "netherlands": {
       "id": "netherlands",
       "title": "Neetherlands",
+      "brand": "nike",
       "color1": "#FE6003",
       "color2": "#FFFFFF",
       "isNational": true
@@ -94,6 +104,7 @@
     "hungary": {
       "id": "hungary",
       "title": "Hungary",
+      "brand": "adidas",
       "color1": "#FE0003",
       "color2": "#FFFFFF",
       "isNational": true
@@ -101,6 +112,7 @@
     "russia": {
       "id": "russia",
       "title": "Russia",
+      "brand": "adidas",
       "color1": "#FE0003",
       "color2": "#FFFFFF",
       "isNational": true
@@ -108,6 +120,7 @@
     "wales": {
       "id": "wales",
       "title": "Wales",
+      "brand": "adidas",
       "color1": "#FE0003",
       "color2": "#FFD003",
       "isNational": true
@@ -115,6 +128,7 @@
     "realmadrid": {
       "id": "realmadrid",
       "title": "Real Madrid",
+      "brand": "adidas",
       "country": "spain",
       "color1": "#FFFFFF",
       "color2": "#D8BD75"
@@ -122,6 +136,7 @@
     "porto": {
       "id": "porto",
       "title": "Porto",
+      "brand": "newbalance",
       "country": "portugal",
       "color1": "#003C71",
       "color2": "#FFFFFF"
@@ -129,6 +144,7 @@
     "cannes": {
       "id": "cannes",
       "title": "Cannes",
+      "brand": "macron",
       "country": "france",
       "color1": "#FFFFFF",
       "color2": "#FE0003"
@@ -136,6 +152,7 @@
     "bordeaux": {
       "id": "bordeaux",
       "title": "Bordeaux",
+      "brand": "puma",
       "country": "france",
       "color1": "#000630",
       "color2": "#FFFFFF"
@@ -143,6 +160,7 @@
     "juventus": {
       "id": "juventus",
       "title": "Juventus",
+      "brand": "adidas",
       "country": "italy",
       "color1": "#000000",
       "color2": "#FFFFFF"
@@ -150,6 +168,7 @@
     "cruzeiro": {
       "id": "cruzeiro",
       "title": "Cruzeiro",
+      "brand": "umbro",
       "country": "brazil",
       "color1": "#0000FF",
       "color2": "#FFFFFF"
@@ -157,6 +176,7 @@
     "psv": {
       "id": "psv",
       "title": "PSV",
+      "brand": "umbro",
       "country": "netherlands",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
@@ -164,6 +184,7 @@
     "barcelona": {
       "id": "barcelona",
       "title": "Barcelona",
+      "brand": "nike",
       "country": "spain",
       "color1": "#000080",
       "color2": "#C10001"
@@ -171,6 +192,7 @@
     "inter": {
       "id": "inter",
       "title": "Inter",
+      "brand": "nike",
       "country": "italy",
       "color1": "#005FBF",
       "color2": "#000000"
@@ -178,6 +200,7 @@
     "milan": {
       "id": "milan",
       "title": "Milan",
+      "brand": "puma",
       "country": "italy",
       "color1": "#AD0020",
       "color2": "#100001"
@@ -185,6 +208,7 @@
     "corinthians": {
       "id": "corinthians",
       "title": "Corinthians",
+      "brand": "nike",
       "country": "brazil",
       "color1": "#FFFFFF",
       "color2": "#000000"
@@ -192,6 +216,7 @@
     "schalke": {
       "id": "schalke",
       "title": "Schalke 04",
+      "brand": "umbro",
       "country": "germany",
       "color1": "#0000FF",
       "color2": "#FFFFFF"
@@ -199,6 +224,7 @@
     "alsadd": {
       "id": "alsadd",
       "title": "Al-Sadd",
+      "brand": "puma",
       "country": "qatar",
       "color1": "#FFFFFF",
       "color2": "#1A1A1A"
@@ -206,6 +232,7 @@
     "cosmos": {
       "id": "cosmos",
       "title": "Cosmos",
+      "brand": "inaria",
       "country": "unitedstates",
       "color1": "#FFFFFF",
       "color2": "#008800"
@@ -213,6 +240,7 @@
     "sporting": {
       "id": "sporting",
       "title": "Sporting",
+      "brand": "macron",
       "country": "portugal",
       "color1": "#058331",
       "color2": "#FFFFFF"
@@ -220,6 +248,7 @@
     "manchesterunited": {
       "id": "manchesterunited",
       "title": "Manchester United",
+      "brand": "adidas",
       "country": "england",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
@@ -227,6 +256,7 @@
     "galaxy": {
       "id": "galaxy",
       "title": "Los Angeles Galaxy",
+      "brand": "adidas",
       "country": "unitedstates",
       "color1": "#FFFFFF",
       "color2": "#000040"
@@ -234,6 +264,7 @@
     "psg": {
       "id": "psg",
       "title": "Paris Saint-Germain",
+      "brand": "nike",
       "country": "france",
       "color1": "#000040",
       "color2": "#E50002"
@@ -241,6 +272,7 @@
     "unam": {
       "id": "unam",
       "title": "UNAM",
+      "brand": "nike",
       "country": "mexico",
       "color1": "#FFFFFF",
       "color2": "#000040"
@@ -248,13 +280,15 @@
     "atlante": {
       "id": "atlante",
       "title": "Atlante",
+      "brand": "kappa",
       "country": "mexico",
       "color1": "#01267E",
       "color2": "#E00002"
     },
     "chicago": {
       "id": "chicago",
-      "title": "Chicago",
+      "title": "Chicago Fire",
+      "brand": "adidas",
       "country": "unitedstates",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
@@ -262,6 +296,7 @@
     "cruzazul": {
       "id": "cruzazul",
       "title": "Cruz Azul",
+      "brand": "joma",
       "country": "mexico",
       "color1": "#001CBB",
       "color2": "#FFFFFF"
@@ -269,6 +304,7 @@
     "uanl": {
       "id": "uanl",
       "title": "UANL",
+      "brand": "adidas",
       "country": "mexico",
       "color1": "#FED01A",
       "color2": "#0000E9"
@@ -276,6 +312,7 @@
     "puebla": {
       "id": "puebla",
       "title": "Puebla",
+      "brand": "umbro",
       "country": "mexico",
       "color1": "#FFFFFF",
       "color2": "#0032A8"
@@ -283,6 +320,7 @@
     "linz": {
       "id": "linz",
       "title": "Linz",
+      "brand": "forzaask",
       "country": "austria",
       "color1": "#FFFFFF",
       "color2": "#000000"
@@ -290,6 +328,7 @@
     "atleticomadrid": {
       "id": "atleticomadrid",
       "title": "Atletico de Madrid",
+      "brand": "nike",
       "country": "spain",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
@@ -297,6 +336,7 @@
     "america": {
       "id": "america",
       "title": "America",
+      "brand": "nike",
       "country": "mexico",
       "color1": "#FFFF91",
       "color2": "#000E50"
@@ -304,6 +344,7 @@
     "rayovallecano": {
       "id": "rayovallecano",
       "title": "Rayo Vallecano",
+      "brand": "kelme",
       "country": "spain",
       "color1": "#FFFFFF",
       "color2": "#F90004"
@@ -311,6 +352,7 @@
     "celaya": {
       "id": "celaya",
       "title": "Celaya",
+      "brand": "keuka",
       "country": "mexico",
       "color1": "#FFFFFF",
       "color2": "#00009A"
@@ -318,6 +360,7 @@
     "sandiego": {
       "id": "sandiego",
       "title": "San Diego Sockers",
+      "brand": "adidas",
       "country": "unitedstates",
       "color1": "#FFFF04",
       "color2": "#0000FF"
@@ -325,6 +368,7 @@
     "dallas": {
       "id": "dallas",
       "title": "Dallas",
+      "brand": "adidas",
       "country": "unitedstates",
       "color1": "#C31C22",
       "color2": "#FFFFFF"
@@ -332,6 +376,7 @@
     "necaxa": {
       "id": "necaxa",
       "title": "Necaxa",
+      "brand": "charly",
       "country": "mexico",
       "color1": "#FFFFFF",
       "color2": "#FE0003"
@@ -339,6 +384,7 @@
     "realvalladolid": {
       "id": "realvalladolid",
       "title": "Real Valladolid",
+      "brand": "hummel",
       "country": "spain",
       "color1": "#FFFFFF",
       "color2": "#3A006A"
@@ -346,6 +392,7 @@
     "veracruz": {
       "id": "veracruz",
       "title": "Veracruz",
+      "brand": "charly",
       "country": "mexico",
       "color1": "#FE0003",
       "color2": "#010101"
@@ -353,6 +400,7 @@
     "santoslaguna": {
       "id": "santoslaguna",
       "title": "Santos Laguna",
+      "brand": "charly",
       "country": "mexico",
       "color1": "#14926D",
       "color2": "#FFFFFF"
@@ -360,6 +408,7 @@
     "irapuato": {
       "id": "irapuato",
       "title": "Irapuato",
+      "brand": "silver",
       "country": "mexico",
       "color1": "#D20002",
       "color2": "#000040"
@@ -367,6 +416,7 @@
     "dorados": {
       "id": "dorados",
       "title": "Dorados",
+      "brand": "charly",
       "country": "mexico",
       "color1": "#FFF6AD",
       "color2": "#020202"
@@ -374,6 +424,7 @@
     "buap": {
       "id": "buap",
       "title": "BUAP",
+      "brand": "pirma",
       "country": "mexico",
       "color1": "#FFFFFF",
       "color2": "#FE0003"
@@ -381,6 +432,7 @@
     "atlas": {
       "id": "atlas",
       "title": "Atlas",
+      "brand": "adidas",
       "country": "mexico",
       "color1": "#C20002",
       "color2": "#010101"
@@ -388,6 +440,7 @@
     "monaco": {
       "id": "monaco",
       "title": "Monaco",
+      "brand": "kappa",
       "country": "france",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
@@ -395,6 +448,7 @@
     "newyork": {
       "id": "newyork",
       "title": "New York Red Bulls",
+      "brand": "adidas",
       "country": "unitedstates",
       "color1": "#C9C7C8",
       "color2": "#CC2832"
@@ -402,6 +456,7 @@
     "leon": {
       "id": "leon",
       "title": "León",
+      "brand": "pirma",
       "country": "mexico",
       "color1": "#077A54",
       "color2": "#FFFFFF"
@@ -409,6 +464,7 @@
     "hellasverona": {
       "id": "hellasverona",
       "title": "Hellas Verona",
+      "brand": "macron",
       "country": "italy",
       "color1": "#121FB4",
       "color2": "#F5E840"
@@ -416,6 +472,7 @@
     "santos": {
       "id": "santos",
       "title": "Santos",
+      "brand": "umbro",
       "country": "brazil",
       "color1": "#FFFFFF",
       "color2": "#000000"
@@ -423,6 +480,7 @@
     "argentinos": {
       "id": "argentinos",
       "title": "Argentinos Juniors",
+      "brand": "umbro",
       "country": "argentina",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
@@ -430,6 +488,7 @@
     "bocajuniors": {
       "id": "bocajuniors",
       "title": "Boca Juniors",
+      "brand": "nike",
       "country": "argentina",
       "color1": "#000050",
       "color2": "#FFCC03"
@@ -437,6 +496,7 @@
     "napoli": {
       "id": "napoli",
       "title": "Napoli",
+      "brand": "kappa",
       "country": "italy",
       "color1": "#0676D2",
       "color2": "#FFFFFF"
@@ -444,6 +504,7 @@
     "sevilla": {
       "id": "sevilla",
       "title": "Sevilla",
+      "brand": "nike",
       "country": "spain",
       "color1": "#FFFFFF",
       "color2": "#FE0003"
@@ -451,6 +512,7 @@
     "newells": {
       "id": "newells",
       "title": "Newell's Old Boys",
+      "brand": "umbro",
       "country": "argentina",
       "color1": "#000000",
       "color2": "#FE0404"
@@ -458,6 +520,7 @@
     "karlsruher": {
       "id": "karlsruher",
       "title": "Karlsruher",
+      "brand": "macron",
       "country": "germany",
       "color1": "#0003EA",
       "color2": "#FFFFFF"
@@ -465,6 +528,7 @@
     "bayernmunich": {
       "id": "bayernmunich",
       "title": "Bayern Munich",
+      "brand": "adidas",
       "country": "germany",
       "color1": "#D50002",
       "color2": "#FFFFFF"
@@ -472,6 +536,7 @@
     "parma": {
       "id": "parma",
       "title": "Parma",
+      "brand": "errea",
       "country": "italy",
       "color1": "#FFFFFF",
       "color2": "#000000"
@@ -479,6 +544,7 @@
     "rioave": {
       "id": "rioave",
       "title": "Rio Ave",
+      "brand": "nike",
       "country": "portugal",
       "color1": "#007600",
       "color2": "#FFFFFF"
@@ -486,13 +552,15 @@
     "benfica": {
       "id": "benfica",
       "title": "Benfica",
+      "brand": "adidas",
       "country": "portugal",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
     },
     "nacional": {
       "id": "nacional",
-      "title": "Nacional",
+      "title": "Nacional de Madeira",
+      "brand": "hummel",
       "country": "portugal",
       "color1": "#FFFFFF",
       "color2": "#000000"
@@ -500,6 +568,7 @@
     "realzaragoza": {
       "id": "realzaragoza",
       "title": "Real Zaragoza",
+      "brand": "adidas",
       "country": "spain",
       "color1": "#FFFFFF",
       "color2": "#0000FF"
@@ -507,6 +576,7 @@
     "hamburger": {
       "id": "hamburger",
       "title": "Hamburger",
+      "brand": "adidas",
       "country": "germany",
       "color1": "#FFFFFF",
       "color2": "#FE0003"
@@ -514,6 +584,7 @@
     "ajax": {
       "id": "ajax",
       "title": "Ajax",
+      "brand": "adidas",
       "country": "netherlands",
       "color1": "#FFFFFF",
       "color2": "#FE0003"
@@ -521,6 +592,7 @@
     "aztecs": {
       "id": "aztecs",
       "title": "Los Angeles Aztecs",
+      "brand": "adidasvintage",
       "country": "unitedstates",
       "color1": "#FFFFFF",
       "color2": "#0000FF"
@@ -528,6 +600,7 @@
     "diplomats": {
       "id": "diplomats",
       "title": "Washington Diplomats",
+      "brand": "adidasvintage",
       "country": "unitedstates",
       "color1": "#BC1234",
       "color2": "#FFFFFF"
@@ -535,6 +608,7 @@
     "levante": {
       "id": "levante",
       "title": "Levante",
+      "brand": "macron",
       "country": "spain",
       "color1": "#0A1E97",
       "color2": "#DB0002"
@@ -542,13 +616,15 @@
     "feyenoord": {
       "id": "feyenoord",
       "title": "Feyenoord",
+      "brand": "adidas",
       "country": "netherlands",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
     },
     "nancy": {
       "id": "nancy",
-      "title": "Nancy",
+      "title": "Nancy-Lorraine",
+      "brand": "nike",
       "country": "france",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
@@ -556,6 +632,7 @@
     "saintetienne": {
       "id": "saintetienne",
       "title": "Saint-Étienne",
+      "brand": "lecoqsportif",
       "country": "france",
       "color1": "#00812D",
       "color2": "#FFFFFF"
@@ -563,6 +640,7 @@
     "uniaosaojoao": {
       "id": "uniaosaojoao",
       "title": "União São João",
+      "brand": "ludi",
       "country": "brazil",
       "color1": "#FFFFFF",
       "color2": "#008000"
@@ -570,6 +648,7 @@
     "palmeiras": {
       "id": "palmeiras",
       "title": "Saint-Étienne",
+      "brand": "puma",
       "country": "brazil",
       "color1": "#003e00",
       "color2": "#FFFFFF"
@@ -577,6 +656,7 @@
     "fenerbahce": {
       "id": "fenerbahce",
       "title": "Fenerbahçe",
+      "brand": "adidas",
       "country": "turkey",
       "color1": "#00005F",
       "color2": "#FFEE03"
@@ -584,6 +664,7 @@
     "anzhi": {
       "id": "anzhi",
       "title": "Anzhí",
+      "brand": "nike",
       "country": "russia",
       "color1": "#FFFF04",
       "color2": "#008900"
@@ -591,6 +672,7 @@
     "budapest": {
       "id": "budapest",
       "title": "Budapest Honvéd",
+      "brand": "macron",
       "country": "hungary",
       "color1": "#F32C2F",
       "color2": "#008900"
@@ -598,6 +680,7 @@
     "dynamomoscow": {
       "id": "dynamomoscow",
       "title": "Dynamo Moscow",
+      "brand": "nike",
       "country": "russia",
       "color1": "#2447D5",
       "color2": "#FFFFFF"
@@ -605,6 +688,7 @@
     "riverplate": {
       "id": "riverplate",
       "title": "River Plate",
+      "brand": "adidas",
       "country": "argentina",
       "color1": "#FFFFFF",
       "color2": "#FE0B0B"
@@ -612,6 +696,7 @@
     "huracan": {
       "id": "huracan",
       "title": "Huracán",
+      "brand": "tbs",
       "country": "argentina",
       "color1": "#FFFFFF",
       "color2": "#FE0003"
@@ -619,6 +704,7 @@
     "millonarios": {
       "id": "millonarios",
       "title": "Millonarios",
+      "brand": "adidas",
       "country": "colombia",
       "color1": "#0D3F96",
       "color2": "#FFFFFF"
@@ -626,6 +712,7 @@
     "espanyol": {
       "id": "espanyol",
       "title": "Espanyol",
+      "brand": "kelme",
       "country": "spain",
       "color1": "#0040FF",
       "color2": "#FFFFFF"
@@ -633,13 +720,15 @@
     "udinese": {
       "id": "udinese",
       "title": "Udinese",
+      "brand": "macron",
       "country": "italy",
       "color1": "#FFFFFF",
       "color2": "#000000"
     },
     "mantova": {
       "id": "mantova",
-      "title": "Mantova",
+      "title": "Mantova 1911",
+      "brand": "ginova",
       "country": "italy",
       "color1": "#FFFFFF",
       "color2": "#FE0003"
@@ -647,6 +736,7 @@
     "queretaro": {
       "id": "queretaro",
       "title": "Querétaro",
+      "brand": "puma",
       "country": "mexico",
       "color1": "#010101",
       "color2": "#154FFB"
@@ -654,6 +744,7 @@
     "monterrey": {
       "id": "monterrey",
       "title": "Monterrey",
+      "brand": "puma",
       "country": "mexico",
       "color1": "#020B3E",
       "color2": "#FFFFFF"
@@ -661,6 +752,7 @@
     "chiapas": {
       "id": "chiapas",
       "title": "Chiapas",
+      "brand": "charly",
       "country": "mexico",
       "color1": "#0B7F60",
       "color2": "#010101"
@@ -668,6 +760,7 @@
     "standardliege": {
       "id": "standardliege",
       "title": "Standard Liège",
+      "brand": "newbalance",
       "country": "belgium",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
@@ -675,6 +768,7 @@
     "guadalajara": {
       "id": "guadalajara",
       "title": "Guadalajara",
+      "brand": "puma",
       "country": "mexico",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
@@ -682,6 +776,7 @@
     "saopaulo": {
       "id": "saopaulo",
       "title": "São Paulo",
+      "brand": "adidas",
       "country": "brazil",
       "color1": "#FFFFFF",
       "color2": "#000000"
@@ -689,6 +784,7 @@
     "roma": {
       "id": "roma",
       "title": "Roma",
+      "brand": "nike",
       "country": "italy",
       "color1": "#8F0908",
       "color2": "#FFFFFF"
@@ -696,6 +792,7 @@
     "deportivocoruna": {
       "id": "deportivocoruna",
       "title": "Deportivo de La Coruña",
+      "brand": "macron",
       "country": "spain",
       "color1": "#0030FF",
       "color2": "#FFFFFF"
@@ -703,6 +800,7 @@
     "leverkusen": {
       "id": "leverkusen",
       "title": "Bayer 04 Leverkusen",
+      "brand": "jako",
       "country": "germany",
       "color1": "#FE0003",
       "color2": "#000000"
@@ -710,6 +808,7 @@
     "valencia": {
       "id": "valencia",
       "title": "Valencia",
+      "brand": "puma",
       "country": "spain",
       "color1": "#FFFFFF",
       "color2": "#FE6303"
@@ -717,6 +816,7 @@
     "realbetis": {
       "id": "realbetis",
       "title": "Real Betis",
+      "brand": "kappa",
       "country": "spain",
       "color1": "#007E00",
       "color2": "#FFFFFF"
@@ -724,6 +824,7 @@
     "gremio": {
       "id": "gremio",
       "title": "Grêmio",
+      "brand": "umbro",
       "country": "brazil",
       "color1": "#5EB3FF",
       "color2": "#000000"
@@ -731,6 +832,7 @@
     "flamengo": {
       "id": "flamengo",
       "title": "Flamengo",
+      "brand": "adidas",
       "country": "brazil",
       "color1": "#C80002",
       "color2": "#000000"
@@ -738,6 +840,7 @@
     "atleticomineiro": {
       "id": "atleticomineiro",
       "title": "Atlético Mineiro",
+      "brand": "lecoqsportif",
       "country": "brazil",
       "color1": "#FFFFFF",
       "color2": "#000000"
@@ -745,6 +848,7 @@
     "fluminense": {
       "id": "fluminense",
       "title": "Fluminense",
+      "brand": "under",
       "country": "brazil",
       "color1": "#A00001",
       "color2": "#006000"
@@ -752,6 +856,7 @@
     "fulham": {
       "id": "fulham",
       "title": "Fulham",
+      "brand": "adidas",
       "country": "england",
       "color1": "#FFFFFF",
       "color2": "#000000"
@@ -759,20 +864,23 @@
     "besiktas": {
       "id": "besiktas",
       "title": "Beşiktaş",
+      "brand": "adidas",
       "country": "turkey",
       "color1": "#FFFFFF",
       "color2": "#000000"
     },
     "southampton": {
       "id": "southampton",
-      "title": "southampton",
+      "title": "Southampton",
+      "brand": "under",
       "country": "england",
       "color1": "#FE0003",
       "color2": "#000000"
     },
     "tottenham": {
       "id": "tottenham",
-      "title": "tottenham",
+      "title": "Tottenham",
+      "brand": "nike",
       "country": "england",
       "color1": "#FFFFFF",
       "color2": "#000040"
@@ -780,6 +888,7 @@
     "westham": {
       "id": "westham",
       "title": "West Ham United",
+      "brand": "umbro",
       "country": "england",
       "color1": "#800001",
       "color2": "#82C2FF"
@@ -787,6 +896,7 @@
     "olympiquelyon": {
       "id": "olympiquelyon",
       "title": "Olympique de Lyon",
+      "brand": "adidas",
       "country": "france",
       "color1": "#FFFFFF",
       "color2": "#DA0022"
@@ -794,6 +904,7 @@
     "alrayyan": {
       "id": "alrayyan",
       "title": "Al-Rayyan",
+      "brand": "nike",
       "country": "qatar",
       "color1": "#FE0003",
       "color2": "#000000"
@@ -801,6 +912,7 @@
     "bolton": {
       "id": "bolton",
       "title": "Bolton Wanderers",
+      "brand": "hummel",
       "country": "england",
       "color1": "#FFFFFF",
       "color2": "#00004F"
@@ -808,6 +920,7 @@
     "salamanca": {
       "id": "salamanca",
       "title": "Salamanca",
+      "brand": "adidas",
       "country": "spain",
       "color1": "#FFFFFF",
       "color2": "#000000"
@@ -815,6 +928,7 @@
     "osasuna": {
       "id": "osasuna",
       "title": "Osasuna",
+      "brand": "hummel",
       "country": "spain",
       "color1": "#CE0002",
       "color2": "#00003C"
@@ -822,6 +936,7 @@
     "arsenal": {
       "id": "arsenal",
       "title": "Arsenal",
+      "brand": "adidas",
       "country": "england",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
@@ -829,6 +944,7 @@
     "realsociedad": {
       "id": "realsociedad",
       "title": "Real Sociedad",
+      "brand": "macron",
       "country": "spain",
       "color1": "#FFFFFF",
       "color2": "#0000FF"
@@ -836,6 +952,7 @@
     "losangeles": {
       "id": "losangeles",
       "title": "Los Angeles",
+      "brand": "adidas",
       "country": "unitedstates",
       "color1": "#020202",
       "color2": "#A68F4A"
@@ -843,6 +960,7 @@
     "westbromwich": {
       "id": "westbromwich",
       "title": "West Bromwich",
+      "brand": "puma",
       "country": "england",
       "color1": "#031060",
       "color2": "#FFFFFF"
@@ -850,6 +968,7 @@
     "ajaccio": {
       "id": "ajaccio",
       "title": "Ajaccio",
+      "brand": "adidas",
       "country": "france",
       "color1": "#FFFFFF",
       "color2": "#CC0002"
@@ -857,6 +976,7 @@
     "malaga": {
       "id": "malaga",
       "title": "Málaga",
+      "brand": "nike",
       "country": "spain",
       "color1": "#FFFFFF",
       "color2": "#68AEFA"
@@ -864,6 +984,7 @@
     "granada": {
       "id": "granada",
       "title": "Granada",
+      "brand": "nike",
       "country": "spain",
       "color1": "#FE0003",
       "color2": "#0000FF"
@@ -871,6 +992,7 @@
     "wolverhampton": {
       "id": "wolverhampton",
       "title": "Wolverhampton",
+      "brand": "adidas",
       "country": "england",
       "color1": "#FF8403",
       "color2": "#000000"
@@ -878,6 +1000,7 @@
     "pachuca": {
       "id": "pachuca",
       "title": "Pachuca",
+      "brand": "charly",
       "country": "mexico",
       "color1": "#05143B",
       "color2": "#FFFFFF"
@@ -885,6 +1008,7 @@
     "twente": {
       "id": "twente",
       "title": "Twente",
+      "brand": "kicks21",
       "country": "netherlands",
       "color1": "#FE0003",
       "color2": "#FFFFFF"

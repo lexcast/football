@@ -5,4 +5,6 @@ const getPlayer = (playerId, teamId) =>
 
 const getSignature = playerId => `/images/signatures/${playerId}.png`;
 
-export { getLogo, getPlayer, getSignature };
+const getBrand = brandId => `/images/brands/${brandId}.svg`;
+
+export { getLogo, getPlayer, getSignature, getBrand };

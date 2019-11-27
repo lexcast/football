@@ -1,5 +1,6 @@
 import React from "react";
-import { getLogo } from "utils/image";
+import { getLogo, getBrand } from "utils/image";
+import ReactSVG from "react-svg";
 
 const PlayerBack = ({ player, team, national }) => {
   const isGK = player.position === "GK";
@@ -42,6 +43,19 @@ const PlayerBack = ({ player, team, national }) => {
           }
         />
       </div>
+
+      {team.brand && (
+        <div className="absolute top-0 left-0 h-10 ml-10 mt-16 pt-2 w-8 h-8 flex items-center transition-all">
+          <ReactSVG
+            src={getBrand(team.brand)}
+            style={{ color: isGK ? team.color1 : team.color2 }}
+            className="flex items-center justify-center fill-current max-w-full max-h-full mx-auto transition-all"
+            beforeInjection={svg =>
+              svg.classList.add("max-w-full", "max-h-full")
+            }
+          />
+        </div>
+      )}
     </div>
   );
 };
