@@ -632,7 +632,7 @@
     "saintetienne": {
       "id": "saintetienne",
       "title": "Saint-Étienne",
-      "brand": "lecoqsportif",
+      "brand": "lecoq",
       "country": "france",
       "color1": "#00812D",
       "color2": "#FFFFFF"
@@ -840,7 +840,7 @@
     "atleticomineiro": {
       "id": "atleticomineiro",
       "title": "Atlético Mineiro",
-      "brand": "lecoqsportif",
+      "brand": "lecoq",
       "country": "brazil",
       "color1": "#FFFFFF",
       "color2": "#000000"
