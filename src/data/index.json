@@ -1037,6 +1037,22 @@
       "country": "spain",
       "color1": "#FFFFFF",
       "color2": "#7A000A"
+    },
+    "alkmaar": {
+      "id": "alkmaar",
+      "title": "AZ Alkmaar",
+      "brand": "under",
+      "country": "netherlands",
+      "color1": "#FE0003",
+      "color2": "#FFFFFF"
+    },
+    "algharafa": {
+      "id": "algharafa",
+      "title": "Al-Gharafa",
+      "brand": "errea",
+      "country": "qatar",
+      "color1": "#FFFFFF",
+      "color2": "#0000FF"
     }
   },
   "players": {
@@ -1564,6 +1580,23 @@
       "position": "GK",
       "clubs": ["saprissa", "albacete", "levante", "realmadrid", "psg"],
       "nationalTeam": "costarica",
+      "signature": true,
+      "retired": false
+    },
+    "hectormoreno": {
+      "name": "Héctor Moreno",
+      "number": 15,
+      "position": "CB",
+      "clubs": [
+        "unam",
+        "alkmaar",
+        "espanyol",
+        "psv",
+        "roma",
+        "realsociedad",
+        "algharafa"
+      ],
+      "nationalTeam": "mexico",
       "signature": true,
       "retired": false
     }
