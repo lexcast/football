@@ -18,7 +18,8 @@
     "turkey": "󠁧󠁢󠁥󠁮󠁧󠁿🇹🇷",
     "colombia": "🇨🇴",
     "hungary": "🇭🇺",
-    "russia": "🇷🇺"
+    "russia": "🇷🇺",
+    "costarica": "🇨🇷"
   },
   "clubs": {
     "mexico": {
@@ -123,6 +124,14 @@
       "brand": "adidas",
       "color1": "#FE0003",
       "color2": "#FFD003",
+      "isNational": true
+    },
+    "costarica": {
+      "id": "costarica",
+      "title": "Costa Rica",
+      "brand": "newbalance",
+      "color1": "#DC0005",
+      "color2": "#0057E8",
       "isNational": true
     },
     "realmadrid": {
@@ -1012,6 +1021,22 @@
       "country": "netherlands",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
+    },
+    "saprissa": {
+      "id": "saprissa",
+      "title": "Saprissa",
+      "brand": "kappa",
+      "country": "costarica",
+      "color1": "#79103E",
+      "color2": "#FFFFFF"
+    },
+    "albacete": {
+      "id": "albacete",
+      "title": "Albacete",
+      "brand": "hummel",
+      "country": "spain",
+      "color1": "#FFFFFF",
+      "color2": "#7A000A"
     }
   },
   "players": {
@@ -1530,6 +1555,15 @@
       "position": "RW",
       "clubs": ["monterrey", "twente", "porto"],
       "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
+    },
+    "keylornavas": {
+      "name": "Keylor Navas",
+      "number": 1,
+      "position": "GK",
+      "clubs": ["saprissa", "albacete", "levante", "realmadrid", "psg"],
+      "nationalTeam": "costarica",
       "signature": true,
       "retired": false
     }
