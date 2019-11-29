@@ -1599,6 +1599,15 @@
       "nationalTeam": "mexico",
       "signature": true,
       "retired": false
+    },
+    "carlespuyol": {
+      "name": "Carles Puyol",
+      "number": 5,
+      "position": "CB",
+      "clubs": ["barcelona"],
+      "nationalTeam": "spain",
+      "signature": true,
+      "retired": true
     }
   }
 }
