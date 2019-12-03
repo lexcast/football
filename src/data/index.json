@@ -1053,6 +1053,30 @@
       "country": "qatar",
       "color1": "#FFFFFF",
       "color2": "#0000FF"
+    },
+    "watford": {
+      "id": "watford",
+      "title": "Watford",
+      "brand": "adidas",
+      "country": "england",
+      "color1": "#FFE003",
+      "color2": "#000000"
+    },
+    "atalanta": {
+      "id": "atalanta",
+      "title": "Atalanta",
+      "brand": "joma",
+      "country": "italy",
+      "color1": "#005FF2",
+      "color2": "#000000"
+    },
+    "villarreal": {
+      "id": "villarreal",
+      "title": "Villarreal",
+      "brand": "joma",
+      "country": "spain",
+      "color1": "#FFFF04",
+      "color2": "#000022"
     }
   },
   "players": {
@@ -1608,6 +1632,24 @@
       "nationalTeam": "spain",
       "signature": true,
       "retired": true
+    },
+    "miguellayun": {
+      "name": "Miguel Layún",
+      "number": 7,
+      "position": "RB",
+      "clubs": [
+        "veracruz",
+        "atalanta",
+        "america",
+        "watford",
+        "porto",
+        "sevilla",
+        "villarreal",
+        "monterrey"
+      ],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
     }
   }
 }
