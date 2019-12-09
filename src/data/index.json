@@ -1659,6 +1659,15 @@
       "nationalTeam": "spain",
       "signature": true,
       "retired": false
+    },
+    "erickgutierrez": {
+      "name": "Erick Gutiérrez",
+      "number": 15,
+      "position": "CM",
+      "clubs": ["pachuca", "psv"],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
     }
   }
 }
