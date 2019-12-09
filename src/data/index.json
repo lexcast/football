@@ -1668,6 +1668,15 @@
       "nationalTeam": "mexico",
       "signature": true,
       "retired": false
+    },
+    "diegolainez": {
+      "name": "Diego Lainez",
+      "number": 20,
+      "position": "LW",
+      "clubs": ["america", "realbetis"],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
     }
   }
 }
