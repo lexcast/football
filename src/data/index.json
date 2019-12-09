@@ -1650,6 +1650,15 @@
       "nationalTeam": "mexico",
       "signature": true,
       "retired": false
+    },
+    "sergioramos": {
+      "name": "Sergio Ramos",
+      "number": 4,
+      "position": "CB",
+      "clubs": ["sevilla", "realmadrid"],
+      "nationalTeam": "spain",
+      "signature": true,
+      "retired": false
     }
   }
 }
