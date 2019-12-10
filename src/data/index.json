@@ -1677,6 +1677,15 @@
       "nationalTeam": "mexico",
       "signature": true,
       "retired": false
+    },
+    "edsonalvarez": {
+      "name": "Edson Álvarez",
+      "number": 4,
+      "position": "CB",
+      "clubs": ["america", "ajax"],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
     }
   }
 }
