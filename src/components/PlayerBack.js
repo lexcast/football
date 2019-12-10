@@ -1,6 +1,6 @@
 import React from "react";
 import { getLogo, getBrand } from "utils/image";
-import ReactSVG from "react-svg";
+import { ReactSVG } from "react-svg";
 
 const PlayerBack = ({ player, team, national }) => {
   const isGK = player.position === "GK";
