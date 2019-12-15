@@ -1077,6 +1077,14 @@
       "country": "spain",
       "color1": "#FFFF04",
       "color2": "#000022"
+    },
+    "celtadevigo": {
+      "id": "celtadevigo",
+      "title": "Celta de Vigo",
+      "brand": "adidas",
+      "country": "spain",
+      "color1": "#B9E4FF",
+      "color2": "#9A1B1B"
     }
   },
   "players": {
@@ -1683,6 +1691,15 @@
       "number": 4,
       "position": "CB",
       "clubs": ["america", "ajax"],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
+    },
+    "nestoraraujo": {
+      "name": "Néstor Araújo",
+      "number": 2,
+      "position": "CB",
+      "clubs": ["cruzazul", "santoslaguna", "celtadevigo"],
       "nationalTeam": "mexico",
       "signature": true,
       "retired": false
