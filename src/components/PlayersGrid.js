@@ -1,6 +1,7 @@
 import React from "react";
 import PlayerCard from "./PlayerCard";
 import { positions } from "./PositionFilter";
+import accents from "remove-accents";
 
 const PlayersGrid = ({
   search,
@@ -43,14 +44,15 @@ const PlayersGrid = ({
         !search ||
         player.id.includes(search.toLowerCase().replace(" ", "")) ||
         player.name.toLowerCase().includes(search.toLowerCase()) ||
+        accents(player.name.toLowerCase()).includes(search.toLowerCase()) ||
         player.number === parseInt(search)
     )
     .sort((a, b) => {
       const pa = a.name.split(" ");
       const pb = b.name.split(" ");
 
-      let ca = pa[pa.length - 1];
-      let cb = pb[pb.length - 1];
+      let ca = accents(pa[pa.length - 1]);
+      let cb = accents(pb[pb.length - 1]);
       let na = 0;
       let nb = 0;
 
