@@ -1093,6 +1093,30 @@
       "country": "spain",
       "color1": "#0043FF",
       "color2": "#FFFFFF"
+    },
+    "realsaltlake": {
+      "id": "realsaltlake",
+      "title": "Real Salt Lake",
+      "brand": "adidas",
+      "country": "unitedstates",
+      "color1": "#E60002",
+      "color2": "#F8C203"
+    },
+    "fiorentina": {
+      "id": "fiorentina",
+      "title": "ACF Fiorentina",
+      "brand": "lecoq",
+      "country": "italy",
+      "color1": "#5B1B81",
+      "color2": "#000000"
+    },
+    "frankfurt": {
+      "id": "frankfurt",
+      "title": "Eintracht Frankfurt",
+      "brand": "nike",
+      "country": "germany",
+      "color1": "#000000",
+      "color2": "#F10003"
     }
   },
   "players": {
@@ -1723,6 +1747,21 @@
         "espanyol",
         "fenerbahce",
         "leganes",
+        "uanl"
+      ],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
+    },
+    "carlossalcedo": {
+      "name": "Carlos Salcedo",
+      "number": 3,
+      "position": "CB",
+      "clubs": [
+        "realsaltlake",
+        "guadalajara",
+        "fiorentina",
+        "frankfurt",
         "uanl"
       ],
       "nationalTeam": "mexico",
