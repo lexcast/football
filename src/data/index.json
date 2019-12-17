@@ -1085,6 +1085,14 @@
       "country": "spain",
       "color1": "#B9E4FF",
       "color2": "#9A1B1B"
+    },
+    "leganes": {
+      "id": "leganes",
+      "title": "Leganés",
+      "brand": "joma",
+      "country": "spain",
+      "color1": "#0043FF",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -1700,6 +1708,23 @@
       "number": 2,
       "position": "CB",
       "clubs": ["cruzazul", "santoslaguna", "celtadevigo"],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
+    },
+    "diegoreyes": {
+      "name": "Diego Reyes",
+      "number": 5,
+      "position": "CB",
+      "clubs": [
+        "america",
+        "porto",
+        "realsociedad",
+        "espanyol",
+        "fenerbahce",
+        "leganes",
+        "uanl"
+      ],
       "nationalTeam": "mexico",
       "signature": true,
       "retired": false
