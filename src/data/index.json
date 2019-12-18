@@ -19,7 +19,9 @@
     "colombia": "🇨🇴",
     "hungary": "🇭🇺",
     "russia": "🇷🇺",
-    "costarica": "🇨🇷"
+    "costarica": "🇨🇷",
+    "bosnia": "🇧🇦",
+    "croatia": "🇭🇷"
   },
   "clubs": {
     "mexico": {
@@ -132,6 +134,14 @@
       "brand": "newbalance",
       "color1": "#DC0005",
       "color2": "#0057E8",
+      "isNational": true
+    },
+    "croatia": {
+      "id": "croatia",
+      "title": "Croatia",
+      "brand": "nike",
+      "color1": "#F40003",
+      "color2": "#FFFFFF",
       "isNational": true
     },
     "realmadrid": {
@@ -1117,6 +1127,30 @@
       "country": "germany",
       "color1": "#000000",
       "color2": "#F10003"
+    },
+    "mostar": {
+      "id": "mostar",
+      "title": "HŠK Zrinjski Mostar",
+      "brand": "macron",
+      "country": "bosnia",
+      "color1": "#FFFFFF",
+      "color2": "#FE0003"
+    },
+    "zapresic": {
+      "id": "zapresic",
+      "title": "NK Inter Zaprešić",
+      "brand": "joma",
+      "country": "croatia",
+      "color1": "#F8DD2D",
+      "color2": "#54A2EC"
+    },
+    "dinamozagreb": {
+      "id": "dinamozagreb",
+      "title": "G.N.K. Dinamo Zagreb",
+      "brand": "adidas",
+      "country": "croatia",
+      "color1": "#0000FF",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -1765,6 +1799,21 @@
         "uanl"
       ],
       "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
+    },
+    "lukamodric": {
+      "name": "Luka Modrić",
+      "number": 10,
+      "position": "CM",
+      "clubs": [
+        "mostar",
+        "zapresic",
+        "dinamozagreb",
+        "tottenham",
+        "realmadrid"
+      ],
+      "nationalTeam": "croatia",
       "signature": true,
       "retired": false
     }
