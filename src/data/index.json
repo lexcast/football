@@ -1816,6 +1816,15 @@
       "nationalTeam": "croatia",
       "signature": true,
       "retired": false
+    },
+    "edwinvandersar": {
+      "name": "Edwin van|der|Sar",
+      "number": 1,
+      "position": "GK",
+      "clubs": ["ajax", "juventus", "fulham", "manchesterunited"],
+      "nationalTeam": "netherlands",
+      "signature": true,
+      "retired": true
     }
   }
 }

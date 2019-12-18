@@ -37,7 +37,7 @@ const PlayerFront = ({ id, player, team, national }) => {
                 </span>
               );
             }
-            return <span key={i}>{txt.replace("|", " ")}</span>;
+            return <span key={i}>{txt.replace(/\|/g, " ")}</span>;
           })}
         </p>
       </div>
