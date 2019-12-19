@@ -21,7 +21,8 @@
     "russia": "🇷🇺",
     "costarica": "🇨🇷",
     "bosnia": "🇧🇦",
-    "croatia": "🇭🇷"
+    "croatia": "🇭🇷",
+    "japan": "🇯🇵"
   },
   "clubs": {
     "mexico": {
@@ -1183,6 +1184,14 @@
       "country": "england",
       "color1": "#FF9003",
       "color2": "#000000"
+    },
+    "kobe": {
+      "id": "kobe",
+      "title": "Vissel Kobe",
+      "brand": "asics",
+      "country": "japan",
+      "color1": "#5F0101",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -1883,6 +1892,15 @@
       "nationalTeam": "mexico",
       "signature": true,
       "retired": true
+    },
+    "andresiniesta": {
+      "name": "Andrés Iniesta",
+      "number": 6,
+      "position": "CM",
+      "clubs": ["barcelona", "kobe"],
+      "nationalTeam": "spain",
+      "signature": true,
+      "retired": false
     }
   }
 }
