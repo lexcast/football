@@ -1918,6 +1918,15 @@
       "nationalTeam": "france",
       "signature": true,
       "retired": false
+    },
+    "xavihernandez": {
+      "name": "Xavi|Hernández",
+      "number": 8,
+      "position": "CM",
+      "clubs": ["barcelona", "alsadd"],
+      "nationalTeam": "spain",
+      "signature": true,
+      "retired": true
     }
   }
 }
