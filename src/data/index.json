@@ -1192,6 +1192,14 @@
       "country": "japan",
       "color1": "#5F0101",
       "color2": "#FFFFFF"
+    },
+    "nice": {
+      "id": "nice",
+      "title": "O.G.C. Nice",
+      "brand": "macron",
+      "country": "france",
+      "color1": "#000000",
+      "color2": "#FE0003"
     }
   },
   "players": {
@@ -1899,6 +1907,15 @@
       "position": "CM",
       "clubs": ["barcelona", "kobe"],
       "nationalTeam": "spain",
+      "signature": true,
+      "retired": false
+    },
+    "hugolloris": {
+      "name": "Hugo Lloris",
+      "number": 1,
+      "position": "GK",
+      "clubs": ["nice", "olympiquelyon", "tottenham"],
+      "nationalTeam": "france",
       "signature": true,
       "retired": false
     }
