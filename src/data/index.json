@@ -144,6 +144,14 @@
       "color2": "#FFFFFF",
       "isNational": true
     },
+    "nigeria": {
+      "id": "nigeria",
+      "title": "Nigeria",
+      "brand": "nike",
+      "color1": "#1A4030",
+      "color2": "#37FF5C",
+      "isNational": true
+    },
     "realmadrid": {
       "id": "realmadrid",
       "title": "Real Madrid",
@@ -1151,6 +1159,30 @@
       "country": "croatia",
       "color1": "#0000FF",
       "color2": "#FFFFFF"
+    },
+    "neunkirchen": {
+      "id": "neunkirchen",
+      "title": "Borussia Neunkirchen",
+      "brand": "joma",
+      "country": "germany",
+      "color1": "#DE0002",
+      "color2": "#101010"
+    },
+    "qatarsc": {
+      "id": "qatarsc",
+      "title": "Qatar SC",
+      "brand": "adidas",
+      "country": "qatar",
+      "color1": "#FFFF04",
+      "color2": "#000000"
+    },
+    "hullcity": {
+      "id": "hullcity",
+      "title": "Hull City A.F.C.",
+      "brand": "umbro",
+      "country": "england",
+      "color1": "#FF9003",
+      "color2": "#000000"
     }
   },
   "players": {
@@ -1823,6 +1855,23 @@
       "position": "GK",
       "clubs": ["ajax", "juventus", "fulham", "manchesterunited"],
       "nationalTeam": "netherlands",
+      "signature": true,
+      "retired": true
+    },
+    "jayjayokocha": {
+      "name": "Jay-Jay Okocha",
+      "number": 10,
+      "position": "AM",
+      "clubs": [
+        "neunkirchen",
+        "frankfurt",
+        "fenerbahce",
+        "psg",
+        "bolton",
+        "qatarsc",
+        "hullcity"
+      ],
+      "nationalTeam": "nigeria",
       "signature": true,
       "retired": true
     }
