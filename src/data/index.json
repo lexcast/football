@@ -1200,6 +1200,14 @@
       "country": "france",
       "color1": "#000000",
       "color2": "#FE0003"
+    },
+    "chivasusa": {
+      "id": "chivasusa",
+      "title": "C.D. Chivas USA",
+      "brand": "adidas",
+      "country": "unitedstates",
+      "color1": "#B81901",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -1925,6 +1933,15 @@
       "position": "CM",
       "clubs": ["barcelona", "alsadd"],
       "nationalTeam": "spain",
+      "signature": true,
+      "retired": true
+    },
+    "claudiosuarez": {
+      "name": "Claudio Suárez",
+      "number": 2,
+      "position": "CB",
+      "clubs": ["unam", "guadalajara", "uanl", "chivasusa"],
+      "nationalTeam": "mexico",
       "signature": true,
       "retired": true
     }
