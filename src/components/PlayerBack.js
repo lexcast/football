@@ -2,6 +2,27 @@ import React from "react";
 import { getLogo, getBrand } from "utils/image";
 import { ReactSVG } from "react-svg";
 
+const styles = {
+  stripesLeft: color =>
+    ["ml-6", "ml-8"].map(m => (
+      <div
+        key={m}
+        className={
+          "border-l-4 absolute top-0 left-0 w-full h-full transition-all " + m
+        }
+        style={{ borderColor: color }}
+      />
+    )),
+  verticalStripes: color =>
+    ["ml-6", "ml-32"].map(m => (
+      <div
+        key={m}
+        className={"absolute top-0 left-0 w-10 h-full transition-all " + m}
+        style={{ backgroundColor: color }}
+      />
+    ))
+};
+
 const PlayerBack = ({ player, team, national }) => {
   const isGK = player.position === "GK";
 
@@ -12,17 +33,7 @@ const PlayerBack = ({ player, team, national }) => {
         backgroundColor: !isGK ? team.color1 : team.color2
       }}
     >
-      {["ml-6", "ml-8"].map(m => (
-        <div
-          key={m}
-          className={
-            "border-l-4 absolute top-0 left-0 w-full h-full transition-all " + m
-          }
-          style={{
-            borderColor: isGK ? team.color1 : team.color2
-          }}
-        />
-      ))}
+      {styles["stripesLeft"](isGK ? team.color1 : team.color2)}
 
       <div
         className="font-bungee tracking-tighter font-black text-3xl opacity-75 m-auto transition-all"
