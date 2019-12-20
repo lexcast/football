@@ -162,6 +162,14 @@
       "color2": "#D6B446",
       "isNational": true
     },
+    "turkey": {
+      "id": "turkey",
+      "title": "Turkey",
+      "brand": "nike",
+      "color1": "#FE0003",
+      "color2": "#FFFFFF",
+      "isNational": true
+    },
     "realmadrid": {
       "id": "realmadrid",
       "title": "Real Madrid",
@@ -2000,6 +2008,15 @@
       "nationalTeam": "bosnia",
       "signature": true,
       "retired": false
+    },
+    "rusturecber": {
+      "name": "Rüştü Reçber",
+      "number": 1,
+      "position": "GK",
+      "clubs": ["fenerbahce", "barcelona", "besiktas"],
+      "nationalTeam": "turkey",
+      "signature": true,
+      "retired": true
     }
   }
 }
