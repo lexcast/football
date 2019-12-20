@@ -22,7 +22,8 @@
     "costarica": "🇨🇷",
     "bosnia": "🇧🇦",
     "croatia": "🇭🇷",
-    "japan": "🇯🇵"
+    "japan": "🇯🇵",
+    "czech": "🇨🇿"
   },
   "clubs": {
     "mexico": {
@@ -151,6 +152,14 @@
       "brand": "nike",
       "color1": "#1A4030",
       "color2": "#37FF5C",
+      "isNational": true
+    },
+    "bosnia": {
+      "id": "bosnia",
+      "title": "Bosnia & Herzegovina",
+      "brand": "adidas",
+      "color1": "#17203F",
+      "color2": "#D6B446",
       "isNational": true
     },
     "realmadrid": {
@@ -1208,6 +1217,38 @@
       "country": "unitedstates",
       "color1": "#B81901",
       "color2": "#FFFFFF"
+    },
+    "zeljeznicar": {
+      "id": "zeljeznicar",
+      "title": "FK Željezničar",
+      "brand": "umbro",
+      "country": "bosnia",
+      "color1": "#0037AC",
+      "color2": "#FFFFFF"
+    },
+    "teplice": {
+      "id": "teplice",
+      "title": "F. K. Teplice",
+      "brand": "puma",
+      "country": "czech",
+      "color1": "#FFFF04",
+      "color2": "#0000FF"
+    },
+    "wolfsburg": {
+      "id": "wolfsburg",
+      "title": "VfL Wolfsburg",
+      "brand": "nike",
+      "country": "germany",
+      "color1": "#0C4010",
+      "color2": "#67D865"
+    },
+    "manchestercity": {
+      "id": "manchestercity",
+      "title": "Manchester City F.C.",
+      "brand": "puma",
+      "country": "england",
+      "color1": "#81C2FF",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -1944,6 +1985,21 @@
       "nationalTeam": "mexico",
       "signature": true,
       "retired": true
+    },
+    "edindzeko": {
+      "name": "Edin Džeko",
+      "number": 9,
+      "position": "CF",
+      "clubs": [
+        "zeljeznicar",
+        "teplice",
+        "wolfsburg",
+        "manchestercity",
+        "roma"
+      ],
+      "nationalTeam": "bosnia",
+      "signature": true,
+      "retired": false
     }
   }
 }
