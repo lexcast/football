@@ -1257,6 +1257,14 @@
       "country": "england",
       "color1": "#81C2FF",
       "color2": "#FFFFFF"
+    },
+    "orlando": {
+      "id": "orlando",
+      "title": "Orlando City",
+      "brand": "adidas",
+      "country": "unitedstates",
+      "color1": "#5F00BF",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -2015,6 +2023,15 @@
       "position": "GK",
       "clubs": ["fenerbahce", "barcelona", "besiktas"],
       "nationalTeam": "turkey",
+      "signature": true,
+      "retired": true
+    },
+    "kaka": {
+      "name": "Kaká",
+      "number": 22,
+      "position": "AM",
+      "clubs": ["saopaulo", "milan", "realmadrid", "orlando"],
+      "nationalTeam": "brazil",
       "signature": true,
       "retired": true
     }
