@@ -1265,6 +1265,22 @@
       "country": "unitedstates",
       "color1": "#5F00BF",
       "color2": "#FFFFFF"
+    },
+    "tecos": {
+      "id": "tecos",
+      "title": "Tecos F.C.",
+      "brand": "romed",
+      "country": "mexico",
+      "color1": "#FFDB57",
+      "color2": "#FE0003"
+    },
+    "stuttgart": {
+      "id": "stuttgart",
+      "title": "VfB Stuttgart",
+      "brand": "jako",
+      "country": "germany",
+      "color1": "#FFFFFF",
+      "color2": "#FE0003"
     }
   },
   "players": {
@@ -2032,6 +2048,15 @@
       "position": "AM",
       "clubs": ["saopaulo", "milan", "realmadrid", "orlando"],
       "nationalTeam": "brazil",
+      "signature": true,
+      "retired": true
+    },
+    "pavelpardo": {
+      "name": "Pável Pardo",
+      "number": 8,
+      "position": "DM",
+      "clubs": ["atlas", "tecos", "america", "stuttgart", "chicago"],
+      "nationalTeam": "mexico",
       "signature": true,
       "retired": true
     }
