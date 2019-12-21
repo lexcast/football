@@ -23,7 +23,8 @@
     "bosnia": "🇧🇦",
     "croatia": "🇭🇷",
     "japan": "🇯🇵",
-    "czech": "🇨🇿"
+    "czech": "🇨🇿",
+    "saudiarabia": "🇸🇦"
   },
   "clubs": {
     "mexico": {
@@ -1329,6 +1330,22 @@
       "country": "unitedstates",
       "color1": "#000000",
       "color2": "#0000FF"
+    },
+    "alittihad": {
+      "id": "alittihad",
+      "title": "Al-Ittihad",
+      "brand": "joma",
+      "country": "saudiarabia",
+      "color1": "#FFFF04",
+      "color2": "#000000"
+    },
+    "morelia": {
+      "id": "morelia",
+      "title": "Monarcas Morelia",
+      "brand": "pirma",
+      "country": "mexico",
+      "color1": "#FFDF03",
+      "color2": "#FE0003"
     }
   },
   "players": {
@@ -2139,6 +2156,28 @@
         "leon"
       ],
       "nationalTeam": "unitedstates",
+      "signature": true,
+      "retired": true
+    },
+    "jaredborgetti": {
+      "name": "Jared Borgetti",
+      "number": 9,
+      "position": "CF",
+      "clubs": [
+        "atlas",
+        "santoslaguna",
+        "dorados",
+        "pachuca",
+        "bolton",
+        "alittihad",
+        "cruzazul",
+        "monterrey",
+        "guadalajara",
+        "puebla",
+        "morelia",
+        "leon"
+      ],
+      "nationalTeam": "mexico",
       "signature": true,
       "retired": true
     }
