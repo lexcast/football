@@ -170,6 +170,14 @@
       "color2": "#FFFFFF",
       "isNational": true
     },
+    "unitedstates": {
+      "id": "unitedstates",
+      "title": "United States of America",
+      "brand": "nike",
+      "color1": "#FFFFFF",
+      "color2": "#0D45FF",
+      "isNational": true
+    },
     "realmadrid": {
       "id": "realmadrid",
       "title": "Real Madrid",
@@ -1313,6 +1321,14 @@
       "country": "england",
       "color1": "#DE0002",
       "color2": "#FFFFFF"
+    },
+    "earthquakes": {
+      "id": "earthquakes",
+      "title": "San Jose Earthquakes",
+      "brand": "adidas",
+      "country": "unitedstates",
+      "color1": "#000000",
+      "color2": "#0000FF"
     }
   },
   "players": {
@@ -2109,6 +2125,22 @@
       "nationalTeam": "brazil",
       "signature": true,
       "retired": false
+    },
+    "landondonovan": {
+      "name": "Landon Donovan",
+      "number": 10,
+      "position": "SS",
+      "clubs": [
+        "leverkusen",
+        "earthquakes",
+        "galaxy",
+        "bayernmunich",
+        "everton",
+        "leon"
+      ],
+      "nationalTeam": "unitedstates",
+      "signature": true,
+      "retired": true
     }
   }
 }
