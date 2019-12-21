@@ -1281,6 +1281,22 @@
       "country": "germany",
       "color1": "#FFFFFF",
       "color2": "#FE0003"
+    },
+    "everton": {
+      "id": "everton",
+      "title": "Everton F.C.",
+      "brand": "umbro",
+      "country": "england",
+      "color1": "#0000FF",
+      "color2": "#FFFFFF"
+    },
+    "dcunited": {
+      "id": "dcunited",
+      "title": "D.C. United",
+      "brand": "adidas",
+      "country": "unitedstates",
+      "color1": "#020202",
+      "color2": "#3E3E3E"
     }
   },
   "players": {
@@ -2059,6 +2075,15 @@
       "nationalTeam": "mexico",
       "signature": true,
       "retired": true
+    },
+    "waynerooney": {
+      "name": "Wayne Rooney",
+      "number": 10,
+      "position": "CF",
+      "clubs": ["everton", "manchesterunited", "dcunited"],
+      "nationalTeam": "england",
+      "signature": true,
+      "retired": false
     }
   }
 }
