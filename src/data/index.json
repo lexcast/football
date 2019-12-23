@@ -25,7 +25,8 @@
     "japan": "🇯🇵",
     "czech": "🇨🇿",
     "saudiarabia": "🇸🇦",
-    "sweden": "🇸🇪"
+    "sweden": "🇸🇪",
+    "denmark": "🇩🇰"
   },
   "clubs": {
     "mexico": {
@@ -186,6 +187,14 @@
       "brand": "adidas",
       "color1": "#FFFF04",
       "color2": "#000555",
+      "isNational": true
+    },
+    "denmark": {
+      "id": "denmark",
+      "title": "Denmark",
+      "brand": "hummel",
+      "color1": "#FE0003",
+      "color2": "#FFFFFF",
       "isNational": true
     },
     "realmadrid": {
@@ -1363,6 +1372,22 @@
       "country": "sweden",
       "color1": "#82C2FF",
       "color2": "#FFFFFF"
+    },
+    "brondby": {
+      "id": "brondby",
+      "title": "Brøndby IF",
+      "brand": "hummel",
+      "country": "denmark",
+      "color1": "#FFFF04",
+      "color2": "#000062"
+    },
+    "astonvilla": {
+      "id": "astonvilla",
+      "title": "Aston Villa F.C.",
+      "brand": "kappa",
+      "country": "england",
+      "color1": "#85001C",
+      "color2": "#A5CCFF"
     }
   },
   "players": {
@@ -2216,6 +2241,21 @@
       "nationalTeam": "sweden",
       "signature": true,
       "retired": false
+    },
+    "peterschmeichel": {
+      "name": "Peter Schmeichel",
+      "number": 1,
+      "position": "GK",
+      "clubs": [
+        "brondby",
+        "manchesterunited",
+        "sporting",
+        "astonvilla",
+        "manchestercity"
+      ],
+      "nationalTeam": "denmark",
+      "signature": true,
+      "retired": true
     }
   }
 }
