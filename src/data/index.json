@@ -2297,6 +2297,15 @@
       "nationalTeam": "czech",
       "signature": true,
       "retired": true
+    },
+    "josedejesuscorona": {
+      "name": "José de Jesús Corona",
+      "number": 1,
+      "position": "GK",
+      "clubs": ["atlas", "tecos", "guadalajara", "cruzazul"],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
     }
   }
 }
