@@ -2356,6 +2356,15 @@
       "nationalTeam": "egypt",
       "signature": true,
       "retired": false
+    },
+    "daviddegea": {
+      "name": "David de|Gea",
+      "number": 1,
+      "position": "GK",
+      "clubs": ["atleticomadrid", "manchesterunited"],
+      "nationalTeam": "spain",
+      "signature": true,
+      "retired": false
     }
   }
 }
