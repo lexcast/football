@@ -26,7 +26,9 @@
     "czech": "🇨🇿",
     "saudiarabia": "🇸🇦",
     "sweden": "🇸🇪",
-    "denmark": "🇩🇰"
+    "denmark": "🇩🇰",
+    "egypt": "🇪🇬",
+    "switzerland": "🇨🇭"
   },
   "clubs": {
     "mexico": {
@@ -203,6 +205,14 @@
       "brand": "puma",
       "color1": "#F00002",
       "color2": "#0000EE",
+      "isNational": true
+    },
+    "egypt": {
+      "id": "egypt",
+      "title": "Egypt",
+      "brand": "puma",
+      "color1": "#F70003",
+      "color2": "#FFFFFF",
       "isNational": true
     },
     "realmadrid": {
@@ -1420,6 +1430,30 @@
       "country": "italy",
       "color1": "#5699EB",
       "color2": "#FFFFFF"
+    },
+    "almokawloon": {
+      "id": "almokawloon",
+      "title": "Al Mokawloon El Arab S.C.",
+      "brand": "adidas",
+      "country": "egypt",
+      "color1": "#F8FF25",
+      "color2": "#000000"
+    },
+    "basel": {
+      "id": "basel",
+      "title": "F.C. Basel",
+      "brand": "adidas",
+      "country": "switzerland",
+      "color1": "#FE0003",
+      "color2": "#0000FF"
+    },
+    "chelsea": {
+      "id": "chelsea",
+      "title": "Chelsea F.C.",
+      "brand": "nike",
+      "country": "england",
+      "color1": "#0000F7",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -2304,6 +2338,22 @@
       "position": "GK",
       "clubs": ["atlas", "tecos", "guadalajara", "cruzazul"],
       "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
+    },
+    "mohamedsalah": {
+      "name": "Mohamed Salah",
+      "number": 11,
+      "position": "RW",
+      "clubs": [
+        "almokawloon",
+        "basel",
+        "chelsea",
+        "fiorentina",
+        "roma",
+        "liverpool"
+      ],
+      "nationalTeam": "egypt",
       "signature": true,
       "retired": false
     }
