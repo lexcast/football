@@ -1454,6 +1454,14 @@
       "country": "england",
       "color1": "#0000F7",
       "color2": "#FFFFFF"
+    },
+    "racingsantander": {
+      "id": "racingsantander",
+      "title": "Racing de Santander",
+      "brand": "puma",
+      "country": "spain",
+      "color1": "#009150",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -2365,6 +2373,15 @@
       "nationalTeam": "spain",
       "signature": true,
       "retired": false
+    },
+    "pacogento": {
+      "name": "Paco Gento",
+      "number": 11,
+      "position": "LW",
+      "clubs": ["racingsantander", "realmadrid"],
+      "nationalTeam": "spain",
+      "signature": true,
+      "retired": true
     }
   }
 }
