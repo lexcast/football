@@ -2382,6 +2382,15 @@
       "nationalTeam": "spain",
       "signature": true,
       "retired": true
+    },
+    "ricardoosorio": {
+      "name": "Ricardo Osorio",
+      "number": 5,
+      "position": "RB",
+      "clubs": ["cruzazul", "stuttgart", "monterrey", "queretaro"],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": true
     }
   }
 }
