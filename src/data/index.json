@@ -197,6 +197,14 @@
       "color2": "#FFFFFF",
       "isNational": true
     },
+    "czech": {
+      "id": "czech",
+      "title": "Czech Republic",
+      "brand": "puma",
+      "color1": "#F00002",
+      "color2": "#0000EE",
+      "isNational": true
+    },
     "realmadrid": {
       "id": "realmadrid",
       "title": "Real Madrid",
@@ -1388,6 +1396,30 @@
       "country": "england",
       "color1": "#85001C",
       "color2": "#A5CCFF"
+    },
+    "duklapraha": {
+      "id": "duklapraha",
+      "title": "Dukla Praha",
+      "brand": "adidas",
+      "country": "czech",
+      "color1": "#711124",
+      "color2": "#F8D903"
+    },
+    "spartapraha": {
+      "id": "spartapraha",
+      "title": "Sparta Praha",
+      "brand": "nike",
+      "country": "czech",
+      "color1": "#89001C",
+      "color2": "#FFFFFF"
+    },
+    "lazio": {
+      "id": "lazio",
+      "title": "S.S. Lazio",
+      "brand": "macron",
+      "country": "italy",
+      "color1": "#5699EB",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -2254,6 +2286,15 @@
         "manchestercity"
       ],
       "nationalTeam": "denmark",
+      "signature": true,
+      "retired": true
+    },
+    "pavelnedved": {
+      "name": "Pavel Nedvěd",
+      "number": 11,
+      "position": "LM",
+      "clubs": ["duklapraha", "spartapraha", "lazio", "juventus"],
+      "nationalTeam": "czech",
       "signature": true,
       "retired": true
     }
