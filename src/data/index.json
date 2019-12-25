@@ -2391,6 +2391,15 @@
       "nationalTeam": "mexico",
       "signature": true,
       "retired": true
+    },
+    "kylianmbappe": {
+      "name": "Kylian Mbappé",
+      "number": 10,
+      "position": "CF",
+      "clubs": ["monaco", "psg"],
+      "nationalTeam": "france",
+      "signature": true,
+      "retired": false
     }
   }
 }
