@@ -1462,6 +1462,22 @@
       "country": "spain",
       "color1": "#009150",
       "color2": "#FFFFFF"
+    },
+    "blsany": {
+      "id": "blsany",
+      "title": "F.K. Chmel Blšany",
+      "brand": "puma",
+      "country": "czech",
+      "color1": "#FFFF04",
+      "color2": "#000080"
+    },
+    "rennais": {
+      "id": "rennais",
+      "title": "Stade Rennais FC",
+      "brand": "puma",
+      "country": "france",
+      "color1": "#FE0003",
+      "color2": "#000000"
     }
   },
   "players": {
@@ -2400,6 +2416,15 @@
       "nationalTeam": "france",
       "signature": true,
       "retired": false
+    },
+    "petrcech": {
+      "name": "Petr Čech",
+      "number": 1,
+      "position": "GK",
+      "clubs": ["blsany", "spartapraha", "rennais", "chelsea", "arsenal"],
+      "nationalTeam": "czech",
+      "signature": true,
+      "retired": true
     }
   }
 }
