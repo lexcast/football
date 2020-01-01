@@ -2574,6 +2574,15 @@
       "nationalTeam": "spain",
       "signature": true,
       "retired": true
+    },
+    "paolomaldini": {
+      "name": "Paolo Maldini",
+      "number": 3,
+      "position": "LB",
+      "clubs": ["milan"],
+      "nationalTeam": "italy",
+      "signature": true,
+      "retired": true
     }
   }
 }
