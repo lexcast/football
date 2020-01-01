@@ -1526,6 +1526,14 @@
       "country": "spain",
       "color1": "#DD0002",
       "color2": "#000077"
+    },
+    "middlesbrough": {
+      "id": "middlesbrough",
+      "title": "Middlesbrough F.C.",
+      "brand": "hummel",
+      "country": "england",
+      "color1": "#FE0003",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -2552,6 +2560,20 @@
       "nationalTeam": "spain",
       "signature": true,
       "retired": false
+    },
+    "victorvaldes": {
+      "name": "Víctor Valdés",
+      "number": 1,
+      "position": "GK",
+      "clubs": [
+        "barcelona",
+        "manchesterunited",
+        "standardliege",
+        "middlesbrough"
+      ],
+      "nationalTeam": "spain",
+      "signature": true,
+      "retired": true
     }
   }
 }
