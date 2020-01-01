@@ -51,8 +51,8 @@ const PlayersGrid = ({
       const pa = a.name.split(" ");
       const pb = b.name.split(" ");
 
-      let ca = accents(pa[pa.length - 1]);
-      let cb = accents(pb[pb.length - 1]);
+      let ca = accents(pa[pa.length - 1]).toLowerCase();
+      let cb = accents(pb[pb.length - 1]).toLowerCase();
       let na = 0;
       let nb = 0;
 
