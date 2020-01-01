@@ -2477,6 +2477,15 @@
       "nationalTeam": "mexico",
       "signature": true,
       "retired": false
+    },
+    "neymar": {
+      "name": "Neymar",
+      "number": 10,
+      "position": "LW",
+      "clubs": ["santos", "barcelona", "psg"],
+      "nationalTeam": "brazil",
+      "signature": true,
+      "retired": false
     }
   }
 }
