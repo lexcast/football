@@ -1478,6 +1478,30 @@
       "country": "france",
       "color1": "#FE0003",
       "color2": "#000000"
+    },
+    "ipswich": {
+      "id": "ipswich",
+      "title": "Ipswich Town F.C.",
+      "brand": "adidas",
+      "country": "england",
+      "color1": "#0000FA",
+      "color2": "#FFFFFF"
+    },
+    "galatasaray": {
+      "id": "galatasaray",
+      "title": "Galatasaray",
+      "brand": "nike",
+      "country": "turkey",
+      "color1": "#F29603",
+      "color2": "#8B1124"
+    },
+    "mallorca": {
+      "id": "mallorca",
+      "title": "R.C.D. Mallorca",
+      "brand": "umbro",
+      "country": "spain",
+      "color1": "#FE0003",
+      "color2": "#0A0A0A"
     }
   },
   "players": {
@@ -2434,6 +2458,25 @@
       "nationalTeam": "germany",
       "signature": true,
       "retired": true
+    },
+    "giovanidossantos": {
+      "name": "Giovani dos|Santos",
+      "number": 10,
+      "position": "SS",
+      "clubs": [
+        "barcelona",
+        "tottenham",
+        "ipswich",
+        "galatasaray",
+        "racingsantander",
+        "mallorca",
+        "villarreal",
+        "galaxy",
+        "america"
+      ],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
     }
   }
 }
