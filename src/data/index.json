@@ -1518,6 +1518,14 @@
       "country": "belgium",
       "color1": "#0000FF",
       "color2": "#FFFFFF"
+    },
+    "eibar": {
+      "id": "eibar",
+      "title": "SD Eibar",
+      "brand": "joma",
+      "country": "spain",
+      "color1": "#DD0002",
+      "color2": "#000077"
     }
   },
   "players": {
@@ -2511,6 +2519,21 @@
       "nationalTeam": "belgium",
       "signature": true,
       "retired": false
+    },
+    "xabialonso": {
+      "name": "Xabi|Alonso",
+      "number": 14,
+      "position": "DM",
+      "clubs": [
+        "realsociedad",
+        "eibar",
+        "liverpool",
+        "realmadrid",
+        "bayernmunich"
+      ],
+      "nationalTeam": "spain",
+      "signature": true,
+      "retired": true
     }
   }
 }
