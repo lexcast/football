@@ -215,6 +215,14 @@
       "color2": "#FFFFFF",
       "isNational": true
     },
+    "belgium": {
+      "id": "belgium",
+      "title": "Belgium",
+      "brand": "adidas",
+      "color1": "#FE0003",
+      "color2": "#000000",
+      "isNational": true
+    },
     "realmadrid": {
       "id": "realmadrid",
       "title": "Real Madrid",
@@ -1502,6 +1510,14 @@
       "country": "spain",
       "color1": "#FE0003",
       "color2": "#0A0A0A"
+    },
+    "genk": {
+      "id": "genk",
+      "title": "KRC Genk",
+      "brand": "nike",
+      "country": "belgium",
+      "color1": "#0000FF",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -2484,6 +2500,15 @@
       "position": "LW",
       "clubs": ["santos", "barcelona", "psg"],
       "nationalTeam": "brazil",
+      "signature": true,
+      "retired": false
+    },
+    "thibautcourtois": {
+      "name": "Thibaut Courtois",
+      "number": 13,
+      "position": "GK",
+      "clubs": ["genk", "atleticomadrid", "chelsea", "realmadrid"],
+      "nationalTeam": "belgium",
       "signature": true,
       "retired": false
     }
