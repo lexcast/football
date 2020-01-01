@@ -2543,6 +2543,15 @@
       "nationalTeam": "mexico",
       "signature": true,
       "retired": false
+    },
+    "sergiobusquets": {
+      "name": "Sergio Busquets",
+      "number": 5,
+      "position": "DM",
+      "clubs": ["barcelona"],
+      "nationalTeam": "spain",
+      "signature": true,
+      "retired": false
     }
   }
 }
