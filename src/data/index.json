@@ -1534,6 +1534,14 @@
       "country": "england",
       "color1": "#FE0003",
       "color2": "#FFFFFF"
+    },
+    "sanluis": {
+      "id": "sanluis",
+      "title": "San Luis F.C.",
+      "brand": "pirma",
+      "country": "mexico",
+      "color1": "#EF9D20",
+      "color2": "#022276"
     }
   },
   "players": {
@@ -2581,6 +2589,15 @@
       "position": "LB",
       "clubs": ["milan"],
       "nationalTeam": "italy",
+      "signature": true,
+      "retired": true
+    },
+    "oscarperez": {
+      "name": "Oscar Pérez",
+      "number": 1,
+      "position": "GK",
+      "clubs": ["cruzazul", "uanl", "chiapas", "necaxa", "sanluis", "pachuca"],
+      "nationalTeam": "mexico",
       "signature": true,
       "retired": true
     }
