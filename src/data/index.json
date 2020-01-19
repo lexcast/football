@@ -28,7 +28,8 @@
     "sweden": "🇸🇪",
     "denmark": "🇩🇰",
     "egypt": "🇪🇬",
-    "switzerland": "🇨🇭"
+    "switzerland": "🇨🇭",
+    "slovenia": "🇸🇮"
   },
   "clubs": {
     "mexico": {
@@ -221,6 +222,14 @@
       "brand": "adidas",
       "color1": "#FE0003",
       "color2": "#000000",
+      "isNational": true
+    },
+    "slovenia": {
+      "id": "slovenia",
+      "title": "Slovenia",
+      "brand": "nike",
+      "color1": "#FFFFFF",
+      "color2": "#0030FF",
       "isNational": true
     },
     "realmadrid": {
@@ -1542,6 +1551,30 @@
       "country": "mexico",
       "color1": "#EF9D20",
       "color2": "#022276"
+    },
+    "olimpija": {
+      "id": "olimpija",
+      "title": "NK Olimpija Ljubljana",
+      "brand": "nike",
+      "country": "slovenia",
+      "color1": "#007700",
+      "color2": "#FFFFFF"
+    },
+    "leiria": {
+      "id": "leiria",
+      "title": "U.D. Leiria",
+      "brand": "adidas",
+      "country": "portugal",
+      "color1": "#FFFFFF",
+      "color2": "#000000"
+    },
+    "beiramar": {
+      "id": "beiramar",
+      "title": "SC Beira-Mar",
+      "brand": "joma",
+      "country": "portugal",
+      "color1": "#FFDF03",
+      "color2": "#000000"
     }
   },
   "players": {
@@ -2607,6 +2640,22 @@
       "position": "SS",
       "clubs": ["bayernmunich"],
       "nationalTeam": "germany",
+      "signature": true,
+      "retired": false
+    },
+    "janoblak": {
+      "name": "Jan Oblak",
+      "number": 13,
+      "position": "GK",
+      "clubs": [
+        "olimpija",
+        "beiramar",
+        "leiria",
+        "rioave",
+        "benfica",
+        "atleticomadrid"
+      ],
+      "nationalTeam": "slovenia",
       "signature": true,
       "retired": false
     }
