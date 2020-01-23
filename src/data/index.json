@@ -29,7 +29,8 @@
     "denmark": "🇩🇰",
     "egypt": "🇪🇬",
     "switzerland": "🇨🇭",
-    "slovenia": "🇸🇮"
+    "slovenia": "🇸🇮",
+    "scotland": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
   },
   "clubs": {
     "mexico": {
@@ -1575,6 +1576,22 @@
       "country": "portugal",
       "color1": "#FFDF03",
       "color2": "#000000"
+    },
+    "groningen": {
+      "id": "groningen",
+      "title": "F.C. Groningen",
+      "brand": "puma",
+      "country": "netherlands",
+      "color1": "#FFFFFF",
+      "color2": "#006416"
+    },
+    "celtic": {
+      "id": "celtic",
+      "title": "Celtic F.C.",
+      "brand": "newbalance",
+      "country": "scotland",
+      "color1": "#FFFFFF",
+      "color2": "#009921"
     }
   },
   "players": {
@@ -2691,6 +2708,15 @@
       "nationalTeam": "mexico",
       "signature": true,
       "retired": true
+    },
+    "virgilvandijk": {
+      "name": "Virgil van|Dijk",
+      "number": 4,
+      "position": "CB",
+      "clubs": ["groningen", "celtic", "southampton", "liverpool"],
+      "nationalTeam": "netherlands",
+      "signature": true,
+      "retired": false
     }
   }
 }
