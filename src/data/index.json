@@ -2675,6 +2675,22 @@
       "nationalTeam": "denmark",
       "signature": true,
       "retired": true
+    },
+    "franciscorodriguez": {
+      "name": "Francisco Rodríguez",
+      "number": 2,
+      "position": "CB",
+      "clubs": [
+        "guadalajara",
+        "psv",
+        "stuttgart",
+        "america",
+        "cruzazul",
+        "buap"
+      ],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": true
     }
   }
 }
