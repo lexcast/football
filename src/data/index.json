@@ -2717,6 +2717,15 @@
       "nationalTeam": "netherlands",
       "signature": true,
       "retired": false
+    },
+    "seppmaier": {
+      "name": "Sepp Maier",
+      "number": 1,
+      "position": "GK",
+      "clubs": ["bayernmunich"],
+      "nationalTeam": "germany",
+      "signature": true,
+      "retired": true
     }
   }
 }
