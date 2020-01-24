@@ -2726,6 +2726,15 @@
       "nationalTeam": "germany",
       "signature": true,
       "retired": true
+    },
+    "stevengerrard": {
+      "name": "Steven Gerrard",
+      "number": 8,
+      "position": "CM",
+      "clubs": ["liverpool", "galaxy"],
+      "nationalTeam": "england",
+      "signature": true,
+      "retired": true
     }
   }
 }
