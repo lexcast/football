@@ -1592,6 +1592,30 @@
       "country": "scotland",
       "color1": "#FFFFFF",
       "color2": "#009921"
+    },
+    "tenerife": {
+      "id": "tenerife",
+      "title": "C.D. Tenerife",
+      "brand": "hummel",
+      "country": "spain",
+      "color1": "#FFFFFF",
+      "color2": "#0000BC"
+    },
+    "ejido": {
+      "id": "ejido",
+      "title": "Polideportivo Ejido",
+      "brand": "joma",
+      "country": "spain",
+      "color1": "#6BD3F2",
+      "color2": "#FFFFFF"
+    },
+    "indyeleven": {
+      "id": "indyeleven",
+      "title": "Indy Eleven",
+      "brand": "adidas",
+      "country": "unitedstates",
+      "color1": "#00003E",
+      "color2": "#C00003"
     }
   },
   "players": {
@@ -2733,6 +2757,23 @@
       "position": "CM",
       "clubs": ["liverpool", "galaxy"],
       "nationalTeam": "england",
+      "signature": true,
+      "retired": true
+    },
+    "gerardotorrado": {
+      "name": "Gerardo Torrado",
+      "number": 6,
+      "position": "DM",
+      "clubs": [
+        "unam",
+        "tenerife",
+        "ejido",
+        "sevilla",
+        "racingsantander",
+        "cruzazul",
+        "indyeleven"
+      ],
+      "nationalTeam": "mexico",
       "signature": true,
       "retired": true
     }
