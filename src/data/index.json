@@ -2776,6 +2776,15 @@
       "nationalTeam": "mexico",
       "signature": true,
       "retired": true
+    },
+    "tonikroos": {
+      "name": "Toni Kroos",
+      "number": 8,
+      "position": "CM",
+      "clubs": ["bayernmunich", "leverkusen", "realmadrid"],
+      "nationalTeam": "germany",
+      "signature": true,
+      "retired": false
     }
   }
 }
