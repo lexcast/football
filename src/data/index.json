@@ -1616,6 +1616,14 @@
       "country": "unitedstates",
       "color1": "#00003E",
       "color2": "#C00003"
+    },
+    "monchengladbach": {
+      "id": "monchengladbach",
+      "title": "Borussia Mönchengladbach",
+      "brand": "puma",
+      "country": "germany",
+      "color1": "#FFFFFF",
+      "color2": "#00BF84"
     }
   },
   "players": {
@@ -2782,6 +2790,15 @@
       "number": 8,
       "position": "CM",
       "clubs": ["bayernmunich", "leverkusen", "realmadrid"],
+      "nationalTeam": "germany",
+      "signature": true,
+      "retired": false
+    },
+    "marcandreterstegen": {
+      "name": "Marc-André ter|Stegen",
+      "number": 1,
+      "position": "GK",
+      "clubs": ["monchengladbach", "barcelona"],
       "nationalTeam": "germany",
       "signature": true,
       "retired": false
