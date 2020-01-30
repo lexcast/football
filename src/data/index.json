@@ -1624,6 +1624,30 @@
       "country": "germany",
       "color1": "#FFFFFF",
       "color2": "#00BF84"
+    },
+    "homburg": {
+      "id": "homburg",
+      "title": "FC Homburg",
+      "brand": "adidas",
+      "country": "germany",
+      "color1": "#008000",
+      "color2": "#FFFFFF"
+    },
+    "kaiserslautern": {
+      "id": "kaiserslautern",
+      "title": "FC Kaiserslautern",
+      "brand": "nike",
+      "country": "germany",
+      "color1": "#FE0003",
+      "color2": "#770023"
+    },
+    "werderbremen": {
+      "id": "werderbremen",
+      "title": "Werder Bremen",
+      "brand": "umbro",
+      "country": "germany",
+      "color1": "#039A51",
+      "color2": "#FFFFFF"
     }
   },
   "players": {
@@ -2802,6 +2826,21 @@
       "nationalTeam": "germany",
       "signature": true,
       "retired": false
+    },
+    "miroslavklose": {
+      "name": "Miroslav Klose",
+      "number": 11,
+      "position": "CF",
+      "clubs": [
+        "homburg",
+        "kaiserslautern",
+        "werderbremen",
+        "bayernmunich",
+        "lazio"
+      ],
+      "nationalTeam": "germany",
+      "signature": true,
+      "retired": true
     }
   }
 }
