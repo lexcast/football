@@ -2841,6 +2841,24 @@
       "nationalTeam": "germany",
       "signature": true,
       "retired": true
+    },
+    "luisgarcia": {
+      "name": "Luis García",
+      "number": 10,
+      "position": "FW",
+      "clubs": [
+        "unam",
+        "atleticomadrid",
+        "realsociedad",
+        "america",
+        "atlante",
+        "guadalajara",
+        "morelia",
+        "puebla"
+      ],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": true
     }
   }
 }
