@@ -30,7 +30,8 @@
     "egypt": "🇪🇬",
     "switzerland": "🇨🇭",
     "slovenia": "🇸🇮",
-    "scotland": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    "scotland": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "uruguay": "🇺🇾"
   },
   "clubs": {
     "mexico": {
@@ -231,6 +232,14 @@
       "brand": "nike",
       "color1": "#FFFFFF",
       "color2": "#0030FF",
+      "isNational": true
+    },
+    "uruguay": {
+      "id": "uruguay",
+      "title": "Uruguay",
+      "brand": "puma",
+      "color1": "#80B7FF",
+      "color2": "#000000",
       "isNational": true
     },
     "realmadrid": {
@@ -665,8 +674,8 @@
       "color1": "#FE0003",
       "color2": "#FFFFFF"
     },
-    "nacional": {
-      "id": "nacional",
+    "nacionalmadeira": {
+      "id": "nacionalmadeira",
       "title": "Nacional de Madeira",
       "brand": "hummel",
       "country": "portugal",
@@ -1648,6 +1657,14 @@
       "country": "germany",
       "color1": "#039A51",
       "color2": "#FFFFFF"
+    },
+    "nacional": {
+      "id": "nacional",
+      "title": "Nacional",
+      "brand": "umbro",
+      "country": "uruguay",
+      "color1": "#FFFFFF",
+      "color2": "#003360"
     }
   },
   "players": {
@@ -1853,7 +1870,7 @@
       "clubs": [
         "rioave",
         "benfica",
-        "nacional",
+        "nacionalmadeira",
         "realzaragoza",
         "realmadrid",
         "monaco",
@@ -2859,6 +2876,15 @@
       "nationalTeam": "mexico",
       "signature": true,
       "retired": true
+    },
+    "luissuarez": {
+      "name": "Luis Suárez",
+      "number": 9,
+      "position": "CF",
+      "clubs": ["nacional", "groningen", "ajax", "liverpool", "barcelona"],
+      "nationalTeam": "uruguay",
+      "signature": true,
+      "retired": false
     }
   }
 }
