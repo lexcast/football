@@ -2894,6 +2894,15 @@
       "nationalTeam": "spain",
       "signature": true,
       "retired": true
+    },
+    "francobaresi": {
+      "name": "Franco Baresi",
+      "number": 6,
+      "position": "SW",
+      "clubs": ["milan"],
+      "nationalTeam": "italy",
+      "signature": true,
+      "retired": true
     }
   }
 }
