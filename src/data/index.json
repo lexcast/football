@@ -2903,6 +2903,15 @@
       "nationalTeam": "italy",
       "signature": true,
       "retired": true
+    },
+    "hugoayala": {
+      "name": "Hugo Ayala",
+      "number": 2,
+      "position": "CB",
+      "clubs": ["atlas", "uanl"],
+      "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
     }
   }
 }
