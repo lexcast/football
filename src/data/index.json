@@ -2885,6 +2885,15 @@
       "nationalTeam": "uruguay",
       "signature": true,
       "retired": false
+    },
+    "ricardozamora": {
+      "name": "Ricardo Zamora",
+      "number": 1,
+      "position": "GK",
+      "clubs": ["espanyol", "barcelona", "realmadrid", "nice"],
+      "nationalTeam": "spain",
+      "signature": true,
+      "retired": true
     }
   }
 }
