@@ -1665,6 +1665,14 @@
       "country": "uruguay",
       "color1": "#FFFFFF",
       "color2": "#003360"
+    },
+    "juventude": {
+      "id": "juventude",
+      "title": "Juventude",
+      "brand": "19treze",
+      "country": "brazil",
+      "color1": "#009C5A",
+      "color2": "#DDF2E9"
     }
   },
   "players": {
@@ -2910,6 +2918,22 @@
       "position": "CB",
       "clubs": ["atlas", "uanl"],
       "nationalTeam": "mexico",
+      "signature": true,
+      "retired": false
+    },
+    "thiagosilva": {
+      "name": "Thiago Silva",
+      "number": 2,
+      "position": "CB",
+      "clubs": [
+        "juventude",
+        "porto",
+        "dynamomoscow",
+        "fluminense",
+        "milan",
+        "psg"
+      ],
+      "nationalTeam": "brazil",
       "signature": true,
       "retired": false
     }
