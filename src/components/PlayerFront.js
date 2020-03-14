@@ -42,7 +42,7 @@ const PlayerFront = ({ id, player, team, national }) => {
         </p>
       </div>
       {player.signature && (
-        <div className="w-20 h-20 flex items-center justify-center absolute right-0 bottom-0 pb-12">
+        <div className="w-12 h-12 flex items-center justify-center absolute right-0 bottom-0 mb-12 mr-5">
           <img
             src={getSignature(id)}
             alt={id}
