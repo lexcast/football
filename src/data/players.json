@@ -1164,5 +1164,21 @@
     "nationalTeam": "france",
     "retired": true,
     "worldChampion": 1
+  },
+  "gheorghehagi": {
+    "name": "Gheorghe Hagi",
+    "number": 10,
+    "position": "AM",
+    "clubs": [
+      "farulconstanta",
+      "sportulstudentesc",
+      "fcsb",
+      "realmadrid",
+      "bresciacalcio",
+      "barcelona",
+      "galatasaray"
+    ],
+    "nationalTeam": "romania",
+    "retired": true
   }
 }

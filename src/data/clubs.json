@@ -207,6 +207,14 @@
     "color2": "#000000",
     "isNational": true
   },
+  "romania": {
+    "id": "romania",
+    "title": "Romania",
+    "brand": "joma",
+    "color1": "#FFFF0B",
+    "color2": "#D00821",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -1662,5 +1670,37 @@
     "country": "france",
     "color1": "#FFFF04",
     "color2": "#0E8A1F"
+  },
+  "farulconstanta": {
+    "id": "farulconstanta",
+    "title": "Farul Constanța",
+    "brand": "joma",
+    "country": "romania",
+    "color1": "#340099",
+    "color2": "#000000"
+  },
+  "sportulstudentesc": {
+    "id": "sportulstudentesc",
+    "title": "Sportul Studențesc",
+    "brand": "puma",
+    "country": "romania",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "fcsb": {
+    "id": "fcsb",
+    "title": "FCSB",
+    "brand": "nike",
+    "country": "romania",
+    "color1": "#DD2003",
+    "color2": "#063994"
+  },
+  "bresciacalcio": {
+    "id": "bresciacalcio",
+    "title": "Brescia Calcio",
+    "brand": "kappa",
+    "country": "italy",
+    "color1": "#006BB9",
+    "color2": "#FFFFFF"
   }
 }
