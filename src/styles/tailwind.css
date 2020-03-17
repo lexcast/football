@@ -61,3 +61,7 @@ body {
 .js-tilt-glare {
   @apply rounded-lg;
 }
+
+.text-shadow {
+  text-shadow: rgba(0, 0, 0, 0.5) 0.5px 0.5px 1px;
+}

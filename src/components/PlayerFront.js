@@ -50,6 +50,11 @@ const PlayerFront = ({ id, player, team, national }) => {
           />
         </div>
       )}
+      {player.worldChampion > 0 && (
+        <div className="flex items-center justify-center absolute right-0 bottom-0 mr-2 text-2xs text-gold text-shadow">
+          {"★".repeat(player.worldChampion)}
+        </div>
+      )}
     </div>
   );
 };

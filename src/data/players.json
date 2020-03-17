@@ -4,7 +4,8 @@
     "number": 1,
     "position": "GK",
     "clubs": ["realmadrid", "porto"],
-    "nationalTeam": "spain"
+    "nationalTeam": "spain",
+    "worldChampion": 1
   },
   "zinedinezidane": {
     "name": "Zinedine Zidane",
@@ -12,7 +13,8 @@
     "position": "AM",
     "clubs": ["cannes", "bordeaux", "juventus", "realmadrid"],
     "nationalTeam": "france",
-    "retired": true
+    "retired": true,
+    "worldChampion": 1
   },
   "ronaldo": {
     "name": "Ronaldo",
@@ -28,7 +30,8 @@
       "corinthians"
     ],
     "nationalTeam": "brazil",
-    "retired": true
+    "retired": true,
+    "worldChampion": 2
   },
   "raul": {
     "name": "Raúl",
@@ -129,7 +132,8 @@
     "position": "CF",
     "clubs": ["santos", "cosmos"],
     "nationalTeam": "brazil",
-    "retired": true
+    "retired": true,
+    "worldChampion": 3
   },
   "diegomaradona": {
     "name": "Diego Maradona",
@@ -144,7 +148,8 @@
       "newells"
     ],
     "nationalTeam": "argentina",
-    "retired": true
+    "retired": true,
+    "worldChampion": 1
   },
   "lionelmessi": {
     "name": "Lionel Messi",
@@ -176,7 +181,8 @@
     "position": "GK",
     "clubs": ["parma", "juventus", "psg"],
     "nationalTeam": "italy",
-    "retired": false
+    "retired": false,
+    "worldChampion": 1
   },
   "fabiocoentrao": {
     "name": "Fábio Coentrão",
@@ -200,7 +206,8 @@
     "position": "SW",
     "clubs": ["bayernmunich", "cosmos", "hamburger"],
     "nationalTeam": "germany",
-    "retired": true
+    "retired": true,
+    "worldChampion": 2
   },
   "johancruyff": {
     "name": "Johan Cruyff",
@@ -239,7 +246,8 @@
       "anzhi"
     ],
     "nationalTeam": "brazil",
-    "retired": true
+    "retired": true,
+    "worldChampion": 1
   },
   "ferencpuskas": {
     "name": "Ferenc Puskás",
@@ -271,7 +279,8 @@
     "position": "GK",
     "clubs": ["udinese", "mantova", "napoli", "juventus"],
     "nationalTeam": "italy",
-    "retired": true
+    "retired": true,
+    "worldChampion": 1
   },
   "luishernandez": {
     "name": "Luis Hernández",
@@ -316,7 +325,8 @@
     "position": "RB",
     "clubs": ["saopaulo", "realzaragoza", "palmeiras", "roma", "milan"],
     "nationalTeam": "brazil",
-    "retired": true
+    "retired": true,
+    "worldChampion": 2
   },
   "andresguardado": {
     "name": "Andrés Guardado",
@@ -348,7 +358,8 @@
       "fluminense"
     ],
     "nationalTeam": "brazil",
-    "retired": true
+    "retired": true,
+    "worldChampion": 1
   },
   "carlossalcido": {
     "name": "Carlos Salcido",
@@ -395,7 +406,8 @@
     "position": "GK",
     "clubs": ["schalke", "bayernmunich"],
     "nationalTeam": "germany",
-    "retired": false
+    "retired": false,
+    "worldChampion": 1
   },
   "karimbenzema": {
     "name": "Karim Benzema",
@@ -498,7 +510,8 @@
     "position": "CB",
     "clubs": ["barcelona"],
     "nationalTeam": "spain",
-    "retired": true
+    "retired": true,
+    "worldChampion": 1
   },
   "miguellayun": {
     "name": "Miguel Layún",
@@ -523,7 +536,8 @@
     "position": "CB",
     "clubs": ["sevilla", "realmadrid"],
     "nationalTeam": "spain",
-    "retired": false
+    "retired": false,
+    "worldChampion": 1
   },
   "erickgutierrez": {
     "name": "Erick Gutiérrez",
@@ -627,7 +641,8 @@
     "position": "CM",
     "clubs": ["barcelona", "kobe"],
     "nationalTeam": "spain",
-    "retired": false
+    "retired": false,
+    "worldChampion": 1
   },
   "hugolloris": {
     "name": "Hugo Lloris",
@@ -635,7 +650,8 @@
     "position": "GK",
     "clubs": ["nice", "olympiquelyon", "tottenham"],
     "nationalTeam": "france",
-    "retired": false
+    "retired": false,
+    "worldChampion": 1
   },
   "xavihernandez": {
     "name": "Xavi|Hernández",
@@ -643,7 +659,8 @@
     "position": "CM",
     "clubs": ["barcelona", "alsadd"],
     "nationalTeam": "spain",
-    "retired": true
+    "retired": true,
+    "worldChampion": 1
   },
   "claudiosuarez": {
     "name": "Claudio Suárez",
@@ -675,7 +692,8 @@
     "position": "AM",
     "clubs": ["saopaulo", "milan", "realmadrid", "orlando"],
     "nationalTeam": "brazil",
-    "retired": true
+    "retired": true,
+    "worldChampion": 1
   },
   "pavelpardo": {
     "name": "Pável Pardo",
@@ -830,7 +848,8 @@
     "position": "CF",
     "clubs": ["monaco", "psg"],
     "nationalTeam": "france",
-    "retired": false
+    "retired": false,
+    "worldChampion": 1
   },
   "petrcech": {
     "name": "Petr Čech",
@@ -846,7 +865,8 @@
     "position": "RB",
     "clubs": ["bayernmunich", "stuttgart"],
     "nationalTeam": "germany",
-    "retired": true
+    "retired": true,
+    "worldChampion": 1
   },
   "giovanidossantos": {
     "name": "Giovani dos|Santos",
@@ -894,7 +914,8 @@
       "bayernmunich"
     ],
     "nationalTeam": "spain",
-    "retired": true
+    "retired": true,
+    "worldChampion": 1
   },
   "jonathandossantos": {
     "name": "Jona dos|Santos",
@@ -910,7 +931,8 @@
     "position": "DM",
     "clubs": ["barcelona"],
     "nationalTeam": "spain",
-    "retired": false
+    "retired": false,
+    "worldChampion": 1
   },
   "victorvaldes": {
     "name": "Víctor Valdés",
@@ -923,7 +945,8 @@
       "middlesbrough"
     ],
     "nationalTeam": "spain",
-    "retired": true
+    "retired": true,
+    "worldChampion": 1
   },
   "paolomaldini": {
     "name": "Paolo Maldini",
@@ -947,7 +970,8 @@
     "position": "SS",
     "clubs": ["bayernmunich"],
     "nationalTeam": "germany",
-    "retired": false
+    "retired": false,
+    "worldChampion": 1
   },
   "janoblak": {
     "name": "Jan Oblak",
@@ -1002,7 +1026,8 @@
     "position": "GK",
     "clubs": ["bayernmunich"],
     "nationalTeam": "germany",
-    "retired": true
+    "retired": true,
+    "worldChampion": 1
   },
   "stevengerrard": {
     "name": "Steven Gerrard",
@@ -1034,7 +1059,8 @@
     "position": "CM",
     "clubs": ["bayernmunich", "leverkusen", "realmadrid"],
     "nationalTeam": "germany",
-    "retired": false
+    "retired": false,
+    "worldChampion": 1
   },
   "marcandreterstegen": {
     "name": "Marc-André ter|Stegen",
@@ -1056,7 +1082,8 @@
       "lazio"
     ],
     "nationalTeam": "germany",
-    "retired": true
+    "retired": true,
+    "worldChampion": 1
   },
   "luisgarcia": {
     "name": "Luis García",
@@ -1097,7 +1124,8 @@
     "position": "SW",
     "clubs": ["milan"],
     "nationalTeam": "italy",
-    "retired": true
+    "retired": true,
+    "worldChampion": 1
   },
   "hugoayala": {
     "name": "Hugo Ayala",
@@ -1134,6 +1162,7 @@
       "nantes"
     ],
     "nationalTeam": "france",
-    "retired": true
+    "retired": true,
+    "worldChampion": 1
   }
 }
