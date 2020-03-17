@@ -5,7 +5,7 @@ import TeamsFilter from "./TeamsFilter";
 import PositionFilter from "./PositionFilter";
 import Sorter from "./Sorter";
 import Toggler from "./Toggler";
-import data from "data";
+import { flags, clubs, players } from "data";
 
 const App = () => {
   const [search, setSearch] = useState("");
@@ -18,26 +18,23 @@ const App = () => {
 
   return (
     <div className="w-full h-full">
-      <SearchFilter search={search} setSearch={setSearch} />
-      <TeamsFilter
-        clubs={data.clubs}
-        team={team}
-        setTeam={setTeam}
-        flags={data.flags}
-      />
-      <PositionFilter position={position} setPosition={setPosition} />
+      <SearchFilter {...{ search, setSearch }} />
+      <TeamsFilter {...{ clubs, team, setTeam, flags }} />
+      <PositionFilter {...{ position, setPosition }} />
       <Sorter {...{ sort, setSort, direction, setDirection }} />
       <Toggler {...{ flipped, setFlipped, setPreference }} />
       <PlayersGrid
-        players={data.players}
-        clubs={data.clubs}
-        search={search}
-        team={team}
-        position={position}
-        sort={sort}
-        direction={direction}
-        preference={preference}
-        flipped={flipped}
+        {...{
+          players,
+          clubs,
+          search,
+          team,
+          position,
+          sort,
+          direction,
+          preference,
+          flipped
+        }}
       />
     </div>
   );

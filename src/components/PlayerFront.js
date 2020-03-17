@@ -41,7 +41,7 @@ const PlayerFront = ({ id, player, team, national }) => {
           })}
         </p>
       </div>
-      {player.signature && (
+      {false !== player.signature && (
         <div className="w-12 h-12 flex items-center justify-center absolute right-0 bottom-0 mb-12 mr-5">
           <img
             src={getSignature(id)}
