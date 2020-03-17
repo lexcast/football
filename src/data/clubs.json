@@ -1638,5 +1638,29 @@
     "country": "brazil",
     "color1": "#009C5A",
     "color2": "#DDF2E9"
+  },
+  "toulouse": {
+    "id": "toulouse",
+    "title": "Toulouse F.C.",
+    "brand": "joma",
+    "country": "france",
+    "color1": "#7900B4",
+    "color2": "#000000"
+  },
+  "olympiquedemarseille": {
+    "id": "olympiquedemarseille",
+    "title": "Olympique de Marseille",
+    "brand": "puma",
+    "country": "france",
+    "color1": "#FFFFFF",
+    "color2": "#93CEE5"
+  },
+  "nantes": {
+    "id": "nantes",
+    "title": "F.C. Nantes",
+    "brand": "newbalance",
+    "country": "france",
+    "color1": "#FFFF04",
+    "color2": "#0E8A1F"
   }
 }

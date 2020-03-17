@@ -1121,5 +1121,19 @@
     ],
     "nationalTeam": "brazil",
     "retired": false
+  },
+  "fabienbarthez": {
+    "name": "Fabien Barthez",
+    "number": 16,
+    "position": "GK",
+    "clubs": [
+      "toulouse",
+      "olympiquedemarseille",
+      "monaco",
+      "manchesterunited",
+      "nantes"
+    ],
+    "nationalTeam": "france",
+    "retired": true
   }
 }
