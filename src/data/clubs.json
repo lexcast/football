@@ -1702,5 +1702,13 @@
     "country": "italy",
     "color1": "#006BB9",
     "color2": "#FFFFFF"
+  },
+  "derbycounty": {
+    "id": "derbycounty",
+    "title": "Derby County F.C.",
+    "brand": "umbro",
+    "country": "england",
+    "color1": "#FEFEFE",
+    "color2": "#000000"
   }
 }
