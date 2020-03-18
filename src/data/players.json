@@ -1180,5 +1180,13 @@
     ],
     "nationalTeam": "romania",
     "retired": true
+  },
+  "pablobarrera": {
+    "name": "Pablo Barrera",
+    "number": 8,
+    "position": "RW",
+    "clubs": ["unam", "westham", "realzaragoza", "cruzazul", "monterrey"],
+    "nationalTeam": "mexico",
+    "retired": false
   }
 }
