@@ -193,7 +193,7 @@
     "nationalTeam": "italy",
     "retired": false,
     "worldCups": 1,
-    "current": "juventus"
+    "last": "juventus"
   },
   "fabiocoentrao": {
     "name": "Fábio Coentrão",
@@ -473,7 +473,7 @@
     "clubs": ["america", "ajaccio", "malaga", "granada", "standardliege"],
     "nationalTeam": "mexico",
     "retired": false,
-    "current": "america"
+    "last": "america"
   },
   "rauljimenez": {
     "name": "Raúl Jiménez",
@@ -809,7 +809,7 @@
     ],
     "nationalTeam": "sweden",
     "retired": false,
-    "current": "milan"
+    "last": "milan"
   },
   "peterschmeichel": {
     "name": "Peter Schmeichel",

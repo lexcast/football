@@ -97,10 +97,14 @@ const PlayersGrid = ({
                 : preference === "FIRST"
                 ? player.clubs[0]
                 : preference === "LAST"
-                ? player.clubs[player.clubs.length - 1]
+                ? player.last
+                  ? player.last
+                  : player.clubs[player.clubs.length - 1]
                 : preference === "NOW"
                 ? player.retired
                   ? "RETIRED"
+                  : player.last
+                  ? player.last
                   : player.clubs[player.clubs.length - 1]
                 : team || player.nationalTeam;
 
