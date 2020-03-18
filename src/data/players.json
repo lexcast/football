@@ -164,7 +164,6 @@
     "position": "RW",
     "clubs": ["barcelona"],
     "nationalTeam": "argentina",
-    "retired": false,
     "championsLeagues": 4
   },
   "cristianoronaldo": {
@@ -173,7 +172,6 @@
     "position": "LW",
     "clubs": ["sporting", "manchesterunited", "realmadrid", "juventus"],
     "nationalTeam": "portugal",
-    "retired": false,
     "championsLeagues": 5
   },
   "oliverkahn": {
@@ -191,7 +189,6 @@
     "position": "GK",
     "clubs": ["parma", "juventus", "psg"],
     "nationalTeam": "italy",
-    "retired": false,
     "worldCups": 1,
     "last": "juventus"
   },
@@ -209,7 +206,6 @@
       "sporting"
     ],
     "nationalTeam": "portugal",
-    "retired": false,
     "championsLeagues": 2
   },
   "franzbeckenbauer": {
@@ -404,7 +400,6 @@
     "position": "RW",
     "clubs": ["southampton", "tottenham", "realmadrid"],
     "nationalTeam": "wales",
-    "retired": false,
     "championsLeagues": 4
   },
   "javierhernandez": {
@@ -429,7 +424,6 @@
     "position": "GK",
     "clubs": ["schalke", "bayernmunich"],
     "nationalTeam": "germany",
-    "retired": false,
     "worldCups": 1,
     "championsLeagues": 1
   },
@@ -439,7 +433,6 @@
     "position": "CF",
     "clubs": ["olympiquelyon", "realmadrid"],
     "nationalTeam": "france",
-    "retired": false,
     "championsLeagues": 4
   },
   "fernandohierro": {
@@ -472,7 +465,6 @@
     "position": "GK",
     "clubs": ["america", "ajaccio", "malaga", "granada", "standardliege"],
     "nationalTeam": "mexico",
-    "retired": false,
     "last": "america"
   },
   "rauljimenez": {
@@ -513,7 +505,6 @@
     "position": "GK",
     "clubs": ["saprissa", "albacete", "levante", "realmadrid", "psg"],
     "nationalTeam": "costarica",
-    "retired": false,
     "championsLeagues": 3
   },
   "hectormoreno": {
@@ -565,7 +556,6 @@
     "position": "CB",
     "clubs": ["sevilla", "realmadrid"],
     "nationalTeam": "spain",
-    "retired": false,
     "worldCups": 1,
     "championsLeagues": 4
   },
@@ -631,7 +621,6 @@
     "position": "CM",
     "clubs": ["mostar", "zapresic", "dinamozagreb", "tottenham", "realmadrid"],
     "nationalTeam": "croatia",
-    "retired": false,
     "championsLeagues": 4
   },
   "edwinvandersar": {
@@ -673,7 +662,6 @@
     "position": "CM",
     "clubs": ["barcelona", "kobe"],
     "nationalTeam": "spain",
-    "retired": false,
     "worldCups": 1,
     "championsLeagues": 4
   },
@@ -683,7 +671,6 @@
     "position": "GK",
     "clubs": ["nice", "olympiquelyon", "tottenham"],
     "nationalTeam": "france",
-    "retired": false,
     "worldCups": 1
   },
   "xavihernandez": {
@@ -744,7 +731,6 @@
     "position": "CF",
     "clubs": ["everton", "manchesterunited", "dcunited", "derbycounty"],
     "nationalTeam": "england",
-    "retired": false,
     "championsLeagues": 1
   },
   "alissonbecker": {
@@ -753,7 +739,6 @@
     "position": "GK",
     "clubs": ["internacional", "roma", "liverpool"],
     "nationalTeam": "brazil",
-    "retired": false,
     "championsLeagues": 1
   },
   "landondonovan": {
@@ -808,7 +793,6 @@
       "galaxy"
     ],
     "nationalTeam": "sweden",
-    "retired": false,
     "last": "milan"
   },
   "peterschmeichel": {
@@ -855,7 +839,6 @@
       "liverpool"
     ],
     "nationalTeam": "egypt",
-    "retired": false,
     "championsLeagues": 1
   },
   "daviddegea": {
@@ -889,7 +872,6 @@
     "position": "CF",
     "clubs": ["monaco", "psg"],
     "nationalTeam": "france",
-    "retired": false,
     "worldCups": 1
   },
   "petrcech": {
@@ -935,7 +917,6 @@
     "position": "LW",
     "clubs": ["santos", "barcelona", "psg"],
     "nationalTeam": "brazil",
-    "retired": false,
     "championsLeagues": 1
   },
   "thibautcourtois": {
@@ -968,7 +949,6 @@
     "position": "CM",
     "clubs": ["barcelona", "villarreal", "galaxy"],
     "nationalTeam": "mexico",
-    "retired": false,
     "championsLeagues": 1
   },
   "sergiobusquets": {
@@ -977,7 +957,6 @@
     "position": "DM",
     "clubs": ["barcelona"],
     "nationalTeam": "spain",
-    "retired": false,
     "worldCups": 1,
     "championsLeagues": 3
   },
@@ -1019,7 +998,6 @@
     "position": "SS",
     "clubs": ["bayernmunich"],
     "nationalTeam": "germany",
-    "retired": false,
     "worldCups": 1,
     "championsLeagues": 1
   },
@@ -1069,7 +1047,6 @@
     "position": "CB",
     "clubs": ["groningen", "celtic", "southampton", "liverpool"],
     "nationalTeam": "netherlands",
-    "retired": false,
     "championsLeagues": 1
   },
   "seppmaier": {
@@ -1113,7 +1090,6 @@
     "position": "CM",
     "clubs": ["bayernmunich", "leverkusen", "realmadrid"],
     "nationalTeam": "germany",
-    "retired": false,
     "worldCups": 1,
     "championsLeagues": 4
   },
@@ -1123,7 +1099,6 @@
     "position": "GK",
     "clubs": ["monchengladbach", "barcelona"],
     "nationalTeam": "germany",
-    "retired": false,
     "championsLeagues": 1
   },
   "miroslavklose": {
@@ -1164,7 +1139,6 @@
     "position": "CF",
     "clubs": ["nacional", "groningen", "ajax", "liverpool", "barcelona"],
     "nationalTeam": "uruguay",
-    "retired": false,
     "championsLeagues": 1
   },
   "ricardozamora": {
