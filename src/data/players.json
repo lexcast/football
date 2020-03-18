@@ -5,7 +5,9 @@
     "position": "GK",
     "clubs": ["realmadrid", "porto"],
     "nationalTeam": "spain",
-    "worldChampion": 1
+    "retired": true,
+    "worldChampion": 1,
+    "championsLeague": 3
   },
   "zinedinezidane": {
     "name": "Zinedine Zidane",
