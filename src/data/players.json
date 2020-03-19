@@ -355,8 +355,7 @@
       "psv",
       "realbetis"
     ],
-    "nationalTeam": "mexico",
-    "retired": false
+    "nationalTeam": "mexico"
   },
   "ronaldinho": {
     "name": "Ronaldinho",
@@ -415,8 +414,7 @@
       "sevilla",
       "galaxy"
     ],
-    "nationalTeam": "mexico",
-    "retired": false
+    "nationalTeam": "mexico"
   },
   "manuelneuer": {
     "name": "Manuel Neuer",
@@ -456,8 +454,7 @@
       "realsociedad",
       "losangeles"
     ],
-    "nationalTeam": "mexico",
-    "retired": false
+    "nationalTeam": "mexico"
   },
   "guillermoochoa": {
     "name": "Guillermo Ochoa",
@@ -472,32 +469,28 @@
     "number": 9,
     "position": "CF",
     "clubs": ["america", "atleticomadrid", "benfica", "wolverhampton"],
-    "nationalTeam": "mexico",
-    "retired": false
+    "nationalTeam": "mexico"
   },
   "hirvinglozano": {
     "name": "Hirving Lozano",
     "number": 22,
     "position": "LW",
     "clubs": ["pachuca", "psv", "napoli"],
-    "nationalTeam": "mexico",
-    "retired": false
+    "nationalTeam": "mexico"
   },
   "hectorherrera": {
     "name": "Héctor Herrera",
     "number": 16,
     "position": "CM",
     "clubs": ["pachuca", "porto", "atleticomadrid"],
-    "nationalTeam": "mexico",
-    "retired": false
+    "nationalTeam": "mexico"
   },
   "jesuscorona": {
     "name": "Jesús Corona",
     "number": 17,
     "position": "RW",
     "clubs": ["monterrey", "twente", "porto"],
-    "nationalTeam": "mexico",
-    "retired": false
+    "nationalTeam": "mexico"
   },
   "keylornavas": {
     "name": "Keylor Navas",
@@ -520,8 +513,7 @@
       "realsociedad",
       "algharafa"
     ],
-    "nationalTeam": "mexico",
-    "retired": false
+    "nationalTeam": "mexico"
   },
   "carlespuyol": {
     "name": "Carles Puyol",
@@ -547,8 +539,7 @@
       "villarreal",
       "monterrey"
     ],
-    "nationalTeam": "mexico",
-    "retired": false
+    "nationalTeam": "mexico"
   },
   "sergioramos": {
     "name": "Sergio Ramos",
@@ -564,32 +555,28 @@
     "number": 15,
     "position": "CM",
     "clubs": ["pachuca", "psv"],
-    "nationalTeam": "mexico",
-    "retired": false
+    "nationalTeam": "mexico"
   },
   "diegolainez": {
     "name": "Diego Lainez",
     "number": 20,
     "position": "LW",
     "clubs": ["america", "realbetis"],
-    "nationalTeam": "mexico",
-    "retired": false
+    "nationalTeam": "mexico"
   },
   "edsonalvarez": {
     "name": "Edson Álvarez",
     "number": 4,
     "position": "CB",
     "clubs": ["america", "ajax"],
-    "nationalTeam": "mexico",
-    "retired": false
+    "nationalTeam": "mexico"
   },
   "nestoraraujo": {
     "name": "Néstor Araújo",
     "number": 2,
     "position": "CB",
     "clubs": ["cruzazul", "santoslaguna", "celtadevigo"],
-    "nationalTeam": "mexico",
-    "retired": false
+    "nationalTeam": "mexico"
   },
   "diegoreyes": {
     "name": "Diego Reyes",
@@ -604,16 +591,14 @@
       "leganes",
       "uanl"
     ],
-    "nationalTeam": "mexico",
-    "retired": false
+    "nationalTeam": "mexico"
   },
   "carlossalcedo": {
     "name": "Carlos Salcedo",
     "number": 3,
     "position": "CB",
     "clubs": ["realsaltlake", "guadalajara", "fiorentina", "frankfurt", "uanl"],
-    "nationalTeam": "mexico",
-    "retired": false
+    "nationalTeam": "mexico"
   },
   "lukamodric": {
     "name": "Luka Modrić",
@@ -696,8 +681,7 @@
     "number": 9,
     "position": "CF",
     "clubs": ["zeljeznicar", "teplice", "wolfsburg", "manchestercity", "roma"],
-    "nationalTeam": "bosnia",
-    "retired": false
+    "nationalTeam": "bosnia"
   },
   "rusturecber": {
     "name": "Rüştü Reçber",
@@ -823,8 +807,7 @@
     "number": 1,
     "position": "GK",
     "clubs": ["atlas", "tecos", "guadalajara", "cruzazul"],
-    "nationalTeam": "mexico",
-    "retired": false
+    "nationalTeam": "mexico"
   },
   "mohamedsalah": {
     "name": "Mohamed Salah",
@@ -846,8 +829,7 @@
     "number": 1,
     "position": "GK",
     "clubs": ["atleticomadrid", "manchesterunited"],
-    "nationalTeam": "spain",
-    "retired": false
+    "nationalTeam": "spain"
   },
   "pacogento": {
     "name": "Paco Gento",
@@ -908,8 +890,7 @@
       "galaxy",
       "america"
     ],
-    "nationalTeam": "mexico",
-    "retired": false
+    "nationalTeam": "mexico"
   },
   "neymar": {
     "name": "Neymar",
@@ -924,8 +905,7 @@
     "number": 13,
     "position": "GK",
     "clubs": ["genk", "atleticomadrid", "chelsea", "realmadrid"],
-    "nationalTeam": "belgium",
-    "retired": false
+    "nationalTeam": "belgium"
   },
   "xabialonso": {
     "name": "Xabi|Alonso",
@@ -1013,8 +993,7 @@
       "benfica",
       "atleticomadrid"
     ],
-    "nationalTeam": "slovenia",
-    "retired": false
+    "nationalTeam": "slovenia"
   },
   "michaellaudrup": {
     "name": "Michael Laudrup",
@@ -1164,8 +1143,7 @@
     "number": 2,
     "position": "CB",
     "clubs": ["atlas", "uanl"],
-    "nationalTeam": "mexico",
-    "retired": false
+    "nationalTeam": "mexico"
   },
   "thiagosilva": {
     "name": "Thiago Silva",
@@ -1179,8 +1157,7 @@
       "milan",
       "psg"
     ],
-    "nationalTeam": "brazil",
-    "retired": false
+    "nationalTeam": "brazil"
   },
   "fabienbarthez": {
     "name": "Fabien Barthez",
@@ -1219,7 +1196,6 @@
     "number": 8,
     "position": "RW",
     "clubs": ["unam", "westham", "realzaragoza", "cruzazul", "monterrey"],
-    "nationalTeam": "mexico",
-    "retired": false
+    "nationalTeam": "mexico"
   }
 }
