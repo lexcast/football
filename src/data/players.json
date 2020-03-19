@@ -1197,5 +1197,13 @@
     "position": "RW",
     "clubs": ["unam", "westham", "realzaragoza", "cruzazul", "monterrey"],
     "nationalTeam": "mexico"
+  },
+  "marcelo": {
+    "name": "Marcelo",
+    "number": 12,
+    "position": "LB",
+    "clubs": ["fluminense", "realmadrid"],
+    "nationalTeam": "brazil",
+    "championsLeagues": 4
   }
 }
