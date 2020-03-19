@@ -215,6 +215,14 @@
     "color2": "#D00821",
     "isNational": true
   },
+  "colombia": {
+    "id": "colombia",
+    "title": "Colombia",
+    "brand": "adidas",
+    "color1": "#FCEC03",
+    "color2": "#183279",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -1710,5 +1718,60 @@
     "country": "england",
     "color1": "#FEFEFE",
     "color2": "#000000"
+  },
+  "atleticonacional": {
+    "id": "atleticonacional",
+    "title": "Atlético Nacional",
+    "brand": "nike",
+    "country": "colombia",
+    "color1": "#FFFFFF",
+    "color2": "#0D9148"
+  },
+  "medellin": {
+    "id": "medellin",
+    "title": "Independiente Medellín",
+    "brand": "puma",
+    "country": "colombia",
+    "color1": "#D8052B",
+    "color2": "#073477"
+  },
+  "realcartagena": {
+    "id": "realcartagena",
+    "title": "Real Cartagena",
+    "brand": "kimo",
+    "country": "colombia",
+    "color1": "#FFE10E",
+    "color2": "#158C00"
+  },
+  "alianzalima": {
+    "id": "alianzalima",
+    "title": "Alianza Lima",
+    "brand": "nike",
+    "country": "peru",
+    "color1": "#FFFFFF",
+    "color2": "#040F26"
+  },
+  "pereira": {
+    "id": "pereira",
+    "title": "Deportivo Pereira",
+    "brand": "oto",
+    "country": "colombia",
+    "color1": "#E50811",
+    "color2": "#FDE703"
+  },
+  "aucas": {
+    "id": "aucas",
+    "title": "Aucas",
+    "brand": "umbro",
+    "country": "ecuador",
+    "color1": "#E50811",
+    "color2": "#FDE703"
+  },
+  "guaros": {
+    "id": "guaros",
+    "title": "Guaros F.C.",
+    "country": "venezuela",
+    "color1": "#000000",
+    "color2": "#C70002"
   }
 }

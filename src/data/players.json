@@ -1205,5 +1205,25 @@
     "clubs": ["fluminense", "realmadrid"],
     "nationalTeam": "brazil",
     "championsLeagues": 4
+  },
+  "renehiguita": {
+    "name": "René Higuita",
+    "number": 1,
+    "position": "GK",
+    "clubs": [
+      "millonarios",
+      "atleticonacional",
+      "realvalladolid",
+      "veracruz",
+      "medellin",
+      "realcartagena",
+      "alianzalima",
+      "pereira",
+      "aucas",
+      "guaros"
+    ],
+    "last": "pereira",
+    "nationalTeam": "colombia",
+    "retired": true
   }
 }
