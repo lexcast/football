@@ -1225,5 +1225,15 @@
     "last": "pereira",
     "nationalTeam": "colombia",
     "retired": true
+  },
+  "thierryhenry": {
+    "name": "Thierry Henry",
+    "number": 12,
+    "position": "CF",
+    "clubs": ["monaco", "juventus", "arsenal", "barcelona", "newyork"],
+    "nationalTeam": "france",
+    "retired": true,
+    "worldCups": 1,
+    "championsLeagues": 1
   }
 }
