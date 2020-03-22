@@ -1235,5 +1235,20 @@
     "retired": true,
     "worldCups": 1,
     "championsLeagues": 1
+  },
+  "oribeperalta": {
+    "name": "Oribe Peralta",
+    "number": 24,
+    "position": "CF",
+    "clubs": [
+      "morelia",
+      "leon",
+      "monterrey",
+      "santoslaguna",
+      "chiapas",
+      "america",
+      "guadalajara"
+    ],
+    "nationalTeam": "mexico"
   }
 }
