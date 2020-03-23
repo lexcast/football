@@ -1773,5 +1773,37 @@
     "country": "venezuela",
     "color1": "#000000",
     "color2": "#C70002"
+  },
+  "botafogo": {
+    "id": "botafogo",
+    "title": "Botafogo",
+    "brand": "kappa",
+    "country": "brazil",
+    "color1": "#000000",
+    "color2": "#FFFFFF"
+  },
+  "portuguesa": {
+    "id": "portuguesa",
+    "title": "Portuguesa Santista",
+    "brand": "umbro",
+    "country": "brazil",
+    "color1": "#FE0003",
+    "color2": "#008100"
+  },
+  "junior": {
+    "id": "junior",
+    "title": "Junior de Barranquilla",
+    "brand": "newbalance",
+    "country": "colombia",
+    "color1": "#FA0407",
+    "color2": "#FFFFFF"
+  },
+  "olaria": {
+    "id": "olaria",
+    "title": "Olaria",
+    "brand": "onza",
+    "country": "brazil",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
   }
 }

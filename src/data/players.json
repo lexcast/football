@@ -1250,5 +1250,21 @@
       "guadalajara"
     ],
     "nationalTeam": "mexico"
+  },
+  "garrincha": {
+    "name": "Garrincha",
+    "number": 7,
+    "position": "RW",
+    "clubs": [
+      "botafogo",
+      "corinthians",
+      "portuguesa",
+      "junior",
+      "flamengo",
+      "olaria"
+    ],
+    "nationalTeam": "brazil",
+    "worldCups": 2,
+    "retired": true
   }
 }
