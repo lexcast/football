@@ -1266,5 +1266,13 @@
     "nationalTeam": "brazil",
     "worldCups": 2,
     "retired": true
+  },
+  "zico": {
+    "name": "Zico",
+    "number": 10,
+    "position": "AM",
+    "clubs": ["flamengo", "udinese", "kashima"],
+    "nationalTeam": "brazil",
+    "retired": true
   }
 }

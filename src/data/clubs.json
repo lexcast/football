@@ -1805,5 +1805,13 @@
     "country": "brazil",
     "color1": "#0000FF",
     "color2": "#FFFFFF"
+  },
+  "kashima": {
+    "id": "kashima",
+    "title": "Kashima Antlers",
+    "brand": "nike",
+    "country": "japan",
+    "color1": "#E20018",
+    "color2": "#00003E"
   }
 }
