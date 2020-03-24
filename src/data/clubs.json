@@ -1813,5 +1813,13 @@
     "country": "japan",
     "color1": "#E20018",
     "color2": "#00003E"
+  },
+  "botafogorp": {
+    "id": "botafogorp",
+    "title": "Botafogo de Ribeirão Preto",
+    "brand": "kappa",
+    "country": "brazil",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
   }
 }

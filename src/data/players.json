@@ -1274,5 +1274,14 @@
     "clubs": ["flamengo", "udinese", "kashima"],
     "nationalTeam": "brazil",
     "retired": true
+  },
+  "socrates": {
+    "name": "Sócrates",
+    "number": 8,
+    "position": "AM",
+    "clubs": ["botafogorp", "corinthians", "fiorentina", "flamengo", "santos"],
+    "last": "botafogo",
+    "nationalTeam": "brazil",
+    "retired": true
   }
 }
