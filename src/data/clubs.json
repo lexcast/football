@@ -1821,5 +1821,37 @@
     "country": "brazil",
     "color1": "#FFFFFF",
     "color2": "#FE0003"
+  },
+  "vascodagama": {
+    "id": "vascodagama",
+    "title": "C. R. Vasco da Gama",
+    "brand": "diadora",
+    "country": "brazil",
+    "color1": "#000000",
+    "color2": "#FFFFFF"
+  },
+  "miami": {
+    "id": "miami",
+    "title": "Miami F.C.",
+    "brand": "macron",
+    "country": "unitedstates",
+    "color1": "#70D0FF",
+    "color2": "#FE7903"
+  },
+  "adelaide": {
+    "id": "adelaide",
+    "title": "Adelaide United",
+    "brand": "macron",
+    "country": "australia",
+    "color1": "#D50030",
+    "color2": "#FCE304"
+  },
+  "americarj": {
+    "id": "americarj",
+    "title": "America do Rio",
+    "brand": "icone",
+    "country": "brazil",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
   }
 }

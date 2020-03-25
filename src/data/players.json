@@ -1283,5 +1283,25 @@
     "last": "botafogo",
     "nationalTeam": "brazil",
     "retired": true
+  },
+  "romario": {
+    "name": "Romário",
+    "number": 11,
+    "position": "CF",
+    "clubs": [
+      "vascodagama",
+      "psv",
+      "barcelona",
+      "flamengo",
+      "valencia",
+      "fluminense",
+      "alsadd",
+      "miami",
+      "adelaide",
+      "americarj"
+    ],
+    "nationalTeam": "brazil",
+    "retired": true,
+    "worldCups": 1
   }
 }
