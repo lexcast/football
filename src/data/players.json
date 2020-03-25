@@ -1303,5 +1303,14 @@
     "nationalTeam": "brazil",
     "retired": true,
     "worldCups": 1
+  },
+  "antoniocarbajal": {
+    "name": "Antonio Carbajal",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["realclubespana", "leon"],
+    "nationalTeam": "mexico",
+    "retired": true,
+    "signature": false
   }
 }

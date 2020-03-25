@@ -1853,5 +1853,12 @@
     "country": "brazil",
     "color1": "#FE0003",
     "color2": "#FFFFFF"
+  },
+  "realclubespana": {
+    "id": "realclubespana",
+    "title": "Real Club España",
+    "country": "mexico",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
   }
 }
