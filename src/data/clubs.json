@@ -1860,5 +1860,13 @@
     "country": "mexico",
     "color1": "#FFFFFF",
     "color2": "#000000"
+  },
+  "toluca": {
+    "id": "toluca",
+    "title": "Toluca F.C.",
+    "brand": "under",
+    "country": "mexico",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
   }
 }

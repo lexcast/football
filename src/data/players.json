@@ -1312,5 +1312,12 @@
     "nationalTeam": "mexico",
     "retired": true,
     "signature": false
+  },
+  "alfredotalavera": {
+    "name": "Alfredo Talavera",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["guadalajara", "uanl", "toluca"],
+    "nationalTeam": "mexico"
   }
 }
