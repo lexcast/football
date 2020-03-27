@@ -1319,5 +1319,13 @@
     "position": "GK",
     "clubs": ["guadalajara", "uanl", "toluca"],
     "nationalTeam": "mexico"
+  },
+  "moisesmunoz": {
+    "name": "Moisés Muñoz",
+    "number": 23,
+    "position": "GK",
+    "clubs": ["morelia", "atlante", "america", "chiapas", "puebla"],
+    "nationalTeam": "mexico",
+    "retired": true
   }
 }
