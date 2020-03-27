@@ -1868,5 +1868,21 @@
     "country": "mexico",
     "color1": "#FE0003",
     "color2": "#FFFFFF"
+  },
+  "vancouver": {
+    "id": "vancouver",
+    "title": "Vancouver Whitecaps FC",
+    "brand": "adidas",
+    "country": "canada",
+    "color1": "#FFFFFF",
+    "color2": "#00003C"
+  },
+  "valerenga": {
+    "id": "valerenga",
+    "title": "Vålerenga Fotball",
+    "brand": "umbro",
+    "country": "norway",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
   }
 }

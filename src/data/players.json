@@ -1327,5 +1327,21 @@
     "clubs": ["morelia", "atlante", "america", "chiapas", "puebla"],
     "nationalTeam": "mexico",
     "retired": true
+  },
+  "efrainjuarez": {
+    "name": "Efraín Juárez",
+    "number": 6,
+    "position": "RB",
+    "clubs": [
+      "unam",
+      "celtic",
+      "realzaragoza",
+      "america",
+      "monterrey",
+      "vancouver",
+      "valerenga"
+    ],
+    "nationalTeam": "mexico",
+    "retired": true
   }
 }
