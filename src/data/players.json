@@ -1343,5 +1343,14 @@
     ],
     "nationalTeam": "mexico",
     "retired": true
+  },
+  "paulscholes": {
+    "name": "Paul Scholes",
+    "number": 18,
+    "position": "CM",
+    "clubs": ["manchesterunited"],
+    "nationalTeam": "england",
+    "retired": true,
+    "championsLeagues": 2
   }
 }
