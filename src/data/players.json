@@ -1375,5 +1375,13 @@
     ],
     "nationalTeam": "england",
     "retired": true
+  },
+  "harrykane": {
+    "name": "Harry Kane",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["leyton", "tottenham", "millwall", "norwich", "leicester"],
+    "last": "tottenham",
+    "nationalTeam": "england"
   }
 }
