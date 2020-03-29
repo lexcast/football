@@ -1361,5 +1361,19 @@
     "nationalTeam": "england",
     "retired": true,
     "championsLeagues": 2
+  },
+  "michaelowen": {
+    "name": "Michael Owen",
+    "number": 10,
+    "position": "CF",
+    "clubs": [
+      "liverpool",
+      "realmadrid",
+      "newcastle",
+      "manchesterunited",
+      "stokecity"
+    ],
+    "nationalTeam": "england",
+    "retired": true
   }
 }

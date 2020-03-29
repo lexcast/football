@@ -1884,5 +1884,21 @@
     "country": "norway",
     "color1": "#0000FF",
     "color2": "#FFFFFF"
+  },
+  "newcastle": {
+    "id": "newcastle",
+    "title": "Newcastle United F. C.",
+    "brand": "puma",
+    "country": "england",
+    "color1": "#000000",
+    "color2": "#FFFFFF"
+  },
+  "stokecity": {
+    "id": "stokecity",
+    "title": "Stoke City F. C.",
+    "brand": "macron",
+    "country": "england",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
   }
 }
