@@ -1932,5 +1932,13 @@
     "country": "england",
     "color1": "#000DDA",
     "color2": "#FFFFFF"
+  },
+  "dortmund": {
+    "id": "dortmund",
+    "title": "Borussia Dortmund",
+    "brand": "puma",
+    "country": "germany",
+    "color1": "#FFFF04",
+    "color2": "#000000"
   }
 }

@@ -1383,5 +1383,12 @@
     "clubs": ["leyton", "tottenham", "millwall", "norwich", "leicester"],
     "last": "tottenham",
     "nationalTeam": "england"
+  },
+  "christianpulisic": {
+    "name": "Christian Pulisic",
+    "number": 22,
+    "position": "RW",
+    "clubs": ["dortmund", "chelsea"],
+    "nationalTeam": "unitedstates"
   }
 }
