@@ -1390,5 +1390,24 @@
     "position": "RW",
     "clubs": ["dortmund", "chelsea"],
     "nationalTeam": "unitedstates"
+  },
+  "paulowanchope": {
+    "name": "Paulo Wanchope",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "herediano",
+      "derbycounty",
+      "westham",
+      "manchestercity",
+      "malaga",
+      "algharafa",
+      "rosario",
+      "tokyo",
+      "chicago"
+    ],
+    "retired": true,
+    "last": "herediano",
+    "nationalTeam": "costarica"
   }
 }

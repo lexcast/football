@@ -1940,5 +1940,29 @@
     "country": "germany",
     "color1": "#FFFF04",
     "color2": "#000000"
+  },
+  "herediano": {
+    "id": "herediano",
+    "title": "Club Sport Herediano",
+    "brand": "umbro",
+    "country": "costarica",
+    "color1": "#FE111D",
+    "color2": "#F4DC0F"
+  },
+  "rosario": {
+    "id": "rosario",
+    "title": "Rosario Central",
+    "brand": "under",
+    "country": "argentina",
+    "color1": "#0000FF",
+    "color2": "#FFD703"
+  },
+  "tokyo": {
+    "id": "tokyo",
+    "title": "F. C. Tokyo",
+    "brand": "umbro",
+    "country": "japan",
+    "color1": "#FE0003",
+    "color2": "#0000FA"
   }
 }
