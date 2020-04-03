@@ -1409,5 +1409,12 @@
     "retired": true,
     "last": "herediano",
     "nationalTeam": "costarica"
+  },
+  "timhoward": {
+    "name": "Tim Howard",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["newyork", "manchesterunited", "everton", "colorado", "memphis"],
+    "nationalTeam": "unitedstates"
   }
 }

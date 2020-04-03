@@ -1964,5 +1964,21 @@
     "country": "japan",
     "color1": "#FE0003",
     "color2": "#0000FA"
+  },
+  "colorado": {
+    "id": "colorado",
+    "title": "Colorado Rapids",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#810001",
+    "color2": "#A0D0FF"
+  },
+  "memphis": {
+    "id": "memphis",
+    "title": "Memphis 901 FC",
+    "brand": "nike",
+    "country": "unitedstates",
+    "color1": "#056FF6",
+    "color2": "#04A3F2"
   }
 }
