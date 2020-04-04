@@ -223,6 +223,14 @@
     "color2": "#183279",
     "isNational": true
   },
+  "trinidad&tobago": {
+    "id": "trinidad&tobago",
+    "title": "Trinidad and Tobago",
+    "brand": "capelli",
+    "color1": "#FE0003",
+    "color2": "#0F0000",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -1980,5 +1988,37 @@
     "country": "unitedstates",
     "color1": "#056FF6",
     "color2": "#04A3F2"
+  },
+  "blackburn": {
+    "id": "blackburn",
+    "title": "Blackburn Rovers F. C.",
+    "brand": "umbro",
+    "country": "england",
+    "color1": "#FFFFFF",
+    "color2": "#0077FF"
+  },
+  "birmingham": {
+    "id": "birmingham",
+    "title": "Birmingham City F. C.",
+    "brand": "adidas",
+    "country": "england",
+    "color1": "#103BCE",
+    "color2": "#FFFFFF"
+  },
+  "sydney": {
+    "id": "sydney",
+    "title": "Sydney F.C.",
+    "brand": "under",
+    "country": "australia",
+    "color1": "#78BDFF",
+    "color2": "#00003E"
+  },
+  "sunderland": {
+    "id": "sunderland",
+    "title": "Sunderland A. F. C.",
+    "brand": "adidas",
+    "country": "england",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
   }
 }
