@@ -1432,5 +1432,14 @@
     "nationalTeam": "trinidad&tobago",
     "retired": true,
     "championsLeagues": 1
+  },
+  "francescototti": {
+    "name": "Francesco Totti",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["roma"],
+    "nationalTeam": "italy",
+    "retired": true,
+    "worldCups": 1
   }
 }
