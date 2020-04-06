@@ -2020,5 +2020,21 @@
     "country": "england",
     "color1": "#FFFFFF",
     "color2": "#FE0003"
+  },
+  "padova": {
+    "id": "padova",
+    "title": "Calcio Padova",
+    "brand": "kappa",
+    "country": "italy",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
+  },
+  "odisha": {
+    "id": "odisha",
+    "title": "Odisha F. C.",
+    "brand": "tyka",
+    "country": "india",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
   }
 }

@@ -1441,5 +1441,15 @@
     "nationalTeam": "italy",
     "retired": true,
     "worldCups": 1
+  },
+  "alessandrodelpiero": {
+    "name": "Alessandro Del|Piero",
+    "number": 10,
+    "position": "SS",
+    "clubs": ["padova", "juventus", "sydney", "odisha"],
+    "nationalTeam": "italy",
+    "retired": true,
+    "championsLeagues": 1,
+    "worldCups": 1
   }
 }
