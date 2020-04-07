@@ -1451,5 +1451,22 @@
     "retired": true,
     "championsLeagues": 1,
     "worldCups": 1
+  },
+  "andreapirlo": {
+    "name": "Andrea Pirlo",
+    "number": 21,
+    "position": "DM",
+    "clubs": [
+      "bresciacalcio",
+      "inter",
+      "reggina",
+      "milan",
+      "juventus",
+      "newyorkfc"
+    ],
+    "nationalTeam": "italy",
+    "retired": true,
+    "championsLeagues": 2,
+    "worldCups": 1
   }
 }

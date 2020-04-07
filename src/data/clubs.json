@@ -2036,5 +2036,21 @@
     "country": "india",
     "color1": "#FFFFFF",
     "color2": "#FE0003"
+  },
+  "reggina": {
+    "id": "reggina",
+    "title": "Reggina 1914",
+    "brand": "legea",
+    "country": "italy",
+    "color1": "#8F2D43",
+    "color2": "#FFFFFF"
+  },
+  "newyorkfc": {
+    "id": "newyorkfc",
+    "title": "New York City FC",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#7EC0FF",
+    "color2": "#00245D"
   }
 }
