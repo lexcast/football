@@ -1468,5 +1468,14 @@
     "retired": true,
     "championsLeagues": 2,
     "worldCups": 1
+  },
+  "fabiocannavaro": {
+    "name": "Fabio Cannavaro",
+    "number": 5,
+    "position": "CB",
+    "clubs": ["napoli", "parma", "inter", "juventus", "realmadrid", "alahli"],
+    "nationalTeam": "italy",
+    "retired": true,
+    "worldCups": 1
   }
 }

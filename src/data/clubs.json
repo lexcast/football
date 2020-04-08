@@ -2052,5 +2052,13 @@
     "country": "unitedstates",
     "color1": "#7EC0FF",
     "color2": "#00245D"
+  },
+  "alahli": {
+    "id": "alahli",
+    "title": "Shabab Al-Ahli Dubai",
+    "brand": "nike",
+    "country": "unitedarabemirates",
+    "color1": "#FE0003",
+    "color2": "#008000"
   }
 }
