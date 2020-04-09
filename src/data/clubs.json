@@ -2060,5 +2060,13 @@
     "country": "unitedarabemirates",
     "color1": "#FE0003",
     "color2": "#008000"
+  },
+  "lille": {
+    "id": "lille",
+    "title": "Lille O. S. C.",
+    "brand": "newbalance",
+    "country": "france",
+    "color1": "#D90002",
+    "color2": "#161F4B"
   }
 }

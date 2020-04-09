@@ -1477,5 +1477,12 @@
     "nationalTeam": "italy",
     "retired": true,
     "worldCups": 1
+  },
+  "edenhazard": {
+    "name": "Eden Hazard",
+    "number": 10,
+    "position": "LW",
+    "clubs": ["lille", "chelsea", "realmadrid"],
+    "nationalTeam": "belgium"
   }
 }
