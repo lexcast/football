@@ -1484,5 +1484,12 @@
     "position": "LW",
     "clubs": ["lille", "chelsea", "realmadrid"],
     "nationalTeam": "belgium"
+  },
+  "kevindebruyne": {
+    "name": "Kevin De|Bruyne",
+    "number": 7,
+    "position": "AM",
+    "clubs": ["genk", "werderbremen", "chelsea", "wolfsburg", "manchestercity"],
+    "nationalTeam": "belgium"
   }
 }
