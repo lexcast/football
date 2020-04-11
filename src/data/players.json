@@ -1506,5 +1506,13 @@
     ],
     "nationalTeam": "belgium",
     "championsLeagues": 1
+  },
+  "vincentkompany": {
+    "name": "Vincent Kompany",
+    "number": 4,
+    "position": "CB",
+    "clubs": ["anderlecht", "hamburger", "manchestercity"],
+    "last": "anderlecht",
+    "nationalTeam": "belgium"
   }
 }
