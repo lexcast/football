@@ -1491,5 +1491,20 @@
     "position": "AM",
     "clubs": ["genk", "werderbremen", "chelsea", "wolfsburg", "manchestercity"],
     "nationalTeam": "belgium"
+  },
+  "romelulukaku": {
+    "name": "Romelu Lukaku",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "anderlecht",
+      "chelsea",
+      "westbromwich",
+      "everton",
+      "manchesterunited",
+      "inter"
+    ],
+    "nationalTeam": "belgium",
+    "championsLeagues": 1
   }
 }

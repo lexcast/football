@@ -2068,5 +2068,13 @@
     "country": "france",
     "color1": "#D90002",
     "color2": "#161F4B"
+  },
+  "anderlecht": {
+    "id": "anderlecht",
+    "title": "R.S.C. Anderlecht",
+    "brand": "joma",
+    "country": "belgium",
+    "color1": "#3E0081",
+    "color2": "#FFFFFF"
   }
 }
