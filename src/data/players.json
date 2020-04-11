@@ -1514,5 +1514,13 @@
     "clubs": ["anderlecht", "hamburger", "manchestercity"],
     "last": "anderlecht",
     "nationalTeam": "belgium"
+  },
+  "antoinegriezmann": {
+    "name": "Antoine Griezmann",
+    "number": 7,
+    "position": "LW",
+    "clubs": ["realsociedad", "atleticomadrid", "barcelona"],
+    "nationalTeam": "france",
+    "worldCups": 1
   }
 }
