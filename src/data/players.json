@@ -1522,5 +1522,14 @@
     "clubs": ["realsociedad", "atleticomadrid", "barcelona"],
     "nationalTeam": "france",
     "worldCups": 1
+  },
+  "lilianthuram": {
+    "name": "Lilian Thuram",
+    "number": 15,
+    "position": "CB",
+    "clubs": ["monaco", "parma", "juventus", "barcelona"],
+    "nationalTeam": "france",
+    "worldCups": 1,
+    "retired": true
   }
 }
