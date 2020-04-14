@@ -1531,5 +1531,21 @@
     "nationalTeam": "france",
     "worldCups": 1,
     "retired": true
+  },
+  "claudemakelele": {
+    "name": "Claude Makélélé",
+    "number": 6,
+    "position": "DM",
+    "clubs": [
+      "nantes",
+      "olympiquedemarseille",
+      "celtadevigo",
+      "realmadrid",
+      "chelsea",
+      "psg"
+    ],
+    "nationalTeam": "france",
+    "championsLeagues": 1,
+    "retired": true
   }
 }
