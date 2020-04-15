@@ -1547,5 +1547,21 @@
     "nationalTeam": "france",
     "championsLeagues": 1,
     "retired": true
+  },
+  "ericcantona": {
+    "name": "Éric Cantona",
+    "number": 7,
+    "position": "SS",
+    "clubs": [
+      "auxerre",
+      "olympiquedemarseille",
+      "bordeaux",
+      "montpellier",
+      "nimes",
+      "leeds",
+      "manchesterunited"
+    ],
+    "nationalTeam": "france",
+    "retired": true
   }
 }

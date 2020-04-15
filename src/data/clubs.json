@@ -2076,5 +2076,37 @@
     "country": "belgium",
     "color1": "#3E0081",
     "color2": "#FFFFFF"
+  },
+  "auxerre": {
+    "id": "auxerre",
+    "title": "AJ Auxerre",
+    "brand": "macron",
+    "country": "france",
+    "color1": "#FFFFFF",
+    "color2": "#0068B2"
+  },
+  "montpellier": {
+    "id": "montpellier",
+    "title": "Montpellier Hérault S. C.",
+    "brand": "nike",
+    "country": "france",
+    "color1": "#000066",
+    "color2": "#FF6603"
+  },
+  "nimes": {
+    "id": "nimes",
+    "title": "Nîmes Olympique",
+    "brand": "puma",
+    "country": "france",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
+  },
+  "leeds": {
+    "id": "leeds",
+    "title": "Leeds United F. C.",
+    "brand": "kappa",
+    "country": "england",
+    "color1": "#FFFFFF",
+    "color2": "#5A5A5A"
   }
 }
