@@ -231,6 +231,14 @@
     "color2": "#0F0000",
     "isNational": true
   },
+  "southkorea": {
+    "id": "southkorea",
+    "title": "South Korea",
+    "brand": "nike",
+    "color1": "#FE0B24",
+    "color2": "#0A0A0A",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",

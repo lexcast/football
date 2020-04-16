@@ -1563,5 +1563,12 @@
     ],
     "nationalTeam": "france",
     "retired": true
+  },
+  "heungminson": {
+    "name": "Heung-min Son",
+    "number": 7,
+    "position": "LW",
+    "clubs": ["hamburger", "leverkusen", "tottenham"],
+    "nationalTeam": "southkorea"
   }
 }
