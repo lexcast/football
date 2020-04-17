@@ -1570,5 +1570,15 @@
     "position": "LW",
     "clubs": ["hamburger", "leverkusen", "tottenham"],
     "nationalTeam": "southkorea"
+  },
+  "jisungpark": {
+    "name": "Ji-sung Park",
+    "number": 7,
+    "position": "AM",
+    "clubs": ["kyoto", "psv", "manchesterunited", "queenspark"],
+    "last": "psv",
+    "nationalTeam": "southkorea",
+    "retired": true,
+    "championsLeagues": 1
   }
 }

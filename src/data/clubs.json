@@ -2116,5 +2116,21 @@
     "country": "england",
     "color1": "#FFFFFF",
     "color2": "#5A5A5A"
+  },
+  "kyoto": {
+    "id": "kyoto",
+    "title": "Kyoto Sanga F.C.",
+    "brand": "puma",
+    "country": "japan",
+    "color1": "#66138C",
+    "color2": "#000000"
+  },
+  "queenspark": {
+    "id": "queenspark",
+    "title": "Queens Park Rangers F. C.",
+    "brand": "errea",
+    "country": "england",
+    "color1": "#FFFFFF",
+    "color2": "#0030FF"
   }
 }
