@@ -239,6 +239,14 @@
     "color2": "#0A0A0A",
     "isNational": true
   },
+  "japan": {
+    "id": "japan",
+    "title": "Japan",
+    "brand": "adidas",
+    "color1": "#54C2FF",
+    "color2": "#000555",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -2132,5 +2140,13 @@
     "country": "england",
     "color1": "#FFFFFF",
     "color2": "#0030FF"
+  },
+  "osaka": {
+    "id": "osaka",
+    "title": "Cerezo Osaka",
+    "brand": "puma",
+    "country": "japan",
+    "color1": "#FA1A82",
+    "color2": "#00003E"
   }
 }

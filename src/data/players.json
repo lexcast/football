@@ -1580,5 +1580,18 @@
     "nationalTeam": "southkorea",
     "retired": true,
     "championsLeagues": 1
+  },
+  "shinjikagawa": {
+    "name": "Shinji Kagawa",
+    "number": 10,
+    "position": "AM",
+    "clubs": [
+      "osaka",
+      "dortmund",
+      "manchesterunited",
+      "besiktas",
+      "realzaragoza"
+    ],
+    "nationalTeam": "japan"
   }
 }
