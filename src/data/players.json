@@ -1593,5 +1593,21 @@
       "realzaragoza"
     ],
     "nationalTeam": "japan"
+  },
+  "timcahill": {
+    "name": "Tim Cahill",
+    "number": 4,
+    "position": "AM",
+    "clubs": [
+      "millwall",
+      "everton",
+      "newyork",
+      "shanghai",
+      "zhejiang",
+      "melbourne",
+      "jamshedpur"
+    ],
+    "retired": true,
+    "nationalTeam": "australia"
   }
 }

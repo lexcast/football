@@ -247,6 +247,14 @@
     "color2": "#000555",
     "isNational": true
   },
+  "australia": {
+    "id": "australia",
+    "title": "Australia",
+    "brand": "nike",
+    "color1": "#FFBB03",
+    "color2": "#213B36",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -2148,5 +2156,37 @@
     "country": "japan",
     "color1": "#FA1A82",
     "color2": "#00003E"
+  },
+  "shanghai": {
+    "id": "shanghai",
+    "title": "Shanghái Greenland Shenhua",
+    "brand": "nike",
+    "country": "china",
+    "color1": "#0000FF",
+    "color2": "#E0000A"
+  },
+  "zhejiang": {
+    "id": "zhejiang",
+    "title": "Zhejiang Greentown F. C.",
+    "brand": "anta",
+    "country": "china",
+    "color1": "#008000",
+    "color2": "#D4F9BE"
+  },
+  "melbourne": {
+    "id": "melbourne",
+    "title": "Melbourne City FC",
+    "brand": "puma",
+    "country": "australia",
+    "color1": "#6DBFFF",
+    "color2": "#FFFFFF"
+  },
+  "jamshedpur": {
+    "id": "jamshedpur",
+    "title": "Jamshedpur FC",
+    "brand": "nivia",
+    "country": "india",
+    "color1": "#8A0001",
+    "color2": "#00008B"
   }
 }
