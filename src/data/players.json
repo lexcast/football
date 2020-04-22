@@ -1609,5 +1609,14 @@
     ],
     "retired": true,
     "nationalTeam": "australia"
+  },
+  "marcovanbasten": {
+    "name": "Marco van|Basten",
+    "number": 9,
+    "position": "CF",
+    "clubs": ["ajax", "milan"],
+    "retired": true,
+    "nationalTeam": "netherlands",
+    "championsLeagues": 2
   }
 }
