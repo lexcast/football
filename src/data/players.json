@@ -1618,5 +1618,14 @@
     "retired": true,
     "nationalTeam": "netherlands",
     "championsLeagues": 2
+  },
+  "arjenrobben": {
+    "name": "Arjen Robben",
+    "number": 11,
+    "position": "RW",
+    "clubs": ["groningen", "psv", "chelsea", "realmadrid", "bayernmunich"],
+    "retired": true,
+    "nationalTeam": "netherlands",
+    "championsLeagues": 1
   }
 }
