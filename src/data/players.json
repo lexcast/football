@@ -1627,5 +1627,13 @@
     "retired": true,
     "nationalTeam": "netherlands",
     "championsLeagues": 1
+  },
+  "dennisbergkamp": {
+    "name": "Dennis Bergkamp",
+    "number": 10,
+    "position": "SS",
+    "clubs": ["ajax", "inter", "arsenal"],
+    "retired": true,
+    "nationalTeam": "netherlands"
   }
 }
