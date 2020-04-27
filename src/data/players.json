@@ -1635,5 +1635,21 @@
     "clubs": ["ajax", "inter", "arsenal"],
     "retired": true,
     "nationalTeam": "netherlands"
+  },
+  "ruudvannistelrooy": {
+    "name": "Ruud van|Nistelrooy",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "denbosch",
+      "heerenveen",
+      "psv",
+      "manchesterunited",
+      "realmadrid",
+      "hamburger",
+      "malaga"
+    ],
+    "retired": true,
+    "nationalTeam": "netherlands"
   }
 }

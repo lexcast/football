@@ -2188,5 +2188,21 @@
     "country": "india",
     "color1": "#8A0001",
     "color2": "#00008B"
+  },
+  "denbosch": {
+    "id": "denbosch",
+    "title": "FC Den Bosch",
+    "brand": "masita",
+    "country": "netherlands",
+    "color1": "#0000AA",
+    "color2": "#FFFFFF"
+  },
+  "heerenveen": {
+    "id": "heerenveen",
+    "title": "SC Heerenveen",
+    "brand": "jako",
+    "country": "netherlands",
+    "color1": "#FFFFFF",
+    "color2": "#1A1AFF"
   }
 }
