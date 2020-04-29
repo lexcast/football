@@ -2204,5 +2204,29 @@
     "country": "netherlands",
     "color1": "#FFFFFF",
     "color2": "#1A1AFF"
+  },
+  "quilmes": {
+    "id": "quilmes",
+    "title": "Quilmes",
+    "brand": "hummel",
+    "country": "argentina",
+    "color1": "#FFFFFF",
+    "color2": "#3130A1"
+  },
+  "racingclub": {
+    "id": "racingclub",
+    "title": "Racing Club",
+    "brand": "kappa",
+    "country": "argentina",
+    "color1": "#FFFFFF",
+    "color2": "#0096E9"
+  },
+  "velezsarsfield": {
+    "id": "velezsarsfield",
+    "title": "Vélez Sarsfield",
+    "brand": "kappa",
+    "country": "argentina",
+    "color1": "#FFFFFF",
+    "color2": "#0000FF"
   }
 }

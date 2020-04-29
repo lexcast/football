@@ -1651,5 +1651,22 @@
     ],
     "retired": true,
     "nationalTeam": "netherlands"
+  },
+  "ubaldofillol": {
+    "name": "Ubaldo Fillol",
+    "number": 1,
+    "position": "GK",
+    "clubs": [
+      "quilmes",
+      "racingclub",
+      "riverplate",
+      "argentinos",
+      "flamengo",
+      "atleticomadrid",
+      "velezsarsfield"
+    ],
+    "retired": true,
+    "nationalTeam": "argentina",
+    "worldCups": 1
   }
 }
