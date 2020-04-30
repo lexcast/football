@@ -7,7 +7,7 @@ const PlayerFront = ({ id, player, team, national }) => {
       className="w-full h-full bg-cover bg-no-repeat bg-center select-none transition-all"
       style={{
         backgroundColor: team.color1,
-        backgroundImage: `url("${getPlayer(id, team.id)}")`
+        backgroundImage: `url("${getPlayer(id, team.id)}")`,
       }}
     >
       <p
@@ -26,13 +26,13 @@ const PlayerFront = ({ id, player, team, national }) => {
       </div>
       <div className="absolute bottom-0 pb-3" style={{ color: team.color1 }}>
         <p
-          className="font-bungee font-semibold tracking-tighter text-xl"
+          className="font-bungee font-semibold tracking-tighter text-lg"
           style={{ backgroundColor: team.color2 }}
         >
           {player.name.split(" ").map((txt, i, arr) => {
             if (arr.length !== i + 1) {
               return (
-                <span className="text-sm" key={i}>
+                <span className="text-xs" key={i}>
                   {txt}
                 </span>
               );
@@ -52,7 +52,9 @@ const PlayerFront = ({ id, player, team, national }) => {
       )}
       <div className="flex flex-row-reverse items-center justify-center absolute right-0 bottom-0 mr-2 text-2xs text-shadow">
         {player.worldCups > 0 && (
-          <span className="text-yellow-400">{"★".repeat(player.worldCups)}</span>
+          <span className="text-yellow-400">
+            {"★".repeat(player.worldCups)}
+          </span>
         )}
         {player.championsLeagues > 0 && (
           <span className="text-gray-400">

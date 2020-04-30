@@ -143,7 +143,7 @@
     "worldCups": 3
   },
   "diegomaradona": {
-    "name": "Diego Maradona",
+    "name": "Diego Armando Maradona",
     "number": 10,
     "position": "AM",
     "clubs": [
@@ -924,7 +924,7 @@
     "championsLeagues": 2
   },
   "jonathandossantos": {
-    "name": "Jona dos|Santos",
+    "name": "Jonathan dos|Santos",
     "number": 6,
     "position": "CM",
     "clubs": ["barcelona", "villarreal", "galaxy"],
