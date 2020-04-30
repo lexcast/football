@@ -1668,5 +1668,12 @@
     "retired": true,
     "nationalTeam": "argentina",
     "worldCups": 1
+  },
+  "sergioaguero": {
+    "name": "Sergio Agüero",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["independiente", "atleticomadrid", "manchestercity"],
+    "nationalTeam": "argentina"
   }
 }

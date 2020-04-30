@@ -2228,5 +2228,21 @@
     "country": "argentina",
     "color1": "#FFFFFF",
     "color2": "#0000FF"
+  },
+  "velezsarsfield": {
+    "id": "velezsarsfield",
+    "title": "Vélez Sarsfield",
+    "brand": "kappa",
+    "country": "argentina",
+    "color1": "#FFFFFF",
+    "color2": "#0000FF"
+  },
+  "independiente": {
+    "id": "independiente",
+    "title": "Independiente",
+    "brand": "puma",
+    "country": "argentina",
+    "color1": "#FE0003",
+    "color2": "#000041"
   }
 }
