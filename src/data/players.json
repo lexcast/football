@@ -1675,5 +1675,13 @@
     "position": "CF",
     "clubs": ["independiente", "atleticomadrid", "manchestercity"],
     "nationalTeam": "argentina"
+  },
+  "juanromanriquelme": {
+    "name": "Juan Román Riquelme",
+    "number": 10,
+    "position": "AM",
+    "clubs": ["bocajuniors", "barcelona", "villarreal", "argentinos"],
+    "nationalTeam": "argentina",
+    "retired": true
   }
 }
