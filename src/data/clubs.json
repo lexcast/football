@@ -2244,5 +2244,61 @@
     "country": "argentina",
     "color1": "#FE0003",
     "color2": "#000041"
+  },
+  "instituto": {
+    "id": "instituto",
+    "title": "Instituto",
+    "brand": "kelme",
+    "country": "argentina",
+    "color1": "#FFFFFF",
+    "color2": "#FE0003"
+  },
+  "hercules": {
+    "id": "hercules",
+    "title": "Hércules de Alicante",
+    "brand": "kelme",
+    "country": "spain",
+    "color1": "#0045FF",
+    "color2": "#000000"
+  },
+  "firstvienna": {
+    "id": "firstvienna",
+    "title": "Vienna FC",
+    "brand": "errea",
+    "country": "austria",
+    "color1": "#FFDD03",
+    "color2": "#0000FF"
+  },
+  "polten": {
+    "id": "polten",
+    "title": "SKN St. Pölten",
+    "brand": "macron",
+    "country": "austria",
+    "color1": "#F9F103",
+    "color2": "#0000FF"
+  },
+  "kremser": {
+    "id": "kremser",
+    "title": "Kremser SC",
+    "brand": "nike",
+    "country": "austria",
+    "color1": "#000000",
+    "color2": "#FFFFFF"
+  },
+  "fernandezvial": {
+    "id": "fernandezvial",
+    "title": "Fernández Vial",
+    "brand": "puma",
+    "country": "chile",
+    "color1": "#FFFF04",
+    "color2": "#000000"
+  },
+  "maduraunited": {
+    "id": "maduraunited",
+    "title": "Madura United FC",
+    "brand": "mbb",
+    "country": "indonesia",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
   }
 }

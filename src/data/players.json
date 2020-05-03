@@ -1683,5 +1683,25 @@
     "clubs": ["bocajuniors", "barcelona", "villarreal", "argentinos"],
     "nationalTeam": "argentina",
     "retired": true
+  },
+  "marioalbertokempes": {
+    "name": "Mario Alberto Kempes",
+    "number": 10,
+    "position": "CF",
+    "clubs": [
+      "instituto",
+      "rosario",
+      "valencia",
+      "riverplate",
+      "hercules",
+      "firstvienna",
+      "polten",
+      "kremser",
+      "fernandezvial",
+      "maduraunited"
+    ],
+    "nationalTeam": "argentina",
+    "retired": true,
+    "worldCups": 1
   }
 }
