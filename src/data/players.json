@@ -1703,5 +1703,13 @@
     "nationalTeam": "argentina",
     "retired": true,
     "worldCups": 1
+  },
+  "emiliobutragueno": {
+    "name": "Emilio Butragueño",
+    "number": 7,
+    "position": "CF",
+    "clubs": ["realmadrid", "celaya"],
+    "nationalTeam": "spain",
+    "retired": true
   }
 }
