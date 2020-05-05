@@ -2300,5 +2300,13 @@
     "country": "indonesia",
     "color1": "#FE0003",
     "color2": "#FFFFFF"
+  },
+  "chorrera": {
+    "id": "chorrera",
+    "title": "C. A. Independiente",
+    "brand": "everlast",
+    "country": "panama",
+    "color1": "#FFF304",
+    "color2": "#090A34"
   }
 }

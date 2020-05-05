@@ -1711,5 +1711,20 @@
     "clubs": ["realmadrid", "celaya"],
     "nationalTeam": "spain",
     "retired": true
+  },
+  "michelsalgado": {
+    "name": "Míchel Salgado",
+    "number": 2,
+    "position": "RB",
+    "clubs": [
+      "celtadevigo",
+      "salamanca",
+      "realmadrid",
+      "blackburn",
+      "chorrera"
+    ],
+    "nationalTeam": "spain",
+    "retired": true,
+    "championsLeagues": 2
   }
 }
