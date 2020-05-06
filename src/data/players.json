@@ -1726,5 +1726,14 @@
     "nationalTeam": "spain",
     "retired": true,
     "championsLeagues": 2
+  },
+  "santiagobernabeu": {
+    "name": "Santiago Bernabéu",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["realmadrid"],
+    "nationalTeam": "spain",
+    "retired": true,
+    "championsLeagues": 6
   }
 }
