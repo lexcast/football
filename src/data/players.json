@@ -1735,5 +1735,22 @@
     "nationalTeam": "spain",
     "retired": true,
     "championsLeagues": 6
+  },
+  "ivanzamorano": {
+    "name": "Iván Zamorano",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "cobresal",
+      "trasandino",
+      "gallen",
+      "sevilla",
+      "realmadrid",
+      "inter",
+      "america",
+      "colocolo"
+    ],
+    "nationalTeam": "chile",
+    "retired": true
   }
 }

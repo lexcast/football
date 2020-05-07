@@ -255,6 +255,14 @@
     "color2": "#213B36",
     "isNational": true
   },
+  "chile": {
+    "id": "chile",
+    "title": "Chile",
+    "brand": "nike",
+    "color1": "#FE0003",
+    "color2": "#0000BE",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -2308,5 +2316,37 @@
     "country": "panama",
     "color1": "#FFF304",
     "color2": "#090A34"
+  },
+  "cobresal": {
+    "id": "cobresal",
+    "title": "Cobresal",
+    "brand": "ks7",
+    "country": "chile",
+    "color1": "#FFFFFF",
+    "color2": "#FE6603"
+  },
+  "trasandino": {
+    "id": "trasandino",
+    "title": "Trasandino",
+    "brand": "kuden",
+    "country": "chile",
+    "color1": "#00A380",
+    "color2": "#FFFFFF"
+  },
+  "gallen": {
+    "id": "gallen",
+    "title": "FC St. Gallen",
+    "brand": "jako",
+    "country": "switzerland",
+    "color1": "#00771D",
+    "color2": "#FFFFFF"
+  },
+  "colocolo": {
+    "id": "colocolo",
+    "title": "Colo-Colo",
+    "brand": "umbro",
+    "country": "chile",
+    "color1": "#00771D",
+    "color2": "#FFFFFF"
   }
 }
