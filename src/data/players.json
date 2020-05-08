@@ -1752,5 +1752,20 @@
     ],
     "nationalTeam": "chile",
     "retired": true
+  },
+  "michaelballack": {
+    "name": "Michael Ballack",
+    "number": 13,
+    "position": "CM",
+    "clubs": [
+      "chemnitzer",
+      "kaiserslautern",
+      "leverkusen",
+      "bayernmunich",
+      "chelsea"
+    ],
+    "last": "leverkusen",
+    "nationalTeam": "germany",
+    "retired": true
   }
 }

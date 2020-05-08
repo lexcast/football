@@ -2348,5 +2348,13 @@
     "country": "chile",
     "color1": "#00771D",
     "color2": "#FFFFFF"
+  },
+  "chemnitzer": {
+    "id": "chemnitzer",
+    "title": "Chemnitzer FC",
+    "brand": "jako",
+    "country": "germany",
+    "color1": "#5ABAF8",
+    "color2": "#FFFFFF"
   }
 }
