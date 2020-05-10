@@ -1767,5 +1767,14 @@
     "last": "leverkusen",
     "nationalTeam": "germany",
     "retired": true
+  },
+  "lotharmatthaus": {
+    "name": "Lothar Matthäus",
+    "number": 10,
+    "position": "DM",
+    "clubs": ["monchengladbach", "bayernmunich", "inter", "newyork"],
+    "nationalTeam": "germany",
+    "retired": true,
+    "worldCups": 1
   }
 }
