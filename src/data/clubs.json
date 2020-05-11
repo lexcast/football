@@ -2356,5 +2356,13 @@
     "country": "germany",
     "color1": "#5ABAF8",
     "color2": "#FFFFFF"
+  },
+  "fortlauderdale": {
+    "id": "fortlauderdale",
+    "title": "Fort Lauderdale Strikers",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#FFC90E",
+    "color2": "#FE0003"
   }
 }

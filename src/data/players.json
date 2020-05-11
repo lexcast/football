@@ -1776,5 +1776,15 @@
     "nationalTeam": "germany",
     "retired": true,
     "worldCups": 1
+  },
+  "gerdmuller": {
+    "name": "Gerd Müller",
+    "number": 9,
+    "position": "CF",
+    "clubs": ["bayernmunich", "fortlauderdale"],
+    "nationalTeam": "germany",
+    "retired": true,
+    "worldCups": 1,
+    "championsLeagues": 3
   }
 }
