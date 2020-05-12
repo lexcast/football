@@ -1786,5 +1786,13 @@
     "retired": true,
     "worldCups": 1,
     "championsLeagues": 3
+  },
+  "mesutozil": {
+    "name": "Mesut Özil",
+    "number": 10,
+    "position": "AM",
+    "clubs": ["schalke", "werderbremen", "realmadrid", "arsenal"],
+    "nationalTeam": "germany",
+    "worldCups": 1
   }
 }
