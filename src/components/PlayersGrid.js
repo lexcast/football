@@ -2,6 +2,10 @@ import React from "react";
 import PlayerCard from "./PlayerCard";
 import { positions } from "./PositionFilter";
 import accents from "remove-accents";
+import { AutoSizer, List } from "react-virtualized";
+
+const BOX_WIDTH = 224;
+const BOX_HEIGHT = 264;
 
 const PlayersGrid = ({
   search,
@@ -12,35 +16,35 @@ const PlayersGrid = ({
   sort,
   direction,
   preference,
-  flipped
+  flipped,
 }) => {
   const flatPositions = [];
 
-  Object.keys(positions).forEach(k => {
+  Object.keys(positions).forEach((k) => {
     flatPositions.push(k);
 
-    positions[k].forEach(p => flatPositions.push(p));
+    positions[k].forEach((p) => flatPositions.push(p));
   });
 
   const playersFiltered = Object.keys(players)
-    .map(key => {
+    .map((key) => {
       const player = players[key];
       player.id = key;
 
       return player;
     })
     .filter(
-      player =>
+      (player) =>
         !position ||
         player.position === position ||
         (positions[position] && positions[position].includes(player.position))
     )
     .filter(
-      player =>
+      (player) =>
         !team || player.clubs.includes(team) || player.nationalTeam === team
     )
     .filter(
-      player =>
+      (player) =>
         !search ||
         player.id.includes(search.toLowerCase().replace(" ", "")) ||
         player.name.toLowerCase().includes(search.toLowerCase()) ||
@@ -82,7 +86,7 @@ const PlayersGrid = ({
     <div className="bg-green-700 px-2 py-2 mt-4">
       <div
         style={{ minHeight: "250px" }}
-        className="border-4 border-white px-6 py-5 flex flex-wrap justify-center relative overflow-hidden"
+        className="border-4 border-white px-6 py-5 relative overflow-hidden"
       >
         <div className="w-8 h-8 rounded-full border-4 border-white absolute top-0 left-0 -ml-4 -mt-4"></div>
         <div className="w-8 h-8 rounded-full border-4 border-white absolute top-0 right-0 -mr-4 -mt-4"></div>
@@ -90,37 +94,70 @@ const PlayersGrid = ({
         <div className="w-8 h-8 rounded-full border-4 border-white absolute bottom-0 right-0 -mr-4 -mb-4"></div>
 
         {playersFiltered.length > 0 ? (
-          playersFiltered.map(player => {
-            const preferenceTeam =
-              preference === "NATIONAL"
-                ? player.nationalTeam
-                : preference === "FIRST"
-                ? player.clubs[0]
-                : preference === "LAST"
-                ? player.last
-                  ? player.last
-                  : player.clubs[player.clubs.length - 1]
-                : preference === "NOW"
-                ? player.retired
-                  ? "RETIRED"
-                  : player.last
-                  ? player.last
-                  : player.clubs[player.clubs.length - 1]
-                : team || player.nationalTeam;
+          <AutoSizer disableHeight>
+            {({ width }) => {
+              const numberOfBoxesPerRow = Math.floor(width / BOX_WIDTH);
+              const rowCount = Math.ceil(
+                playersFiltered.length / numberOfBoxesPerRow
+              );
 
-            return (
-              <PlayerCard
-                key={player.id}
-                id={player.id}
-                player={players[player.id]}
-                teamId={preferenceTeam}
-                clubs={clubs}
-                flipped={flipped}
-              />
-            );
-          })
+              return (
+                <List
+                  className="focus:outline-none"
+                  width={width}
+                  height={rowCount > 1 ? 528 : 264}
+                  rowCount={rowCount}
+                  rowHeight={BOX_HEIGHT}
+                  rowRenderer={({ key, index, style }) => {
+                    return (
+                      <div
+                        key={key}
+                        style={style}
+                        className="flex items-center justify-center"
+                      >
+                        {playersFiltered
+                          .slice(
+                            index * numberOfBoxesPerRow,
+                            index * numberOfBoxesPerRow + numberOfBoxesPerRow
+                          )
+                          .map((player) => {
+                            const preferenceTeam =
+                              preference === "NATIONAL"
+                                ? player.nationalTeam
+                                : preference === "FIRST"
+                                ? player.clubs[0]
+                                : preference === "LAST"
+                                ? player.last
+                                  ? player.last
+                                  : player.clubs[player.clubs.length - 1]
+                                : preference === "NOW"
+                                ? player.retired
+                                  ? "RETIRED"
+                                  : player.last
+                                  ? player.last
+                                  : player.clubs[player.clubs.length - 1]
+                                : team || player.nationalTeam;
+
+                            return (
+                              <PlayerCard
+                                key={player.id}
+                                id={player.id}
+                                player={players[player.id]}
+                                teamId={preferenceTeam}
+                                clubs={clubs}
+                                flipped={flipped}
+                              />
+                            );
+                          })}
+                      </div>
+                    );
+                  }}
+                />
+              );
+            }}
+          </AutoSizer>
         ) : (
-          <div className="text-center flex-wrap text-green-500 flex flex-col justify-center items-center font-bungee font-bold">
+          <div className="text-center absolute w-full h-full top-0 left-0 flex-wrap text-green-500 flex flex-col justify-center items-center font-bungee font-bold">
             <div className="text-5xl leading-none">No players found</div>
             <div className="text-lg">
               Change filters criteria for other results

@@ -8,6 +8,7 @@
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0",
     "react-svg": "^11.0.14",
+    "react-virtualized": "^9.21.2",
     "remove-accents": "^0.4.2",
     "vanilla-tilt": "^1.7.0"
   },
