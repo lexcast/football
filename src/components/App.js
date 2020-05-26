@@ -18,6 +18,9 @@ const App = () => {
 
   return (
     <div className="w-full h-full">
+      <div className="z-50 font-bungee bg-orange-600 text-white text-base font-bold fixed bottom-0 right-0">
+        I DO NOT OWN ANY IMAGE
+      </div>
       <SearchFilter {...{ search, setSearch }} />
       <TeamsFilter {...{ clubs, team, setTeam, flags }} />
       <PositionFilter {...{ position, setPosition }} />
@@ -33,7 +36,7 @@ const App = () => {
           sort,
           direction,
           preference,
-          flipped
+          flipped,
         }}
       />
     </div>
