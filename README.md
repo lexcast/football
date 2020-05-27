@@ -2,7 +2,7 @@
 
 See in action [here](https://lexcast.github.io/football/).
 
-![example](https://user-images.githubusercontent.com/10590799/82855238-55e9e700-9ed0-11ea-8118-b5d0e35e056a.png)
+![example](https://user-images.githubusercontent.com/10590799/82995582-65992680-9fc9-11ea-9cd4-93e6533eb6f1.png)
 
 **NOTE: I DO NOT OWN ANY IMAGE ON THIS REPOSITORY**
 
