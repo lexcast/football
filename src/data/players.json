@@ -1794,5 +1794,22 @@
     "clubs": ["schalke", "werderbremen", "realmadrid", "arsenal"],
     "nationalTeam": "germany",
     "worldCups": 1
+  },
+  "mariomandzukic": {
+    "name": "Mario Mandžukić",
+    "number": 17,
+    "position": "CF",
+    "clubs": [
+      "marsonia",
+      "nkzagreb",
+      "dinamozagreb",
+      "wolfsburg",
+      "bayernmunich",
+      "atleticomadrid",
+      "juventus",
+      "alduhail"
+    ],
+    "nationalTeam": "croatia",
+    "championsLeagues": 1
   }
 }

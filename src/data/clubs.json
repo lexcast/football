@@ -2364,5 +2364,29 @@
     "country": "unitedstates",
     "color1": "#FFC90E",
     "color2": "#FE0003"
+  },
+  "marsonia": {
+    "id": "marsonia",
+    "title": "NK Marsonia",
+    "brand": "jako",
+    "country": "croatia",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "nkzagreb": {
+    "id": "nkzagreb",
+    "title": "NK Zagreb",
+    "brand": "jako",
+    "country": "croatia",
+    "color1": "#FFFFFF",
+    "color2": "#E21B22"
+  },
+  "alduhail": {
+    "id": "alduhail",
+    "title": "Al-Duhail",
+    "brand": "puma",
+    "country": "qatar",
+    "color1": "#FE0003",
+    "color2": "#C1C1C1"
   }
 }
