@@ -11,8 +11,9 @@ jobs:
     - uses: actions/setup-node@v1
       with:
         node-version: '12'
-    - uses: oleksiyrudenko/gha-git-credentials@v1
-      with:
-        token: '${{ secrets.GITHUB_TOKEN }}'
     - run: yarn install
-    - run: yarn deploy
+    - run: yarn build:tw && yarn build
+    - uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./build
