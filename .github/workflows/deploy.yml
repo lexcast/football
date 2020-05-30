@@ -12,7 +12,7 @@ jobs:
       with:
         node-version: '12'
     - run: yarn install
-    - run: yarn build:tw && yarn build
+    - run: yarn predeploy
     - uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
