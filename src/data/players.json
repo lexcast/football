@@ -1811,5 +1811,22 @@
     ],
     "nationalTeam": "croatia",
     "championsLeagues": 1
+  },
+  "davorsuker": {
+    "name": "Davor Šuker",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "osijek",
+      "dinamozagreb",
+      "sevilla",
+      "realmadrid",
+      "arsenal",
+      "westham",
+      "1860munich"
+    ],
+    "nationalTeam": "croatia",
+    "championsLeagues": 1,
+    "retired": true
   }
 }

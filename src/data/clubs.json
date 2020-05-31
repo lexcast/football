@@ -2388,5 +2388,21 @@
     "country": "qatar",
     "color1": "#FE0003",
     "color2": "#C1C1C1"
+  },
+  "osijek": {
+    "id": "osijek",
+    "title": "NK Osijek",
+    "brand": "nike",
+    "country": "croatia",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "1860munich": {
+    "id": "1860munich",
+    "title": "TSV 1860 Munich",
+    "brand": "macron",
+    "country": "germany",
+    "color1": "#FFFFFF",
+    "color2": "#69C5F0"
   }
 }
