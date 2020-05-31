@@ -1828,5 +1828,13 @@
     "nationalTeam": "croatia",
     "championsLeagues": 1,
     "retired": true
+  },
+  "ivanrakitic": {
+    "name": "Ivan Rakitić",
+    "number": 7,
+    "position": "CM",
+    "clubs": ["basel", "schalke", "sevilla", "barcelona"],
+    "nationalTeam": "croatia",
+    "championsLeagues": 1
   }
 }
