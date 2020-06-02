@@ -2404,5 +2404,29 @@
     "country": "germany",
     "color1": "#FFFFFF",
     "color2": "#69C5F0"
+  },
+  "zehlendorf": {
+    "id": "zehlendorf",
+    "title": "Hertha Zehlendorf",
+    "brand": "hummel",
+    "country": "germany",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "hertha": {
+    "id": "hertha",
+    "title": "Hertha BSC",
+    "brand": "nike",
+    "country": "germany",
+    "color1": "#0303FF",
+    "color2": "#FFFFFF"
+  },
+  "salzburg": {
+    "id": "salzburg",
+    "title": "Red Bull Salzburg",
+    "brand": "nike",
+    "country": "austria",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
   }
 }

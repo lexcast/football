@@ -1836,5 +1836,20 @@
     "clubs": ["basel", "schalke", "sevilla", "barcelona"],
     "nationalTeam": "croatia",
     "championsLeagues": 1
+  },
+  "nikokovac": {
+    "name": "Niko Kovač",
+    "number": 10,
+    "position": "DM",
+    "clubs": [
+      "zehlendorf",
+      "hertha",
+      "leverkusen",
+      "hamburger",
+      "bayernmunich",
+      "salzburg"
+    ],
+    "nationalTeam": "croatia",
+    "retired": true
   }
 }
