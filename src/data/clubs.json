@@ -2428,5 +2428,13 @@
     "country": "austria",
     "color1": "#FE0003",
     "color2": "#FFFFFF"
+  },
+  "gijon": {
+    "id": "gijon",
+    "title": "Real Sporting de Gijón",
+    "brand": "nike",
+    "country": "spain",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
   }
 }
