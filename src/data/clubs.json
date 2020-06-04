@@ -2436,5 +2436,13 @@
     "country": "spain",
     "color1": "#FE0003",
     "color2": "#FFFFFF"
+  },
+  "bilbao": {
+    "id": "bilbao",
+    "title": "Athletic Club de Bilbao",
+    "brand": "newbalance",
+    "country": "spain",
+    "color1": "#FE0003",
+    "color2": "#FFFFFF"
   }
 }

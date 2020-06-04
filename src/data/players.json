@@ -1870,5 +1870,13 @@
     "retired": true,
     "championsLeagues": 1,
     "worldCups": 1
+  },
+  "telmozarra": {
+    "name": "Telmo Zarra",
+    "number": 9,
+    "position": "CF",
+    "clubs": ["bilbao"],
+    "nationalTeam": "spain",
+    "retired": true
   }
 }
