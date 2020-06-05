@@ -1878,5 +1878,14 @@
     "clubs": ["bilbao"],
     "nationalTeam": "spain",
     "retired": true
+  },
+  "andonizubizarreta": {
+    "name": "Andoni Zubizarreta",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["alaves", "bilbao", "barcelona", "valencia"],
+    "nationalTeam": "spain",
+    "retired": true,
+    "championsLeagues": 1
   }
 }

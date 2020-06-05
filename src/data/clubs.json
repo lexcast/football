@@ -2444,5 +2444,13 @@
     "country": "spain",
     "color1": "#FE0003",
     "color2": "#FFFFFF"
+  },
+  "alaves": {
+    "id": "alaves",
+    "title": "Deportivo Alavés",
+    "brand": "kelme",
+    "country": "spain",
+    "color1": "#0024C6",
+    "color2": "#FFFFFF"
   }
 }
