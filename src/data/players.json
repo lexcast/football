@@ -1887,5 +1887,13 @@
     "nationalTeam": "spain",
     "retired": true,
     "championsLeagues": 1
+  },
+  "cescfabregas": {
+    "name": "Cesc Fàbregas",
+    "number": 10,
+    "position": "CM",
+    "clubs": ["arsenal", "barcelona", "chelsea", "monaco"],
+    "nationalTeam": "spain",
+    "worldCups": 1
   }
 }
