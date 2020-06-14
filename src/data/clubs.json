@@ -263,6 +263,14 @@
     "color2": "#0000BE",
     "isNational": true
   },
+  "ivorycoast": {
+    "id": "ivorycoast",
+    "title": "Ivory Coast",
+    "brand": "puma",
+    "color1": "#FFA500",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -2452,5 +2460,45 @@
     "country": "spain",
     "color1": "#0024C6",
     "color2": "#FFFFFF"
+  },
+  "lemans": {
+    "id": "lemans",
+    "title": "Le Mans F. C.",
+    "brand": "kappa",
+    "country": "france",
+    "color1": "#FE0200",
+    "color2": "#F2FF21"
+  },
+  "guingamp": {
+    "id": "guingamp",
+    "title": "EA Guingamp",
+    "brand": "umbro",
+    "country": "france",
+    "color1": "#E50200",
+    "color2": "#000000"
+  },
+  "guingamp": {
+    "id": "guingamp",
+    "title": "EA Guingamp",
+    "brand": "umbro",
+    "country": "france",
+    "color1": "#E50200",
+    "color2": "#000000"
+  },
+  "montreal": {
+    "id": "montreal",
+    "title": "Impact de Montréal",
+    "brand": "adidas",
+    "country": "canada",
+    "color1": "#000000",
+    "color2": "#054FDF"
+  },
+  "phoenix": {
+    "id": "phoenix",
+    "title": "Phoenix Rising FC",
+    "brand": "macron",
+    "country": "unitedstates",
+    "color1": "#FE0200",
+    "color2": "#000000"
   }
 }

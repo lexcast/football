@@ -1895,5 +1895,23 @@
     "clubs": ["arsenal", "barcelona", "chelsea", "monaco"],
     "nationalTeam": "spain",
     "worldCups": 1
+  },
+  "didierdrogba": {
+    "name": "Didier Drogba",
+    "number": 11,
+    "position": "CF",
+    "clubs": [
+      "lemans",
+      "guingamp",
+      "olympiquedemarseille",
+      "chelsea",
+      "shanghai",
+      "galatasaray",
+      "montreal",
+      "phoenix"
+    ],
+    "nationalTeam": "ivorycoast",
+    "championsLeagues": 1,
+    "retired": true
   }
 }
