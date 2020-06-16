@@ -1913,5 +1913,28 @@
     "nationalTeam": "ivorycoast",
     "championsLeagues": 1,
     "retired": true
+  },
+  "samueletoo": {
+    "name": "Samuel Eto'o",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "leganes",
+      "realmadrid",
+      "espanyol",
+      "mallorca",
+      "barcelona",
+      "inter",
+      "anzhi",
+      "chelsea",
+      "everton",
+      "sampdoria",
+      "antalyaspor",
+      "konyaspor",
+      "qatarsc"
+    ],
+    "nationalTeam": "cameroon",
+    "championsLeagues": 4,
+    "retired": true
   }
 }

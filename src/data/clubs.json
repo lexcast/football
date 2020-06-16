@@ -271,6 +271,14 @@
     "color2": "#FFFFFF",
     "isNational": true
   },
+  "cameroon": {
+    "id": "cameroon",
+    "title": "Cameroon",
+    "brand": "lecoq",
+    "color1": "#007431",
+    "color2": "#FFE000",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -2500,5 +2508,29 @@
     "country": "unitedstates",
     "color1": "#FE0200",
     "color2": "#000000"
+  },
+  "sampdoria": {
+    "id": "sampdoria",
+    "title": "U. C. Sampdoria",
+    "brand": "joma",
+    "country": "italy",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "antalyaspor": {
+    "id": "antalyaspor",
+    "title": "Antalyaspor",
+    "brand": "nike",
+    "country": "turkey",
+    "color1": "#FFFFFF",
+    "color2": "#FF0000"
+  },
+  "konyaspor": {
+    "id": "konyaspor",
+    "title": "Konyaspor",
+    "brand": "lotto",
+    "country": "turkey",
+    "color1": "#FFFFFF",
+    "color2": "#007800"
   }
 }
