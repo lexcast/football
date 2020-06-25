@@ -279,6 +279,14 @@
     "color2": "#FFE000",
     "isNational": true
   },
+  "ghana": {
+    "id": "ghana",
+    "title": "Ghana",
+    "brand": "puma",
+    "color1": "#FF0000",
+    "color2": "#FFFF00",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -2532,5 +2540,43 @@
     "country": "turkey",
     "color1": "#FFFFFF",
     "color2": "#007800"
+  },
+  "liberty": {
+    "id": "liberty",
+    "title": "Liberty Professionals FC",
+    "country": "ghana",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "bastia": {
+    "id": "bastia",
+    "title": "S. C. Bastia",
+    "brand": "adidas",
+    "country": "france",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "panathinaikos": {
+    "id": "panathinaikos",
+    "title": "Panathinaikos F.C.",
+    "brand": "kappa",
+    "country": "greece",
+    "color1": "#3DB28A",
+    "color2": "#FFFFFF"
+  },
+  "persib": {
+    "id": "persib",
+    "title": "Persib Bandung",
+    "country": "indonesia",
+    "color1": "#0000CD",
+    "color2": "#FFFFFF"
+  },
+  "sabail": {
+    "id": "sabail",
+    "title": "Səbail FK",
+    "brand": "macron",
+    "country": "azerbaijan",
+    "color1": "#88CFFA",
+    "color2": "#F8FCFF"
   }
 }

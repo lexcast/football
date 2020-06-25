@@ -1936,5 +1936,23 @@
     "nationalTeam": "cameroon",
     "championsLeagues": 4,
     "retired": true
+  },
+  "michaelessien": {
+    "name": "Michael Essien",
+    "number": 5,
+    "position": "DM",
+    "clubs": [
+      "liberty",
+      "bastia",
+      "olympiquelyon",
+      "chelsea",
+      "realmadrid",
+      "milan",
+      "panathinaikos",
+      "persib",
+      "sabail"
+    ],
+    "nationalTeam": "ghana",
+    "championsLeagues": 1
   }
 }
