@@ -1954,5 +1954,22 @@
     ],
     "nationalTeam": "ghana",
     "championsLeagues": 1
+  },
+  "yayatoure": {
+    "name": "Yaya Touré",
+    "number": 19,
+    "position": "CM",
+    "clubs": [
+      "mimosas",
+      "beveren",
+      "metalurh",
+      "olympiakos",
+      "monaco",
+      "barcelona",
+      "manchestercity",
+      "qingdao"
+    ],
+    "nationalTeam": "ivorycoast",
+    "championsLeagues": 1
   }
 }

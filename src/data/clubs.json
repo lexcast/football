@@ -2578,5 +2578,45 @@
     "country": "azerbaijan",
     "color1": "#88CFFA",
     "color2": "#F8FCFF"
+  },
+  "mimosas": {
+    "id": "mimosas",
+    "title": "ASEC Mimosas",
+    "brand": "kappa",
+    "country": "ivorycoast",
+    "color1": "#FFFF00",
+    "color2": "#000000"
+  },
+  "beveren": {
+    "id": "beveren",
+    "title": "KSK Beveren",
+    "brand": "uhlsport",
+    "country": "belgium",
+    "color1": "#FFFF00",
+    "color2": "#1760BD"
+  },
+  "metalurh": {
+    "id": "metalurh",
+    "title": "FK Metalurh Donetsk",
+    "brand": "umbro",
+    "country": "ukraine",
+    "color1": "#00003C",
+    "color2": "#EAC534"
+  },
+  "olympiakos": {
+    "id": "olympiakos",
+    "title": "P. A. E. Olympiakós",
+    "brand": "adidas",
+    "country": "greece",
+    "color1": "#FFFFFF",
+    "color2": "#FE0200"
+  },
+  "qingdao": {
+    "id": "qingdao",
+    "title": "Qīngdǎo Huánghǎi",
+    "brand": "kelme",
+    "country": "china",
+    "color1": "#0300BB",
+    "color2": "#DE0118"
   }
 }
