@@ -2618,5 +2618,21 @@
     "country": "china",
     "color1": "#0300BB",
     "color2": "#DE0118"
+  },
+  "danubio": {
+    "id": "danubio",
+    "title": "Danubio",
+    "brand": "luanvi",
+    "country": "uruguay",
+    "color1": "#FFFFFF",
+    "color2": "#010101"
+  },
+  "palermo": {
+    "id": "palermo",
+    "title": "S.S.D. Palermo",
+    "brand": "kappa",
+    "country": "italy",
+    "color1": "#FFC0C0",
+    "color2": "#000000"
   }
 }

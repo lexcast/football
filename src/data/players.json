@@ -1971,5 +1971,12 @@
     ],
     "nationalTeam": "ivorycoast",
     "championsLeagues": 1
+  },
+  "edinsoncavani": {
+    "name": "Edinson Cavani",
+    "number": 21,
+    "position": "CF",
+    "clubs": ["danubio", "palermo", "napoli", "psg"],
+    "nationalTeam": "uruguay"
   }
 }
