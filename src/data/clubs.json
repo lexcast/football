@@ -2634,5 +2634,12 @@
     "country": "italy",
     "color1": "#FFC0C0",
     "color2": "#000000"
+  },
+  "boyaca": {
+    "id": "boyaca",
+    "title": "Lanceros Boyacá",
+    "country": "colombia",
+    "color1": "#007727",
+    "color2": "#FF0000"
   }
 }

@@ -1978,5 +1978,21 @@
     "position": "CF",
     "clubs": ["danubio", "palermo", "napoli", "psg"],
     "nationalTeam": "uruguay"
+  },
+  "radamelfalcao": {
+    "name": "Radamel Falcao",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "boyaca",
+      "riverplate",
+      "porto",
+      "atleticomadrid",
+      "monaco",
+      "manchesterunited",
+      "chelsea",
+      "galatasaray"
+    ],
+    "nationalTeam": "colombia"
   }
 }
