@@ -361,7 +361,7 @@
   },
   "inter": {
     "id": "inter",
-    "title": "Inter",
+    "title": "FC Internazionale Milano",
     "brand": "nike",
     "country": "italy",
     "color1": "#005FBF",
@@ -369,7 +369,7 @@
   },
   "milan": {
     "id": "milan",
-    "title": "Milan",
+    "title": "AC Milan",
     "brand": "puma",
     "country": "italy",
     "color1": "#AD0020",
@@ -1297,7 +1297,7 @@
   },
   "dinamozagreb": {
     "id": "dinamozagreb",
-    "title": "G.N.K. Dinamo Zagreb",
+    "title": "GNK Dinamo Zagreb",
     "brand": "adidas",
     "country": "croatia",
     "color1": "#0000FF",
@@ -1321,7 +1321,7 @@
   },
   "hullcity": {
     "id": "hullcity",
-    "title": "Hull City A.F.C.",
+    "title": "Hull City AFC",
     "brand": "umbro",
     "country": "england",
     "color1": "#FF9003",
@@ -1337,7 +1337,7 @@
   },
   "nice": {
     "id": "nice",
-    "title": "O.G.C. Nice",
+    "title": "OGC Nice",
     "brand": "macron",
     "country": "france",
     "color1": "#000000",
@@ -1345,7 +1345,7 @@
   },
   "chivasusa": {
     "id": "chivasusa",
-    "title": "C.D. Chivas USA",
+    "title": "CD Chivas USA",
     "brand": "adidas",
     "country": "unitedstates",
     "color1": "#B81901",
@@ -1361,7 +1361,7 @@
   },
   "teplice": {
     "id": "teplice",
-    "title": "F. K. Teplice",
+    "title": "FK Teplice",
     "brand": "puma",
     "country": "czech",
     "color1": "#FFFF04",
@@ -1377,7 +1377,7 @@
   },
   "manchestercity": {
     "id": "manchestercity",
-    "title": "Manchester City F.C.",
+    "title": "Manchester City FC",
     "brand": "puma",
     "country": "england",
     "color1": "#81C2FF",
@@ -1393,7 +1393,7 @@
   },
   "tecos": {
     "id": "tecos",
-    "title": "Tecos F.C.",
+    "title": "Tecos FC",
     "brand": "romed",
     "country": "mexico",
     "color1": "#FFDB57",
@@ -1409,7 +1409,7 @@
   },
   "everton": {
     "id": "everton",
-    "title": "Everton F.C.",
+    "title": "Everton FC",
     "brand": "umbro",
     "country": "england",
     "color1": "#0000FF",
@@ -1433,7 +1433,7 @@
   },
   "liverpool": {
     "id": "liverpool",
-    "title": "Liverpool F.C.",
+    "title": "Liverpool FC",
     "brand": "newbalance",
     "country": "england",
     "color1": "#DE0002",
@@ -1481,7 +1481,7 @@
   },
   "astonvilla": {
     "id": "astonvilla",
-    "title": "Aston Villa F.C.",
+    "title": "Aston Villa FC",
     "brand": "kappa",
     "country": "england",
     "color1": "#85001C",
@@ -1505,7 +1505,7 @@
   },
   "lazio": {
     "id": "lazio",
-    "title": "S.S. Lazio",
+    "title": "SS Lazio",
     "brand": "macron",
     "country": "italy",
     "color1": "#5699EB",
@@ -1513,7 +1513,7 @@
   },
   "almokawloon": {
     "id": "almokawloon",
-    "title": "Al Mokawloon El Arab S.C.",
+    "title": "Al Mokawloon El Arab SC",
     "brand": "adidas",
     "country": "egypt",
     "color1": "#F8FF25",
@@ -1521,7 +1521,7 @@
   },
   "basel": {
     "id": "basel",
-    "title": "F.C. Basel",
+    "title": "FC Basel",
     "brand": "adidas",
     "country": "switzerland",
     "color1": "#FE0003",
@@ -1529,7 +1529,7 @@
   },
   "chelsea": {
     "id": "chelsea",
-    "title": "Chelsea F.C.",
+    "title": "Chelsea FC",
     "brand": "nike",
     "country": "england",
     "color1": "#0000F7",
@@ -1545,7 +1545,7 @@
   },
   "blsany": {
     "id": "blsany",
-    "title": "F.K. Chmel Blšany",
+    "title": "FK Chmel Blšany",
     "brand": "puma",
     "country": "czech",
     "color1": "#FFFF04",
@@ -1561,7 +1561,7 @@
   },
   "ipswich": {
     "id": "ipswich",
-    "title": "Ipswich Town F.C.",
+    "title": "Ipswich Town FC",
     "brand": "adidas",
     "country": "england",
     "color1": "#0000FA",
@@ -1601,7 +1601,7 @@
   },
   "middlesbrough": {
     "id": "middlesbrough",
-    "title": "Middlesbrough F.C.",
+    "title": "Middlesbrough FC",
     "brand": "hummel",
     "country": "england",
     "color1": "#FE0003",
@@ -1625,7 +1625,7 @@
   },
   "leiria": {
     "id": "leiria",
-    "title": "U.D. Leiria",
+    "title": "UD Leiria",
     "brand": "adidas",
     "country": "portugal",
     "color1": "#FFFFFF",
@@ -1641,7 +1641,7 @@
   },
   "groningen": {
     "id": "groningen",
-    "title": "F.C. Groningen",
+    "title": "FC Groningen",
     "brand": "puma",
     "country": "netherlands",
     "color1": "#FFFFFF",
@@ -1649,7 +1649,7 @@
   },
   "celtic": {
     "id": "celtic",
-    "title": "Celtic F.C.",
+    "title": "Celtic FC",
     "brand": "newbalance",
     "country": "scotland",
     "color1": "#FFFFFF",
@@ -1657,7 +1657,7 @@
   },
   "tenerife": {
     "id": "tenerife",
-    "title": "C.D. Tenerife",
+    "title": "CD Tenerife",
     "brand": "hummel",
     "country": "spain",
     "color1": "#FFFFFF",
@@ -1729,7 +1729,7 @@
   },
   "toulouse": {
     "id": "toulouse",
-    "title": "Toulouse F.C.",
+    "title": "Toulouse FC",
     "brand": "joma",
     "country": "france",
     "color1": "#7900B4",
@@ -1745,7 +1745,7 @@
   },
   "nantes": {
     "id": "nantes",
-    "title": "F.C. Nantes",
+    "title": "FC Nantes",
     "brand": "newbalance",
     "country": "france",
     "color1": "#FFFF04",
@@ -1785,7 +1785,7 @@
   },
   "derbycounty": {
     "id": "derbycounty",
-    "title": "Derby County F.C.",
+    "title": "Derby County FC",
     "brand": "umbro",
     "country": "england",
     "color1": "#FEFEFE",
@@ -1841,7 +1841,7 @@
   },
   "guaros": {
     "id": "guaros",
-    "title": "Guaros F.C.",
+    "title": "Guaros FC",
     "country": "venezuela",
     "color1": "#000000",
     "color2": "#C70002"
@@ -1896,7 +1896,7 @@
   },
   "vascodagama": {
     "id": "vascodagama",
-    "title": "C. R. Vasco da Gama",
+    "title": "CR Vasco da Gama",
     "brand": "diadora",
     "country": "brazil",
     "color1": "#000000",
@@ -1904,7 +1904,7 @@
   },
   "miami": {
     "id": "miami",
-    "title": "Miami F.C.",
+    "title": "Miami FC",
     "brand": "macron",
     "country": "unitedstates",
     "color1": "#70D0FF",
@@ -1935,7 +1935,7 @@
   },
   "toluca": {
     "id": "toluca",
-    "title": "Toluca F.C.",
+    "title": "Toluca FC",
     "brand": "under",
     "country": "mexico",
     "color1": "#FE0003",
@@ -1959,7 +1959,7 @@
   },
   "newcastle": {
     "id": "newcastle",
-    "title": "Newcastle United F. C.",
+    "title": "Newcastle United FC",
     "brand": "puma",
     "country": "england",
     "color1": "#000000",
@@ -1967,7 +1967,7 @@
   },
   "stokecity": {
     "id": "stokecity",
-    "title": "Stoke City F. C.",
+    "title": "Stoke City FC",
     "brand": "macron",
     "country": "england",
     "color1": "#FFFFFF",
@@ -1975,7 +1975,7 @@
   },
   "leyton": {
     "id": "leyton",
-    "title": "Leyton Orient F.C.",
+    "title": "Leyton Orient FC",
     "brand": "newbalance",
     "country": "england",
     "color1": "#F10003",
@@ -1983,7 +1983,7 @@
   },
   "millwall": {
     "id": "millwall",
-    "title": "Millwall F. C.",
+    "title": "Millwall FC",
     "brand": "macron",
     "country": "england",
     "color1": "#00003B",
@@ -1999,7 +1999,7 @@
   },
   "leicester": {
     "id": "leicester",
-    "title": "Leicester City F. C.",
+    "title": "Leicester City FC",
     "brand": "adidas",
     "country": "england",
     "color1": "#000DDA",
@@ -2031,7 +2031,7 @@
   },
   "tokyo": {
     "id": "tokyo",
-    "title": "F. C. Tokyo",
+    "title": "FC Tokyo",
     "brand": "umbro",
     "country": "japan",
     "color1": "#FE0003",
@@ -2055,7 +2055,7 @@
   },
   "blackburn": {
     "id": "blackburn",
-    "title": "Blackburn Rovers F. C.",
+    "title": "Blackburn Rovers FC",
     "brand": "umbro",
     "country": "england",
     "color1": "#FFFFFF",
@@ -2063,7 +2063,7 @@
   },
   "birmingham": {
     "id": "birmingham",
-    "title": "Birmingham City F. C.",
+    "title": "Birmingham City FC",
     "brand": "adidas",
     "country": "england",
     "color1": "#103BCE",
@@ -2071,7 +2071,7 @@
   },
   "sydney": {
     "id": "sydney",
-    "title": "Sydney F.C.",
+    "title": "Sydney FC",
     "brand": "under",
     "country": "australia",
     "color1": "#78BDFF",
@@ -2079,7 +2079,7 @@
   },
   "sunderland": {
     "id": "sunderland",
-    "title": "Sunderland A. F. C.",
+    "title": "Sunderland AFC",
     "brand": "adidas",
     "country": "england",
     "color1": "#FFFFFF",
@@ -2095,7 +2095,7 @@
   },
   "odisha": {
     "id": "odisha",
-    "title": "Odisha F. C.",
+    "title": "Odisha FC",
     "brand": "tyka",
     "country": "india",
     "color1": "#FFFFFF",
@@ -2127,7 +2127,7 @@
   },
   "lille": {
     "id": "lille",
-    "title": "Lille O. S. C.",
+    "title": "Lille OSC",
     "brand": "newbalance",
     "country": "france",
     "color1": "#D90002",
@@ -2151,7 +2151,7 @@
   },
   "montpellier": {
     "id": "montpellier",
-    "title": "Montpellier Hérault S. C.",
+    "title": "Montpellier Hérault SC",
     "brand": "nike",
     "country": "france",
     "color1": "#000066",
@@ -2167,7 +2167,7 @@
   },
   "leeds": {
     "id": "leeds",
-    "title": "Leeds United F. C.",
+    "title": "Leeds United FC",
     "brand": "kappa",
     "country": "england",
     "color1": "#FFFFFF",
@@ -2175,7 +2175,7 @@
   },
   "kyoto": {
     "id": "kyoto",
-    "title": "Kyoto Sanga F.C.",
+    "title": "Kyoto Sanga FC",
     "brand": "puma",
     "country": "japan",
     "color1": "#66138C",
@@ -2183,7 +2183,7 @@
   },
   "queenspark": {
     "id": "queenspark",
-    "title": "Queens Park Rangers F. C.",
+    "title": "Queens Park Rangers FC",
     "brand": "errea",
     "country": "england",
     "color1": "#FFFFFF",
@@ -2207,7 +2207,7 @@
   },
   "zhejiang": {
     "id": "zhejiang",
-    "title": "Zhejiang Greentown F. C.",
+    "title": "Zhejiang Greentown FC",
     "brand": "anta",
     "country": "china",
     "color1": "#008000",
@@ -2260,14 +2260,6 @@
     "country": "argentina",
     "color1": "#FFFFFF",
     "color2": "#0096E9"
-  },
-  "velezsarsfield": {
-    "id": "velezsarsfield",
-    "title": "Vélez Sarsfield",
-    "brand": "kappa",
-    "country": "argentina",
-    "color1": "#FFFFFF",
-    "color2": "#0000FF"
   },
   "velezsarsfield": {
     "id": "velezsarsfield",
@@ -2343,7 +2335,7 @@
   },
   "chorrera": {
     "id": "chorrera",
-    "title": "C. A. Independiente",
+    "title": "CA Independiente",
     "brand": "everlast",
     "country": "panama",
     "color1": "#FFF304",
@@ -2487,7 +2479,7 @@
   },
   "lemans": {
     "id": "lemans",
-    "title": "Le Mans F. C.",
+    "title": "Le Mans FC",
     "brand": "kappa",
     "country": "france",
     "color1": "#FE0200",
@@ -2527,7 +2519,7 @@
   },
   "sampdoria": {
     "id": "sampdoria",
-    "title": "U. C. Sampdoria",
+    "title": "UC Sampdoria",
     "brand": "joma",
     "country": "italy",
     "color1": "#0000FF",
@@ -2566,7 +2558,7 @@
   },
   "panathinaikos": {
     "id": "panathinaikos",
-    "title": "Panathinaikos F.C.",
+    "title": "Panathinaikos FC",
     "brand": "kappa",
     "country": "greece",
     "color1": "#3DB28A",
@@ -2613,7 +2605,7 @@
   },
   "olympiakos": {
     "id": "olympiakos",
-    "title": "P. A. E. Olympiakós",
+    "title": "PAE Olympiakós",
     "brand": "adidas",
     "country": "greece",
     "color1": "#FFFFFF",
@@ -2637,7 +2629,7 @@
   },
   "palermo": {
     "id": "palermo",
-    "title": "S.S.D. Palermo",
+    "title": "SSD Palermo",
     "brand": "kappa",
     "country": "italy",
     "color1": "#FFC0C0",
