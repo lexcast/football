@@ -287,6 +287,14 @@
     "color2": "#FFFF00",
     "isNational": true
   },
+  "paraguay": {
+    "id": "paraguay",
+    "title": "Paraguay",
+    "brand": "puma",
+    "color1": "#FFFFFF",
+    "color2": "#FF2020",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -2641,5 +2649,45 @@
     "country": "colombia",
     "color1": "#007727",
     "color2": "#FF0000"
+  },
+  "luqueno": {
+    "id": "luqueno",
+    "title": "Club Sportivo Luqueño",
+    "brand": "lotto",
+    "country": "paraguay",
+    "color1": "#00008B",
+    "color2": "#FFCD00"
+  },
+  "guarani": {
+    "id": "guarani",
+    "title": "Club Guaraní",
+    "brand": "saltarinrojo",
+    "country": "paraguay",
+    "color1": "#FFFF00",
+    "color2": "#000000"
+  },
+  "sanlorenzo": {
+    "id": "sanlorenzo",
+    "title": "San Lorenzo de Almagro",
+    "brand": "nike",
+    "country": "argentina",
+    "color1": "#000040",
+    "color2": "#FF0000"
+  },
+  "estrasburgo": {
+    "id": "estrasburgo",
+    "title": "Racing Club Estrasburgo",
+    "brand": "adidas",
+    "country": "france",
+    "color1": "#0000CD",
+    "color2": "#FFFFFF"
+  },
+  "penarol": {
+    "id": "penarol",
+    "title": "Club Atlético Peñarol",
+    "brand": "puma",
+    "country": "uruguay",
+    "color1": "#FFE517",
+    "color2": "#010101"
   }
 }

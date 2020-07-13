@@ -1994,5 +1994,22 @@
       "galatasaray"
     ],
     "nationalTeam": "colombia"
+  },
+  "joseluischilavert": {
+    "name": "José Luis Chilavert",
+    "number": 1,
+    "position": "GK",
+    "clubs": [
+      "luqueno",
+      "guarani",
+      "sanlorenzo",
+      "realzaragoza",
+      "velezsarsfield",
+      "estrasburgo",
+      "penarol"
+    ],
+    "last": "velezsarsfield",
+    "retired": true,
+    "nationalTeam": "paraguay"
   }
 }
