@@ -1,4 +1,5 @@
 # Football cards
+![CI DEPLOY](https://github.com/lexcast/football/workflows/CI%20DEPLOY/badge.svg)
 
 See in action [here](https://lexcast.github.io/football/).
 
