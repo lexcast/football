@@ -1902,14 +1902,6 @@
     "color1": "#000000",
     "color2": "#FFFFFF"
   },
-  "miami": {
-    "id": "miami",
-    "title": "Miami FC",
-    "brand": "macron",
-    "country": "unitedstates",
-    "color1": "#70D0FF",
-    "color2": "#FE7903"
-  },
   "adelaide": {
     "id": "adelaide",
     "title": "Adelaide United",
