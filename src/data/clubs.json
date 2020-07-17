@@ -2681,5 +2681,37 @@
     "country": "uruguay",
     "color1": "#FFE517",
     "color2": "#010101"
+  },
+  "magdalena": {
+    "id": "magdalena",
+    "title": "Unión Magdalena",
+    "brand": "fss",
+    "country": "colombia",
+    "color1": "#142C8C",
+    "color2": "#D4003D"
+  },
+  "deportivocali": {
+    "id": "deportivocali",
+    "title": "Deportivo Cali",
+    "brand": "puma",
+    "country": "colombia",
+    "color1": "#018B57",
+    "color2": "#FFFFFF"
+  },
+  "tampabay": {
+    "id": "tampabay",
+    "title": "Tampa Bay Mutiny",
+    "brand": "kappa",
+    "country": "unitedstates",
+    "color1": "#87CEFA",
+    "color2": "#000080"
+  },
+  "miamifusion": {
+    "id": "miamifusion",
+    "title": "Miami Fusion",
+    "brand": "umbro",
+    "country": "unitedstates",
+    "color1": "#82DBF5",
+    "color2": "#002255"
   }
 }

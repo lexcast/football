@@ -2011,5 +2011,24 @@
     "last": "velezsarsfield",
     "retired": true,
     "nationalTeam": "paraguay"
+  },
+  "carlosvalderrama": {
+    "name": "Carlos Valderrama",
+    "number": 10,
+    "position": "CM",
+    "clubs": [
+      "magdalena",
+      "millonarios",
+      "deportivocali",
+      "montpellier",
+      "realvalladolid",
+      "medellin",
+      "junior",
+      "tampabay",
+      "miamifusion",
+      "colorado"
+    ],
+    "retired": true,
+    "nationalTeam": "colombia"
   }
 }
