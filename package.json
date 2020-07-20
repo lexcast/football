@@ -4,11 +4,11 @@
   "private": true,
   "homepage": "https://lexcast.github.io/football/",
   "dependencies": {
-    "autoprefixer": "^9.8.0",
+    "autoprefixer": "^9.8.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "react-svg": "^11.0.25",
+    "react-svg": "^11.0.31",
     "react-virtualized": "^9.21.2",
     "remove-accents": "^0.4.2",
     "vanilla-tilt": "^1.7.0"
@@ -38,8 +38,8 @@
     ]
   },
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^2.2.0",
+    "@fullhuman/postcss-purgecss": "^2.3.0",
     "postcss-cli": "^7.1.1",
-    "tailwindcss": "^1.4.6"
+    "tailwindcss": "^1.5.1"
   }
 }
