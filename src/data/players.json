@@ -2030,5 +2030,21 @@
     ],
     "retired": true,
     "nationalTeam": "colombia"
+  },
+  "josesaturninocardozo": {
+    "name": "José Saturnino Cardozo",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "gallen",
+      "universidadcatolica",
+      "olimpia",
+      "toluca",
+      "cruzazul",
+      "pachuca",
+      "sanlorenzo"
+    ],
+    "retired": true,
+    "nationalTeam": "paraguay"
   }
 }

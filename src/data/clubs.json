@@ -2705,5 +2705,21 @@
     "country": "unitedstates",
     "color1": "#82DBF5",
     "color2": "#002255"
+  },
+  "universidadcatolica": {
+    "id": "universidadcatolica",
+    "title": "Universidad Católica",
+    "brand": "under",
+    "country": "chile",
+    "color1": "#FFFFFF",
+    "color2": "#164DFF"
+  },
+  "olimpia": {
+    "id": "olimpia",
+    "title": "Olimpia",
+    "brand": "adidas",
+    "country": "paraguay",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
   }
 }
