@@ -2046,5 +2046,14 @@
     ],
     "retired": true,
     "nationalTeam": "paraguay"
+  },
+  "salvadorcabanas": {
+    "name": "Salvador Cabañas",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["12octubre", "guarani", "audax", "chiapas", "uanl", "america"],
+    "last": "12octubre",
+    "retired": true,
+    "nationalTeam": "paraguay"
   }
 }

@@ -2721,5 +2721,21 @@
     "country": "paraguay",
     "color1": "#FFFFFF",
     "color2": "#000000"
+  },
+  "12octubre": {
+    "id": "12octubre",
+    "title": "12 de Octubre de Itauguá",
+    "brand": "lotto",
+    "country": "paraguay",
+    "color1": "#2662BD",
+    "color2": "#FFFFFF"
+  },
+  "audax": {
+    "id": "audax",
+    "title": "Audax Italiano La Florida",
+    "brand": "macron",
+    "country": "chile",
+    "color1": "#0066BD",
+    "color2": "#FFFFFF"
   }
 }
