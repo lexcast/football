@@ -2055,5 +2055,12 @@
     "last": "12octubre",
     "retired": true,
     "nationalTeam": "paraguay"
+  },
+  "andrepierregignac": {
+    "name": "André-Pierre Gignac",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["lorient", "pau", "toulouse", "olympiquedemarseille", "uanl"],
+    "nationalTeam": "france"
   }
 }

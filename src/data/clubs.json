@@ -2737,5 +2737,21 @@
     "country": "chile",
     "color1": "#0066BD",
     "color2": "#FFFFFF"
+  },
+  "lorient": {
+    "id": "lorient",
+    "title": "FC Lorient",
+    "brand": "kappa",
+    "country": "france",
+    "color1": "#FF7100",
+    "color2": "#000000"
+  },
+  "pau": {
+    "id": "pau",
+    "title": "Pau FC",
+    "brand": "adidas",
+    "country": "france",
+    "color1": "#FFEF00",
+    "color2": "#000054"
   }
 }
