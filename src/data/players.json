@@ -2062,5 +2062,14 @@
     "position": "CF",
     "clubs": ["lorient", "pau", "toulouse", "olympiquedemarseille", "uanl"],
     "nationalTeam": "france"
+  },
+  "hectormiguelzelada": {
+    "name": "Héctor Miguel Zelada",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["rosario", "america", "atlante"],
+    "nationalTeam": "argentina",
+    "retired": true,
+    "worldCups": 1
   }
 }
