@@ -2071,5 +2071,15 @@
     "nationalTeam": "argentina",
     "retired": true,
     "worldCups": 1
+  },
+  "andriyshevchenko": {
+    "name": "Andriy Shevchenko",
+    "number": 7,
+    "position": "CF",
+    "clubs": ["kyiv", "milan", "chelsea"],
+    "last": "kyiv",
+    "nationalTeam": "ukraine",
+    "retired": true,
+    "championsLeagues": 1
   }
 }

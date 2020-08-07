@@ -295,6 +295,14 @@
     "color2": "#FF2020",
     "isNational": true
   },
+  "ukraine": {
+    "id": "ukraine",
+    "title": "Ukraine",
+    "brand": "joma",
+    "color1": "#FFE100",
+    "color2": "#0000F8",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -2753,5 +2761,13 @@
     "country": "france",
     "color1": "#FFEF00",
     "color2": "#000054"
+  },
+  "kyiv": {
+    "id": "kyiv",
+    "title": "FC Dynamo Kyiv",
+    "brand": "newbalance",
+    "country": "ukraine",
+    "color1": "#FFFFFF",
+    "color2": "#0000FF"
   }
 }
