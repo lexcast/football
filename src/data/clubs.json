@@ -303,6 +303,14 @@
     "color2": "#0000F8",
     "isNational": true
   },
+  "poland": {
+    "id": "poland",
+    "title": "Poland",
+    "brand": "nike",
+    "color1": "#FFFFFF",
+    "color2": "#F9001D",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -2769,5 +2777,29 @@
     "country": "ukraine",
     "color1": "#FFFFFF",
     "color2": "#0000FF"
+  },
+  "legia": {
+    "id": "legia",
+    "title": "Legia Warszawa",
+    "brand": "adidas",
+    "country": "poland",
+    "color1": "#00CF91",
+    "color2": "#000000"
+  },
+  "znicz": {
+    "id": "znicz",
+    "title": "Znicz Pruszków",
+    "brand": "zina",
+    "country": "poland",
+    "color1": "#F5F814",
+    "color2": "#FF0000"
+  },
+  "lech": {
+    "id": "lech",
+    "title": "KKS Lech Poznań",
+    "brand": "macron",
+    "country": "poland",
+    "color1": "#1313FF",
+    "color2": "#FFFFFF"
   }
 }

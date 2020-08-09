@@ -2081,5 +2081,12 @@
     "nationalTeam": "ukraine",
     "retired": true,
     "championsLeagues": 1
+  },
+  "robertlewandowski": {
+    "name": "Robert Lewandowski",
+    "number": 9,
+    "position": "CF",
+    "clubs": ["legia", "znicz", "lech", "dortmund", "bayernmunich"],
+    "nationalTeam": "poland"
   }
 }
