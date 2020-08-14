@@ -311,6 +311,14 @@
     "color2": "#F9001D",
     "isNational": true
   },
+  "bulgaria": {
+    "id": "bulgaria",
+    "title": "Bulgaria",
+    "brand": "joma",
+    "color1": "#FFFFFF",
+    "color2": "#068619",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -2801,5 +2809,28 @@
     "country": "poland",
     "color1": "#1313FF",
     "color2": "#FFFFFF"
+  },
+  "sofia": {
+    "id": "sofia",
+    "title": "CSKA Sofia",
+    "brand": "adidas",
+    "country": "bulgaria",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
+  },
+  "alnassr": {
+    "id": "alnassr",
+    "title": "Al-Nassr FC",
+    "country": "saudiarabia",
+    "color1": "#E9D02A",
+    "color2": "#242658"
+  },
+  "kashiwa": {
+    "id": "kashiwa",
+    "title": "Kashiwa Reysol",
+    "brand": "yonex",
+    "country": "japan",
+    "color1": "#FFFF00",
+    "color2": "#000000"
   }
 }

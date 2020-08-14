@@ -2088,5 +2088,22 @@
     "position": "CF",
     "clubs": ["legia", "znicz", "lech", "dortmund", "bayernmunich"],
     "nationalTeam": "poland"
+  },
+  "hristostoichkov": {
+    "name": "Hristo Stoichkov",
+    "number": 8,
+    "position": "LW",
+    "clubs": [
+      "sofia",
+      "barcelona",
+      "parma",
+      "alnassr",
+      "kashiwa",
+      "chicago",
+      "dcunited"
+    ],
+    "nationalTeam": "bulgaria",
+    "championsLeagues": 1,
+    "retired": true
   }
 }
