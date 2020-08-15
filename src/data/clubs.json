@@ -2832,5 +2832,49 @@
     "country": "japan",
     "color1": "#FFFF00",
     "color2": "#000000"
+  },
+  "maxaquene": {
+    "id": "maxaquene",
+    "title": "CD Maxaquene",
+    "country": "mozambique",
+    "color1": "#FF0000",
+    "color2": "#0000FF"
+  },
+  "boston": {
+    "id": "boston",
+    "title": "Boston Minutemen",
+    "country": "unitedstates",
+    "color1": "#FFFFFF",
+    "color2": "#0000CC"
+  },
+  "torontoblizzard": {
+    "id": "torontoblizzard",
+    "title": "Toronto Blizzard",
+    "brand": "adidasvintage",
+    "country": "canada",
+    "color1": "#FEFEFE",
+    "color2": "#FE1937"
+  },
+  "lasvegas": {
+    "id": "lasvegas",
+    "title": "Las Vegas Quicksilvers",
+    "country": "unitedstates",
+    "color1": "#FFFFFF",
+    "color2": "#1A1AE0"
+  },
+  "tomar": {
+    "id": "tomar",
+    "title": "União de Tomar",
+    "brand": "joma",
+    "country": "portugal",
+    "color1": "#FF0000",
+    "color2": "#000000"
+  },
+  "newjersey": {
+    "id": "newjersey",
+    "title": "New Jersey Americans",
+    "country": "unitedstates",
+    "color1": "#0A1D86",
+    "color2": "#BC2206"
   }
 }

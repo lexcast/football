@@ -2105,5 +2105,24 @@
     "nationalTeam": "bulgaria",
     "championsLeagues": 1,
     "retired": true
+  },
+  "eusebio": {
+    "name": "Eusébio",
+    "number": 10,
+    "position": "CF",
+    "clubs": [
+      "maxaquene",
+      "benfica",
+      "boston",
+      "monterrey",
+      "torontoblizzard",
+      "beiramar",
+      "lasvegas",
+      "tomar",
+      "newjersey"
+    ],
+    "nationalTeam": "portugal",
+    "championsLeagues": 1,
+    "retired": true
   }
 }
