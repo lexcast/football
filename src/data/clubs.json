@@ -2876,5 +2876,29 @@
     "country": "unitedstates",
     "color1": "#0A1D86",
     "color2": "#BC2206"
+  },
+  "cafetaleros": {
+    "id": "cafetaleros",
+    "title": "Cafetaleros de Chiapas",
+    "brand": "silver",
+    "country": "mexico",
+    "color1": "#070707",
+    "color2": "#A67327"
+  },
+  "uaem": {
+    "id": "uaem",
+    "title": "Potros de la UAEM",
+    "brand": "kappa",
+    "country": "mexico",
+    "color1": "#175331",
+    "color2": "#C59f2f"
+  },
+  "lasvegaslights": {
+    "id": "lasvegaslights",
+    "title": "Las Vegas Lights FC",
+    "brand": "blk",
+    "country": "unitedstates",
+    "color1": "#000000",
+    "color2": "#80C7D6"
   }
 }

@@ -2124,5 +2124,20 @@
     "nationalTeam": "portugal",
     "championsLeagues": 1,
     "retired": true
+  },
+  "joelhuiqui": {
+    "name": "Joel Huiqui",
+    "number": 4,
+    "position": "CB",
+    "clubs": [
+      "cruzazul",
+      "pachuca",
+      "morelia",
+      "cafetaleros",
+      "uaem",
+      "lasvegaslights"
+    ],
+    "nationalTeam": "mexico",
+    "retired": true
   }
 }
