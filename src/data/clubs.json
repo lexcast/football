@@ -2900,5 +2900,13 @@
     "country": "unitedstates",
     "color1": "#000000",
     "color2": "#80C7D6"
+  },
+  "vejle": {
+    "id": "vejle",
+    "title": "Vejle Boldklub",
+    "brand": "hummel",
+    "country": "denmark",
+    "color1": "#FB0000",
+    "color2": "#FEFEFE"
   }
 }
