@@ -2908,5 +2908,13 @@
     "country": "denmark",
     "color1": "#FB0000",
     "color2": "#FEFEFE"
+  },
+  "mainz": {
+    "id": "mainz",
+    "title": "FSV Mainz 05",
+    "brand": "lotto",
+    "country": "germany",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
   }
 }

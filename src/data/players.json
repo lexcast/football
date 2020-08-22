@@ -2148,5 +2148,13 @@
     "last": "everton",
     "nationalTeam": "denmark",
     "retired": true
+  },
+  "loriskarius": {
+    "name": "Loris Karius",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["mainz", "liverpool", "besiktas"],
+    "last": "liverpool",
+    "nationalTeam": "germany"
   }
 }
