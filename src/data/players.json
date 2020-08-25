@@ -2164,5 +2164,13 @@
     "clubs": ["america", "atlante", "necaxa"],
     "nationalTeam": "mexico",
     "retired": true
+  },
+  "franciscopalencia": {
+    "name": "Francisco Palencia",
+    "number": 17,
+    "position": "CF",
+    "clubs": ["cruzazul", "espanyol", "guadalajara", "chivasusa", "unam"],
+    "nationalTeam": "mexico",
+    "retired": true
   }
 }
