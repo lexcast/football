@@ -2172,5 +2172,22 @@
     "clubs": ["cruzazul", "espanyol", "guadalajara", "chivasusa", "unam"],
     "nationalTeam": "mexico",
     "retired": true
+  },
+  "franciscofonseca": {
+    "name": "Francisco Fonseca",
+    "number": 17,
+    "position": "CF",
+    "clubs": [
+      "yucatan",
+      "lapiedad",
+      "unam",
+      "cruzazul",
+      "benfica",
+      "uanl",
+      "atlante",
+      "guapiles"
+    ],
+    "nationalTeam": "mexico",
+    "retired": true
   }
 }

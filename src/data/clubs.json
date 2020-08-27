@@ -2916,5 +2916,27 @@
     "country": "germany",
     "color1": "#FF0000",
     "color2": "#FFFFFF"
+  },
+  "yucatan": {
+    "id": "yucatan",
+    "title": "Venados FC Yucatán",
+    "country": "mexico",
+    "color1": "#FFDF00",
+    "color2": "#FFFFFF"
+  },
+  "lapiedad": {
+    "id": "lapiedad",
+    "title": "Reboceros de La Piedad",
+    "brand": "silver",
+    "country": "mexico",
+    "color1": "#0000FF",
+    "color2": "#FFD955"
+  },
+  "guapiles": {
+    "id": "guapiles",
+    "title": "Santos de Guápiles",
+    "country": "costarica",
+    "color1": "#FE1929",
+    "color2": "#FFFFFF"
   }
 }
