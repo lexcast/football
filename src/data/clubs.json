@@ -2938,5 +2938,29 @@
     "country": "costarica",
     "color1": "#FE1929",
     "color2": "#FFFFFF"
+  },
+  "kansascity": {
+    "id": "kansascity",
+    "title": "Sporting Kansas City",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#A0D0FF",
+    "color2": "#FFFFFF"
+  },
+  "carolina": {
+    "id": "carolina",
+    "title": "North Carolina FC",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#01426A",
+    "color2": "#808040"
+  },
+  "udeg": {
+    "id": "udeg",
+    "title": "Leones Negros de la UdeG",
+    "brand": "umbro",
+    "country": "mexico",
+    "color1": "#FFD602",
+    "color2": "#010101"
   }
 }

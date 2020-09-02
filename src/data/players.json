@@ -2189,5 +2189,22 @@
     ],
     "nationalTeam": "mexico",
     "retired": true
+  },
+  "omarbravo": {
+    "name": "Omar Bravo",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "guadalajara",
+      "deportivocoruna",
+      "uanl",
+      "kansascity",
+      "cruzazul",
+      "atlas",
+      "carolina",
+      "phoenix",
+      "udeg"
+    ],
+    "nationalTeam": "mexico"
   }
 }
