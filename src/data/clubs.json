@@ -2962,5 +2962,13 @@
     "country": "mexico",
     "color1": "#FFD602",
     "color2": "#010101"
+  },
+  "alarabi": {
+    "id": "alarabi",
+    "title": "Al-Arabi Doha SC",
+    "brand": "puma",
+    "country": "qatar",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
   }
 }

@@ -2206,5 +2206,21 @@
       "udeg"
     ],
     "nationalTeam": "mexico"
+  },
+  "gabrielbatistuta": {
+    "name": "Gabriel Batistuta",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "newells",
+      "riverplate",
+      "bocajuniors",
+      "fiorentina",
+      "roma",
+      "inter",
+      "alarabi"
+    ],
+    "nationalTeam": "argentina",
+    "retired": true
   }
 }
