@@ -2222,5 +2222,22 @@
     ],
     "nationalTeam": "argentina",
     "retired": true
+  },
+  "carlostevez": {
+    "name": "Carlos Tévez",
+    "number": 11,
+    "position": "SS",
+    "clubs": [
+      "bocajuniors",
+      "corinthians",
+      "westham",
+      "manchesterunited",
+      "manchestercity",
+      "juventus",
+      "shanghai"
+    ],
+    "last": "bocajuniors",
+    "nationalTeam": "argentina",
+    "championsLeagues": 1
   }
 }
