@@ -2239,5 +2239,13 @@
     "last": "bocajuniors",
     "nationalTeam": "argentina",
     "championsLeagues": 1
+  },
+  "angeldimaria": {
+    "name": "Ángel Di|María",
+    "number": 11,
+    "position": "RW",
+    "clubs": ["rosario", "benfica", "realmadrid", "manchesterunited", "psg"],
+    "nationalTeam": "argentina",
+    "championsLeagues": 1
   }
 }
