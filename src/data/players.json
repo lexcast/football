@@ -2247,5 +2247,20 @@
     "clubs": ["rosario", "benfica", "realmadrid", "manchesterunited", "psg"],
     "nationalTeam": "argentina",
     "championsLeagues": 1
+  },
+  "gonzalohiguain": {
+    "name": "Gonzalo Higuaín",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "riverplate",
+      "realmadrid",
+      "napoli",
+      "juventus",
+      "milan",
+      "chelsea"
+    ],
+    "last": "juventus",
+    "nationalTeam": "argentina"
   }
 }
