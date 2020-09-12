@@ -2262,5 +2262,20 @@
     ],
     "last": "juventus",
     "nationalTeam": "argentina"
+  },
+  "claudiotaffarel": {
+    "name": "Cláudio Taffarel",
+    "number": 1,
+    "position": "GK",
+    "clubs": [
+      "internacional",
+      "parma",
+      "reggiana",
+      "atleticomineiro",
+      "galatasaray"
+    ],
+    "last": "parma",
+    "nationalTeam": "brazil",
+    "worldCups": 1
   }
 }

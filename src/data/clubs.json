@@ -2970,5 +2970,13 @@
     "country": "qatar",
     "color1": "#FF0000",
     "color2": "#FFFFFF"
+  },
+  "reggiana": {
+    "id": "reggiana",
+    "title": "AC Reggiana 1919",
+    "brand": "errea",
+    "country": "italy",
+    "color1": "#810000",
+    "color2": "#192635"
   }
 }
