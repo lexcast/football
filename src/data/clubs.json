@@ -2978,5 +2978,52 @@
     "country": "italy",
     "color1": "#810000",
     "color2": "#192635"
+  },
+  "santacruz": {
+    "id": "santacruz",
+    "title": "Santa Cruz FC",
+    "brand": "cobracoral",
+    "country": "brazil",
+    "color1": "#FF0000",
+    "color2": "#000000"
+  },
+  "mogimirim": {
+    "id": "mogimirim",
+    "title": "Mogi Mirim",
+    "brand": "rhumell",
+    "country": "brazil",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
+  },
+  "atenas": {
+    "id": "atenas",
+    "title": "AEK Atenas",
+    "brand": "capelli",
+    "country": "greece",
+    "color1": "#FFE000",
+    "color2": "#000000"
+  },
+  "bunyodkor": {
+    "id": "bunyodkor",
+    "title": "FK Bunyodkor",
+    "brand": "nike",
+    "country": "uzbekistan",
+    "color1": "#FFFFFF",
+    "color2": "#404040"
+  },
+  "kabuscorp": {
+    "id": "kabuscorp",
+    "title": "Kabuscorp SC",
+    "country": "angola",
+    "color1": "#FEFEFE",
+    "color2": "#FF0000"
+  },
+  "saocaetano": {
+    "id": "saocaetano",
+    "title": "São Caetano",
+    "brand": "icone",
+    "country": "brazil",
+    "color1": "#0000FF",
+    "color2": "#EF0000"
   }
 }

@@ -2277,5 +2277,31 @@
     "last": "parma",
     "nationalTeam": "brazil",
     "worldCups": 1
+  },
+  "rivaldo": {
+    "name": "Rivaldo",
+    "number": 10,
+    "position": "AM",
+    "clubs": [
+      "santacruz",
+      "mogimirim",
+      "corinthians",
+      "palmeiras",
+      "deportivocoruna",
+      "barcelona",
+      "milan",
+      "cruzeiro",
+      "olympiakos",
+      "atenas",
+      "bunyodkor",
+      "saopaulo",
+      "kabuscorp",
+      "saocaetano"
+    ],
+    "last": "mogimirim",
+    "retired": true,
+    "nationalTeam": "brazil",
+    "worldCups": 1,
+    "championsLeagues": 1
   }
 }
