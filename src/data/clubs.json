@@ -3025,5 +3025,13 @@
     "country": "brazil",
     "color1": "#0000FF",
     "color2": "#EF0000"
+  },
+  "vitoria": {
+    "id": "vitoria",
+    "title": "EC Vitória",
+    "brand": "kappa",
+    "country": "brazil",
+    "color1": "#000000",
+    "color2": "#FF0000"
   }
 }

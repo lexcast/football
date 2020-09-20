@@ -2304,5 +2304,23 @@
     "nationalTeam": "brazil",
     "worldCups": 1,
     "championsLeagues": 1
+  },
+  "dida": {
+    "name": "Dida",
+    "number": 1,
+    "position": "GK",
+    "clubs": [
+      "vitoria",
+      "cruzeiro",
+      "corinthians",
+      "milan",
+      "portuguesa",
+      "gremio",
+      "internacional"
+    ],
+    "retired": true,
+    "nationalTeam": "brazil",
+    "worldCups": 1,
+    "championsLeagues": 2
   }
 }
