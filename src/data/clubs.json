@@ -3033,5 +3033,13 @@
     "country": "brazil",
     "color1": "#000000",
     "color2": "#FF0000"
+  },
+  "bahia": {
+    "id": "bahia",
+    "title": "EC Bahia",
+    "brand": "esquadrao",
+    "country": "brazil",
+    "color1": "#FFFFFF",
+    "color2": "#0033BB"
   }
 }

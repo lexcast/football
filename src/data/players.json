@@ -2322,5 +2322,13 @@
     "nationalTeam": "brazil",
     "worldCups": 1,
     "championsLeagues": 2
+  },
+  "danialves": {
+    "name": "Dani Alves",
+    "number": 2,
+    "position": "RB",
+    "clubs": ["bahia", "sevilla", "barcelona", "juventus", "psg", "saopaulo"],
+    "nationalTeam": "brazil",
+    "championsLeagues": 3
   }
 }
