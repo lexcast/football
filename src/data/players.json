@@ -2330,5 +2330,22 @@
     "clubs": ["bahia", "sevilla", "barcelona", "juventus", "psg", "saopaulo"],
     "nationalTeam": "brazil",
     "championsLeagues": 3
+  },
+  "franckribery": {
+    "name": "Franck Ribéry",
+    "number": 7,
+    "position": "LW",
+    "clubs": [
+      "boulogne",
+      "ales",
+      "brestois",
+      "metz",
+      "galatasaray",
+      "olympiquedemarseille",
+      "bayernmunich",
+      "fiorentina"
+    ],
+    "nationalTeam": "france",
+    "championsLeagues": 1
   }
 }

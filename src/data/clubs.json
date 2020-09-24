@@ -3041,5 +3041,37 @@
     "country": "brazil",
     "color1": "#FFFFFF",
     "color2": "#0033BB"
+  },
+  "boulogne": {
+    "id": "boulogne",
+    "title": "US Boulogne",
+    "brand": "puma",
+    "country": "france",
+    "color1": "#FF0000",
+    "color2": "#000000"
+  },
+  "ales": {
+    "id": "ales",
+    "title": "Olympique Alès",
+    "brand": "macron",
+    "country": "france",
+    "color1": "#003399",
+    "color2": "#FFFFFF"
+  },
+  "brestois": {
+    "id": "brestois",
+    "title": "Stade Brestois 29",
+    "brand": "adidas",
+    "country": "france",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
+  },
+  "metz": {
+    "id": "metz",
+    "title": "FC Metz",
+    "brand": "kappa",
+    "country": "france",
+    "color1": "#770000",
+    "color2": "#FFFFFF"
   }
 }
