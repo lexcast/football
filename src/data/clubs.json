@@ -3073,5 +3073,21 @@
     "country": "france",
     "color1": "#770000",
     "color2": "#FFFFFF"
+  },
+  "angers": {
+    "id": "angers",
+    "title": "Angers SCO",
+    "brand": "kappa",
+    "country": "france",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "reims": {
+    "id": "reims",
+    "title": "Stade de Reims",
+    "brand": "umbro",
+    "country": "france",
+    "color1": "#E50000",
+    "color2": "#FFFFFF"
   }
 }

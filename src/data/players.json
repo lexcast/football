@@ -2347,5 +2347,15 @@
     ],
     "nationalTeam": "france",
     "championsLeagues": 1
+  },
+  "raymondkopa": {
+    "name": "Raymond Kopa",
+    "number": 7,
+    "position": "RW",
+    "clubs": ["angers", "reims", "realmadrid"],
+    "last": "reims",
+    "nationalTeam": "france",
+    "championsLeagues": 3,
+    "retired": true
   }
 }
