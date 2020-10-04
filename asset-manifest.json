@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/football/static/css/main.a45bb877.chunk.css",
-    "main.js": "/football/static/js/main.dddc97f9.chunk.js",
-    "main.js.map": "/football/static/js/main.dddc97f9.chunk.js.map",
+    "main.css": "/football/static/css/main.a00516b2.chunk.css",
+    "main.js": "/football/static/js/main.1aa4ca2c.chunk.js",
+    "main.js.map": "/football/static/js/main.1aa4ca2c.chunk.js.map",
     "runtime-main.js": "/football/static/js/runtime-main.5198f439.js",
     "runtime-main.js.map": "/football/static/js/runtime-main.5198f439.js.map",
-    "static/js/2.7fe62802.chunk.js": "/football/static/js/2.7fe62802.chunk.js",
-    "static/js/2.7fe62802.chunk.js.map": "/football/static/js/2.7fe62802.chunk.js.map",
+    "static/js/2.2ea653fb.chunk.js": "/football/static/js/2.2ea653fb.chunk.js",
+    "static/js/2.2ea653fb.chunk.js.map": "/football/static/js/2.2ea653fb.chunk.js.map",
     "index.html": "/football/index.html",
-    "precache-manifest.a5f40bccab92e6dca0ca4ab5dc5314f1.js": "/football/precache-manifest.a5f40bccab92e6dca0ca4ab5dc5314f1.js",
+    "precache-manifest.730515177b4f4ea999e4bad633dba9c1.js": "/football/precache-manifest.730515177b4f4ea999e4bad633dba9c1.js",
     "service-worker.js": "/football/service-worker.js",
-    "static/css/main.a45bb877.chunk.css.map": "/football/static/css/main.a45bb877.chunk.css.map",
-    "static/js/2.7fe62802.chunk.js.LICENSE.txt": "/football/static/js/2.7fe62802.chunk.js.LICENSE.txt",
+    "static/css/main.a00516b2.chunk.css.map": "/football/static/css/main.a00516b2.chunk.css.map",
+    "static/js/2.2ea653fb.chunk.js.LICENSE.txt": "/football/static/js/2.2ea653fb.chunk.js.LICENSE.txt",
     "static/media/tie.svg": "/football/static/media/tie.d9c7b697.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5198f439.js",
-    "static/js/2.7fe62802.chunk.js",
-    "static/css/main.a45bb877.chunk.css",
-    "static/js/main.dddc97f9.chunk.js"
+    "static/js/2.2ea653fb.chunk.js",
+    "static/css/main.a00516b2.chunk.css",
+    "static/js/main.1aa4ca2c.chunk.js"
   ]
 }
