@@ -2357,5 +2357,13 @@
     "nationalTeam": "france",
     "championsLeagues": 3,
     "retired": true
+  },
+  "justfontaine": {
+    "name": "Just Fontaine",
+    "number": 17,
+    "position": "CF",
+    "clubs": ["nice", "reims"],
+    "nationalTeam": "france",
+    "retired": true
   }
 }
