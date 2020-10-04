@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://lexcast.github.io/football/",
   "dependencies": {
-    "autoprefixer": "^10.0.0",
+    "autoprefixer": "^9.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
