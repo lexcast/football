@@ -2365,5 +2365,16 @@
     "clubs": ["nice", "reims"],
     "nationalTeam": "france",
     "retired": true
+  },
+  "bixentelizarazu": {
+    "name": "Bixente Lizarazu",
+    "number": 3,
+    "position": "LB",
+    "clubs": ["bordeaux", "bilbao", "bayernmunich", "olympiquedemarseille"],
+    "last": "bayernmunich",
+    "nationalTeam": "france",
+    "championsLeagues": 1,
+    "worldCups": 1,
+    "retired": true
   }
 }
