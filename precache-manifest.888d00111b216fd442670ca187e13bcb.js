@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2905d0415fdf7196121f5758f58373e",
+    "revision": "335b81a0c73abf2591eef6213c9f298a",
     "url": "/football/index.html"
   },
   {
-    "revision": "c96674b81b4f350f031e",
+    "revision": "4ab7cca750be7b20700d",
     "url": "/football/static/css/main.a00516b2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/football/static/js/2.2ea653fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c96674b81b4f350f031e",
-    "url": "/football/static/js/main.1aa4ca2c.chunk.js"
+    "revision": "4ab7cca750be7b20700d",
+    "url": "/football/static/js/main.4705f01d.chunk.js"
   },
   {
     "revision": "bf263f417fc5f8aaa346",
