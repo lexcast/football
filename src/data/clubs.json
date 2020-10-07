@@ -3089,5 +3089,13 @@
     "country": "france",
     "color1": "#E50000",
     "color2": "#FFFFFF"
+  },
+  "swansea": {
+    "id": "swansea",
+    "title": "Swansea City AFC",
+    "brand": "joma",
+    "country": "wales",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
   }
 }
