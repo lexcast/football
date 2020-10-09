@@ -3097,5 +3097,13 @@
     "country": "wales",
     "color1": "#FFFFFF",
     "color2": "#000000"
+  },
+  "nottingham": {
+    "id": "nottingham",
+    "title": "Nottingham Forest",
+    "brand": "macron",
+    "country": "england",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
   }
 }

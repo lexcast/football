@@ -2726,5 +2726,14 @@
     "nationalTeam": "england",
     "championsLeagues": 1,
     "retired": true
+  },
+  "johnterry": {
+    "name": "John Terry",
+    "number": 6,
+    "position": "CB",
+    "clubs": ["chelsea", "nottingham", "astonvilla"],
+    "nationalTeam": "england",
+    "championsLeagues": 1,
+    "retired": true
   }
 }
