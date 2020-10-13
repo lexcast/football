@@ -3105,5 +3105,13 @@
     "country": "england",
     "color1": "#FF0000",
     "color2": "#FFFFFF"
+  },
+  "nagoya": {
+    "id": "nagoya",
+    "title": "Nagoya Grampus",
+    "brand": "mizuno",
+    "country": "japan",
+    "color1": "#FF0000",
+    "color2": "#0B0B0B"
   }
 }

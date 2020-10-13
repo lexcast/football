@@ -2735,5 +2735,13 @@
     "nationalTeam": "england",
     "championsLeagues": 1,
     "retired": true
+  },
+  "garylineker": {
+    "name": "Gary Lineker",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["leicester", "everton", "barcelona", "tottenham", "nagoya"],
+    "nationalTeam": "england",
+    "retired": true
   }
 }
