@@ -3113,5 +3113,21 @@
     "country": "japan",
     "color1": "#FF0000",
     "color2": "#0B0B0B"
+  },
+  "preston": {
+    "id": "preston",
+    "title": "Preston North End FC",
+    "brand": "nike",
+    "country": "england",
+    "color1": "#FFFFFF",
+    "color2": "#000040"
+  },
+  "waterford": {
+    "id": "waterford",
+    "title": "Waterford United FC",
+    "brand": "umbro",
+    "country": "ireland",
+    "color1": "#0000F5",
+    "color2": "#FFF000"
   }
 }

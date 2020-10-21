@@ -2743,5 +2743,15 @@
     "clubs": ["leicester", "everton", "barcelona", "tottenham", "nagoya"],
     "nationalTeam": "england",
     "retired": true
+  },
+  "bobbycharlton": {
+    "name": "Bobby Charlton",
+    "number": 9,
+    "position": "AM",
+    "clubs": ["manchesterunited", "preston", "waterford"],
+    "nationalTeam": "england",
+    "retired": true,
+    "championsLeagues": 1,
+    "worldCups": 1
   }
 }
