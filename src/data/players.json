@@ -2753,5 +2753,27 @@
     "retired": true,
     "championsLeagues": 1,
     "worldCups": 1
+  },
+  "georgebest": {
+    "name": "George Best",
+    "number": 7,
+    "position": "LW",
+    "clubs": [
+      "manchesterunited",
+      "dunstable",
+      "stockport",
+      "cork",
+      "aztecs",
+      "fulham",
+      "fortlauderdale",
+      "hibernian",
+      "earthquakes",
+      "bournemouth",
+      "queensland",
+      "tobermore"
+    ],
+    "nationalTeam": "northernireland",
+    "retired": true,
+    "championsLeagues": 1
   }
 }

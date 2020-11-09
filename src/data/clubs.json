@@ -319,6 +319,14 @@
     "color2": "#068619",
     "isNational": true
   },
+  "northernireland": {
+    "id": "northernireland",
+    "title": "Northern Ireland",
+    "brand": "adidas",
+    "color1": "#22913C",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -3129,5 +3137,61 @@
     "country": "ireland",
     "color1": "#0000F5",
     "color2": "#FFF000"
+  },
+  "dunstable": {
+    "id": "dunstable",
+    "title": "Dunstable Town FC",
+    "brand": "macron",
+    "country": "england",
+    "color1": "#002366",
+    "color2": "#FFFFFF"
+  },
+  "stockport": {
+    "id": "stockport",
+    "title": "Stockport County FC",
+    "brand": "puma",
+    "country": "england",
+    "color1": "#003CFF",
+    "color2": "#123163"
+  },
+  "cork": {
+    "id": "cork",
+    "title": "Cork Celtic FC",
+    "brand": "adidas",
+    "country": "ireland",
+    "color1": "#008000",
+    "color2": "#FFFFFF"
+  },
+  "hibernian": {
+    "id": "hibernian",
+    "title": "Hibernian FC",
+    "brand": "macron",
+    "country": "scotland",
+    "color1": "#009E00",
+    "color2": "#FFFFFF"
+  },
+  "bournemouth": {
+    "id": "bournemouth",
+    "title": "AFC Bournemouth",
+    "brand": "umbro",
+    "country": "england",
+    "color1": "#D10000",
+    "color2": "#000000"
+  },
+  "queensland": {
+    "id": "queensland",
+    "title": "Queensland Lions FC",
+    "brand": "kappa",
+    "country": "australia",
+    "color1": "#FF6600",
+    "color2": "#0000FF"
+  },
+  "tobermore": {
+    "id": "tobermore",
+    "title": "Tobermore United FC",
+    "brand": "nike",
+    "country": "northernireland",
+    "color1": "#FF0000",
+    "color2": "#000000"
   }
 }
