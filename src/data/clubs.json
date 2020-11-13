@@ -327,6 +327,14 @@
     "color2": "#FFFFFF",
     "isNational": true
   },
+  "scotland": {
+    "id": "scotland",
+    "title": "Scotland",
+    "brand": "adidas",
+    "color1": "#000073",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -2517,14 +2525,6 @@
     "color1": "#E50200",
     "color2": "#000000"
   },
-  "guingamp": {
-    "id": "guingamp",
-    "title": "EA Guingamp",
-    "brand": "umbro",
-    "country": "france",
-    "color1": "#E50200",
-    "color2": "#000000"
-  },
   "montreal": {
     "id": "montreal",
     "title": "Impact de Montréal",
@@ -3193,5 +3193,21 @@
     "country": "northernireland",
     "color1": "#FF0000",
     "color2": "#000000"
+  },
+  "huddersfield": {
+    "id": "huddersfield",
+    "title": "Huddersfield Town AFC",
+    "brand": "umbro",
+    "country": "england",
+    "color1": "#FFFFFF",
+    "color2": "#0074D0"
+  },
+  "torino": {
+    "id": "torino",
+    "title": "Torino FC",
+    "brand": "joma",
+    "country": "italy",
+    "color1": "#810000",
+    "color2": "#FFFFFF"
   }
 }
