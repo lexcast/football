@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/football/precache-manifest.0d643e0f0ab5dbeb5edb90dd4182271a.js"
+  "/football/precache-manifest.a036856ec14ee287e58b54cdea422178.js"
 );
 
 self.addEventListener('message', (event) => {
