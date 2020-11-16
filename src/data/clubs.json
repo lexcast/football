@@ -335,6 +335,14 @@
     "color2": "#FFFFFF",
     "isNational": true
   },
+  "norway": {
+    "id": "norway",
+    "title": "Norway",
+    "brand": "nike",
+    "color1": "#D70015",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -3208,6 +3216,22 @@
     "brand": "joma",
     "country": "italy",
     "color1": "#810000",
+    "color2": "#FFFFFF"
+  },
+  "clausenengen": {
+    "id": "clausenengen",
+    "title": "Clausenengen FK",
+    "brand": "umbro",
+    "country": "norway",
+    "color1": "#FFFFFF",
+    "color2": "#0000CC"
+  },
+  "molde": {
+    "id": "molde",
+    "title": "Molde FK",
+    "brand": "nike",
+    "country": "norway",
+    "color1": "#0000FF",
     "color2": "#FFFFFF"
   }
 }

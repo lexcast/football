@@ -2444,5 +2444,14 @@
     "nationalTeam": "scotland",
     "retired": true,
     "championsLeagues": 1
+  },
+  "olegunnarsolskaer": {
+    "name": "Ole Gunnar Solskjær",
+    "number": 20,
+    "position": "SS",
+    "clubs": ["clausenengen", "molde", "manchesterunited"],
+    "nationalTeam": "norway",
+    "retired": true,
+    "championsLeagues": 1
   }
 }
