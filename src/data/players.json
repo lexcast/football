@@ -2462,5 +2462,12 @@
     "nationalTeam": "ireland",
     "retired": true,
     "championsLeagues": 1
+  },
+  "erlinghaaland": {
+    "name": "Erling Haaland",
+    "number": 23,
+    "position": "CF",
+    "clubs": ["bryne", "molde", "salzburg", "dortmund"],
+    "nationalTeam": "norway"
   }
 }
