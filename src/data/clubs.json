@@ -343,6 +343,14 @@
     "color2": "#FFFFFF",
     "isNational": true
   },
+  "ireland": {
+    "id": "ireland",
+    "title": "Ireland",
+    "brand": "umbro",
+    "color1": "#006F32",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -3233,5 +3241,13 @@
     "country": "norway",
     "color1": "#0000FF",
     "color2": "#FFFFFF"
+  },
+  "cobh": {
+    "id": "cobh",
+    "title": "Cobh Ramblers FC",
+    "brand": "joma",
+    "country": "ireland",
+    "color1": "#890000",
+    "color2": "#99DDF5"
   }
 }

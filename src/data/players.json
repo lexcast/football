@@ -2453,5 +2453,14 @@
     "nationalTeam": "norway",
     "retired": true,
     "championsLeagues": 1
+  },
+  "roykeane": {
+    "name": "Roy Keane",
+    "number": 16,
+    "position": "DM",
+    "clubs": ["cobh", "nottingham", "manchesterunited", "celtic"],
+    "nationalTeam": "ireland",
+    "retired": true,
+    "championsLeagues": 1
   }
 }
