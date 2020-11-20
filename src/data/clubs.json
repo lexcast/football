@@ -3256,5 +3256,21 @@
     "country": "norway",
     "color1": "#FF0000",
     "color2": "#FFFFFF"
+  },
+  "crystalpalace": {
+    "id": "crystalpalace",
+    "title": "Crystal Palace FC",
+    "brand": "puma",
+    "country": "england",
+    "color1": "#0000FF",
+    "color2": "#FF0005"
+  },
+  "barnet": {
+    "id": "barnet",
+    "title": "Barnet FC",
+    "brand": "jako",
+    "country": "england",
+    "color1": "#FE7A00",
+    "color2": "#000000"
   }
 }

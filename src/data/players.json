@@ -2469,5 +2469,23 @@
     "position": "CF",
     "clubs": ["bryne", "molde", "salzburg", "dortmund"],
     "nationalTeam": "norway"
+  },
+  "edgardavids": {
+    "name": "Edgar Davids",
+    "number": 8,
+    "position": "CM",
+    "clubs": [
+      "ajax",
+      "milan",
+      "juventus",
+      "barcelona",
+      "inter",
+      "tottenham",
+      "crystalpalace",
+      "barnet"
+    ],
+    "nationalTeam": "netherlands",
+    "retired": true,
+    "championsLeagues": 1
   }
 }
