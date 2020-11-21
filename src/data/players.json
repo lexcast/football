@@ -2487,5 +2487,14 @@
     "nationalTeam": "netherlands",
     "retired": true,
     "championsLeagues": 1
+  },
+  "robinvanpersie": {
+    "name": "Robin van|Persie",
+    "number": 9,
+    "position": "CF",
+    "clubs": ["feyenoord", "arsenal", "manchesterunited", "fenerbahce"],
+    "nationalTeam": "netherlands",
+    "retired": true,
+    "last": "feyenoord"
   }
 }
