@@ -2496,5 +2496,21 @@
     "nationalTeam": "netherlands",
     "retired": true,
     "last": "feyenoord"
+  },
+  "wesleysneijder": {
+    "name": "Wesley Sneijder",
+    "number": 10,
+    "position": "AM",
+    "clubs": [
+      "ajax",
+      "realmadrid",
+      "inter",
+      "galatasaray",
+      "nice",
+      "algharafa"
+    ],
+    "nationalTeam": "netherlands",
+    "retired": true,
+    "championsLeagues": 1
   }
 }
