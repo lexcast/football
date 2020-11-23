@@ -2512,5 +2512,14 @@
     "nationalTeam": "netherlands",
     "retired": true,
     "championsLeagues": 1
+  },
+  "clarenceseedorf": {
+    "name": "Clarence Seedorf",
+    "number": 10,
+    "position": "CM",
+    "clubs": ["ajax", "sampdoria", "realmadrid", "inter", "milan", "botafogo"],
+    "nationalTeam": "netherlands",
+    "retired": true,
+    "championsLeagues": 4
   }
 }
