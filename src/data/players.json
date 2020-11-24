@@ -2521,5 +2521,14 @@
     "nationalTeam": "netherlands",
     "retired": true,
     "championsLeagues": 4
+  },
+  "santiagocanizares": {
+    "name": "Santiago Cañizares",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["realmadrid", "merida", "celtadevigo", "valencia"],
+    "nationalTeam": "spain",
+    "retired": true,
+    "championsLeagues": 1
   }
 }

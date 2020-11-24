@@ -3272,5 +3272,13 @@
     "country": "england",
     "color1": "#FE7A00",
     "color2": "#000000"
+  },
+  "merida": {
+    "id": "merida",
+    "title": "CP Mérida",
+    "brand": "puma",
+    "country": "spain",
+    "color1": "#FFFFFF",
+    "color2": "#289C7E"
   }
 }
