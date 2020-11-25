@@ -2530,5 +2530,14 @@
     "nationalTeam": "spain",
     "retired": true,
     "championsLeagues": 1
+  },
+  "gerardpique": {
+    "name": "Gerard Piqué",
+    "number": 3,
+    "position": "CB",
+    "clubs": ["manchesterunited", "realzaragoza", "barcelona"],
+    "nationalTeam": "spain",
+    "championsLeagues": 4,
+    "worldCups": 1
   }
 }
