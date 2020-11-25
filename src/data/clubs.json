@@ -3280,5 +3280,13 @@
     "country": "spain",
     "color1": "#FFFFFF",
     "color2": "#289C7E"
+  },
+  "sagantosu": {
+    "id": "sagantosu",
+    "title": "Sagan Tosu",
+    "brand": "newbalance",
+    "country": "japan",
+    "color1": "#007AD0",
+    "color2": "#FF18AD"
   }
 }

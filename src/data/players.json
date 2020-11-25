@@ -2539,5 +2539,14 @@
     "nationalTeam": "spain",
     "championsLeagues": 4,
     "worldCups": 1
+  },
+  "fernandotorres": {
+    "name": "Fernando Torres",
+    "number": 9,
+    "position": "CF",
+    "clubs": ["atleticomadrid", "liverpool", "chelsea", "milan", "sagantosu"],
+    "nationalTeam": "spain",
+    "championsLeagues": 1,
+    "worldCups": 1
   }
 }
