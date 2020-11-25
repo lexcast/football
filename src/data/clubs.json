@@ -3288,5 +3288,13 @@
     "country": "japan",
     "color1": "#007AD0",
     "color2": "#FF18AD"
+  },
+  "alahlisc": {
+    "id": "alahlisc",
+    "title": "Al Ahli SC",
+    "brand": "jako",
+    "country": "qatar",
+    "color1": "#008800",
+    "color2": "#FFFFFF"
   }
 }

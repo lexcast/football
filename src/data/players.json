@@ -2548,5 +2548,13 @@
     "nationalTeam": "spain",
     "championsLeagues": 1,
     "worldCups": 1
+  },
+  "pepguardiola": {
+    "name": "Pep Guardiola",
+    "number": 4,
+    "position": "DM",
+    "clubs": ["barcelona", "bresciacalcio", "roma", "alahlisc", "dorados"],
+    "nationalTeam": "spain",
+    "championsLeagues": 3
   }
 }
