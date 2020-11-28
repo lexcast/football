@@ -2547,6 +2547,7 @@
     "clubs": ["atleticomadrid", "liverpool", "chelsea", "milan", "sagantosu"],
     "nationalTeam": "spain",
     "championsLeagues": 1,
+    "retired": true,
     "worldCups": 1
   },
   "pepguardiola": {
@@ -2555,6 +2556,17 @@
     "position": "DM",
     "clubs": ["barcelona", "bresciacalcio", "roma", "alahlisc", "dorados"],
     "nationalTeam": "spain",
+    "retired": true,
     "championsLeagues": 3
+  },
+  "bastianschweinsteiger": {
+    "name": "Bastian Schweinsteiger",
+    "number": 7,
+    "position": "CM",
+    "clubs": ["bayernmunich", "manchesterunited", "chicago"],
+    "nationalTeam": "germany",
+    "retired": true,
+    "championsLeagues": 1,
+    "worldCups": 1
   }
 }
