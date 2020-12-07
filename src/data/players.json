@@ -2568,5 +2568,23 @@
     "retired": true,
     "championsLeagues": 1,
     "worldCups": 1
+  },
+  "jurgenklinsmann": {
+    "name": "Jürgen Klinsmann",
+    "number": 18,
+    "position": "CF",
+    "clubs": [
+      "stuttgarter",
+      "stuttgart",
+      "inter",
+      "monaco",
+      "tottenham",
+      "bayernmunich",
+      "sampdoria"
+    ],
+    "last": "tottenham",
+    "nationalTeam": "germany",
+    "retired": true,
+    "worldCups": 1
   }
 }
