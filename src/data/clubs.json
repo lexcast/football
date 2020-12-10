@@ -3304,5 +3304,13 @@
     "country": "germany",
     "color1": "#7EBAF9",
     "color2": "#000000"
+  },
+  "offenbach": {
+    "id": "offenbach",
+    "title": "Kickers Offenbach",
+    "brand": "nike",
+    "country": "germany",
+    "color1": "#8E0608",
+    "color2": "#FFFFFF"
   }
 }

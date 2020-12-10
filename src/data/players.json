@@ -2586,5 +2586,22 @@
     "nationalTeam": "germany",
     "retired": true,
     "worldCups": 1
+  },
+  "rudivoller": {
+    "name": "Rudi Völler",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "offenbach",
+      "1860munich",
+      "werderbremen",
+      "roma",
+      "olympiquedemarseille",
+      "leverkusen"
+    ],
+    "nationalTeam": "germany",
+    "retired": true,
+    "worldCups": 1,
+    "championsLeagues": 1
   }
 }
