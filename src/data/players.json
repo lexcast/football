@@ -2603,5 +2603,14 @@
     "retired": true,
     "worldCups": 1,
     "championsLeagues": 1
+  },
+  "karlheinzrummenigge": {
+    "name": "Karl-Heinz Rummenigge",
+    "number": 11,
+    "position": "CF",
+    "clubs": ["bayernmunich", "inter", "servette"],
+    "nationalTeam": "germany",
+    "retired": true,
+    "championsLeagues": 2
   }
 }

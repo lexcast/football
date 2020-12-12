@@ -3312,5 +3312,13 @@
     "country": "germany",
     "color1": "#8E0608",
     "color2": "#FFFFFF"
+  },
+  "servette": {
+    "id": "servette",
+    "title": "Servette FC",
+    "brand": "puma",
+    "country": "switzerland",
+    "color1": "#890000",
+    "color2": "#000060"
   }
 }
