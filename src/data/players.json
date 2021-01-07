@@ -2612,5 +2612,15 @@
     "nationalTeam": "germany",
     "retired": true,
     "championsLeagues": 2
+  },
+  "gennarogattuso": {
+    "name": "Gennaro Gattuso",
+    "number": 8,
+    "position": "CM",
+    "clubs": ["perugia", "rangers", "salernitana", "milan", "sion"],
+    "nationalTeam": "italy",
+    "retired": true,
+    "championsLeagues": 2,
+    "worldCups": 1
   }
 }

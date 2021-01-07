@@ -3320,5 +3320,37 @@
     "country": "switzerland",
     "color1": "#890000",
     "color2": "#000060"
+  },
+  "perugia": {
+    "id": "perugia",
+    "title": "AC Perugia Calcio",
+    "brand": "frankiegarage",
+    "country": "italy",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
+  },
+  "rangers": {
+    "id": "rangers",
+    "title": "Rangers FC",
+    "brand": "castore",
+    "country": "scotland",
+    "color1": "#0000FF",
+    "color2": "#FFFFFF"
+  },
+  "salernitana": {
+    "id": "salernitana",
+    "title": "US Salernitana 1919",
+    "brand": "zeus",
+    "country": "italy",
+    "color1": "#810000",
+    "color2": "#000000"
+  },
+  "sion": {
+    "id": "sion",
+    "title": "FC Sion",
+    "brand": "macron",
+    "country": "switzerland",
+    "color1": "#FFFFFF",
+    "color2": "#FF0000"
   }
 }
