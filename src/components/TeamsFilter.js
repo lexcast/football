@@ -17,7 +17,7 @@ const TeamsFilter = ({ team, setTeam, clubs, flags }) => {
   });
 
   return (
-    <div className="px-6 overflow-x-auto scrollbar-hide flex flex-no-wrap">
+    <div className="px-6 overflow-x-auto scrollbar-hide flex flex-nowrap">
       {Object.keys(teams)
         .sort((a, b) => (a > b ? 1 : a < b ? -1 : 0))
         .map(k => {
