@@ -2622,5 +2622,15 @@
     "retired": true,
     "championsLeagues": 2,
     "worldCups": 1
+  },
+  "marcomaterazzi": {
+    "name": "Marco Materazzi",
+    "number": 23,
+    "position": "CB",
+    "clubs": ["perugia", "everton", "inter", "chennaiyin"],
+    "nationalTeam": "italy",
+    "retired": true,
+    "championsLeagues": 1,
+    "worldCups": 1
   }
 }

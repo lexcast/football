@@ -3352,5 +3352,13 @@
     "country": "switzerland",
     "color1": "#FFFFFF",
     "color2": "#FF0000"
+  },
+  "chennaiyin": {
+    "id": "chennaiyin",
+    "title": "Chennaiyin FC",
+    "brand": "performax",
+    "country": "india",
+    "color1": "#000080",
+    "color2": "#FFFFFF"
   }
 }
