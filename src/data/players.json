@@ -2632,5 +2632,15 @@
     "retired": true,
     "championsLeagues": 1,
     "worldCups": 1
+  },
+  "giuseppemeazza": {
+    "name": "Giuseppe Meazza",
+    "number": 9,
+    "position": "CF",
+    "clubs": ["inter", "milan", "juventus"],
+    "last": "inter",
+    "nationalTeam": "italy",
+    "retired": true,
+    "worldCups": 2
   }
 }
