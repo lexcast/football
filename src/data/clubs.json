@@ -3360,5 +3360,21 @@
     "country": "india",
     "color1": "#000080",
     "color2": "#FFFFFF"
+  },
+  "vicenza": {
+    "id": "vicenza",
+    "title": "LR Vicenza Virtus",
+    "brand": "lotto",
+    "country": "italy",
+    "color1": "#FFFFFF",
+    "color2": "#F40000"
+  },
+  "bologna": {
+    "id": "bologna",
+    "title": "Bologna FC 1909",
+    "brand": "macron",
+    "country": "italy",
+    "color1": "#00003E",
+    "color2": "#CF0E13"
   }
 }

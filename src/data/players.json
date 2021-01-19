@@ -2642,5 +2642,21 @@
     "nationalTeam": "italy",
     "retired": true,
     "worldCups": 2
+  },
+  "robertobaggio": {
+    "name": "Roberto Baggio",
+    "number": 10,
+    "position": "SS",
+    "clubs": [
+      "vicenza",
+      "fiorentina",
+      "juventus",
+      "milan",
+      "bologna",
+      "inter",
+      "bresciacalcio"
+    ],
+    "nationalTeam": "italy",
+    "retired": true
   }
 }
