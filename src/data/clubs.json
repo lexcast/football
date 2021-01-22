@@ -3376,5 +3376,13 @@
     "country": "italy",
     "color1": "#00003E",
     "color2": "#CF0E13"
+  },
+  "mechelen": {
+    "id": "mechelen",
+    "title": "KV Mechelen",
+    "brand": "jartazi",
+    "country": "belgium",
+    "color1": "#FF0000",
+    "color2": "#FFFF00"
   }
 }

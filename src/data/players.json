@@ -2658,5 +2658,13 @@
     ],
     "nationalTeam": "italy",
     "retired": true
+  },
+  "michelpreudhomme": {
+    "name": "Michel Preud'homme",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["standardliege", "mechelen", "benfica"],
+    "nationalTeam": "belgium",
+    "retired": true
   }
 }
