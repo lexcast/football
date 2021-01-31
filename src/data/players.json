@@ -2666,5 +2666,13 @@
     "clubs": ["standardliege", "mechelen", "benfica"],
     "nationalTeam": "belgium",
     "retired": true
+  },
+  "jeanmariepfaff": {
+    "name": "Jean-Marie Pfaff",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["beveren", "bayernmunich", "lierse", "trabzonspor"],
+    "nationalTeam": "belgium",
+    "retired": true
   }
 }

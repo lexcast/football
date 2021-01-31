@@ -3384,5 +3384,21 @@
     "country": "belgium",
     "color1": "#FF0000",
     "color2": "#FFFF00"
+  },
+  "lierse": {
+    "id": "lierse",
+    "title": "K Lierse SK",
+    "brand": "jako",
+    "country": "belgium",
+    "color1": "#FFF30F",
+    "color2": "#000000"
+  },
+  "trabzonspor": {
+    "id": "trabzonspor",
+    "title": "Trabzonspor",
+    "brand": "macron",
+    "country": "turkey",
+    "color1": "#0092CE",
+    "color2": "#660000"
   }
 }
