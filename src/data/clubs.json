@@ -3400,5 +3400,21 @@
     "country": "turkey",
     "color1": "#0092CE",
     "color2": "#660000"
+  },
+  "newengland": {
+    "id": "newengland",
+    "title": "New England Revolution",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#001946",
+    "color2": "#FF0000"
+  },
+  "seattle": {
+    "id": "seattle",
+    "title": "Seattle Sounders FC",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#39AD04",
+    "color2": "##003E81"
   }
 }

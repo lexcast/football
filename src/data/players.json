@@ -2674,5 +2674,13 @@
     "clubs": ["beveren", "bayernmunich", "lierse", "trabzonspor"],
     "nationalTeam": "belgium",
     "retired": true
+  },
+  "clintdempsey": {
+    "name": "Clint Dempsey",
+    "number": 8,
+    "position": "SS",
+    "clubs": ["newengland", "fulham", "tottenham", "seattle"],
+    "nationalTeam": "unitedstates",
+    "retired": true
   }
 }
