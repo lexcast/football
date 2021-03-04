@@ -3415,6 +3415,22 @@
     "brand": "adidas",
     "country": "unitedstates",
     "color1": "#39AD04",
-    "color2": "##003E81"
+    "color2": "#003E81"
+  },
+  "chievoverona": {
+    "id": "chievoverona",
+    "title": "AC ChievoVerona",
+    "brand": "ginova",
+    "country": "italy",
+    "color1": "#FFFF00",
+    "color2": "#0000FF"
+  },
+  "toronto": {
+    "id": "toronto",
+    "title": "Toronto FC",
+    "brand": "adidas",
+    "country": "canada",
+    "color1": "#FF0000",
+    "color2": "#EFEFEF"
   }
 }

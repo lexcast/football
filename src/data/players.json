@@ -2682,5 +2682,20 @@
     "clubs": ["newengland", "fulham", "tottenham", "seattle"],
     "nationalTeam": "unitedstates",
     "retired": true
+  },
+  "michaelbradley": {
+    "name": "Michael Bradley",
+    "number": 4,
+    "position": "CM",
+    "clubs": [
+      "newyork",
+      "heerenveen",
+      "monchengladbach",
+      "astonvilla",
+      "chievoverona",
+      "roma",
+      "toronto"
+    ],
+    "nationalTeam": "unitedstates"
   }
 }
