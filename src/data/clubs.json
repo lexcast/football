@@ -3432,5 +3432,13 @@
     "country": "canada",
     "color1": "#FF0000",
     "color2": "#EFEFEF"
+  },
+  "columbus": {
+    "id": "columbus",
+    "title": "Columbus Crew SC",
+    "brand": "adidas",
+    "country": "unitedstates",
+    "color1": "#FFFF00",
+    "color2": "#000000"
   }
 }

@@ -2697,5 +2697,21 @@
       "toronto"
     ],
     "nationalTeam": "unitedstates"
+  },
+  "bradfriedel": {
+    "name": "Brad Friedel",
+    "number": 1,
+    "position": "GK",
+    "clubs": [
+      "brondby",
+      "galatasaray",
+      "columbus",
+      "liverpool",
+      "blackburn",
+      "astonvilla",
+      "tottenham"
+    ],
+    "nationalTeam": "unitedstates",
+    "retired": true
   }
 }
