@@ -351,6 +351,14 @@
     "color2": "#FFFFFF",
     "isNational": true
   },
+  "ecuador": {
+    "id": "ecuador",
+    "title": "Ecuador",
+    "brand": "marathon",
+    "color1": "#FCFA00",
+    "color2": "#071746",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -3440,5 +3448,21 @@
     "country": "unitedstates",
     "color1": "#FFFF00",
     "color2": "#000000"
+  },
+  "elnacional": {
+    "id": "elnacional",
+    "title": "El Nacional",
+    "brand": "lotto",
+    "country": "ecuador",
+    "color1": "#F90612",
+    "color2": "#00254A"
+  },
+  "eljaish": {
+    "id": "eljaish",
+    "title": "El-Jaish SC",
+    "brand": "nike",
+    "country": "qatar",
+    "color1": "#8B0000",
+    "color2": "#FFFFFF"
   }
 }

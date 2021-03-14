@@ -2728,5 +2728,13 @@
     ],
     "nationalTeam": "unitedstates",
     "retired": true
+  },
+  "christianbenitez": {
+    "name": "Christian Benítez",
+    "number": 11,
+    "position": "CF",
+    "clubs": ["elnacional", "santoslaguna", "birmingham", "america", "eljaish"],
+    "nationalTeam": "ecuador",
+    "retired": true
   }
 }
