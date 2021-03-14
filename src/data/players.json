@@ -2713,5 +2713,20 @@
     ],
     "nationalTeam": "unitedstates",
     "retired": true
+  },
+  "claudioreyna": {
+    "name": "Claudio Reyna",
+    "number": 10,
+    "position": "CM",
+    "clubs": [
+      "leverkusen",
+      "wolfsburg",
+      "rangers",
+      "sunderland",
+      "manchestercity",
+      "newyork"
+    ],
+    "nationalTeam": "unitedstates",
+    "retired": true
   }
 }
