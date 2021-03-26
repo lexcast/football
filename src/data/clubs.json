@@ -3464,5 +3464,12 @@
     "country": "qatar",
     "color1": "#8B0000",
     "color2": "#FFFFFF"
+  },
+  "barranquilla": {
+    "id": "barranquilla",
+    "title": "Sporting Club de Barranquilla",
+    "country": "colombia",
+    "color1": "#FFFF00",
+    "color2": "#000000"
   }
 }

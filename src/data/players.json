@@ -2736,5 +2736,13 @@
     "clubs": ["elnacional", "santoslaguna", "birmingham", "america", "eljaish"],
     "nationalTeam": "ecuador",
     "retired": true
+  },
+  "miguelcalero": {
+    "name": "Miguel Calero",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["barranquilla", "deportivocali", "atleticonacional", "pachuca"],
+    "nationalTeam": "colombia",
+    "retired": true
   }
 }
