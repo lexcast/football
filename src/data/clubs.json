@@ -3471,5 +3471,21 @@
     "country": "colombia",
     "color1": "#FFFF00",
     "color2": "#000000"
+  },
+  "gimnasia": {
+    "id": "gimnasia",
+    "title": "Gimnasia y Esgrima La Plata",
+    "brand": "lecoq",
+    "country": "argentina",
+    "color1": "#FFFFFF",
+    "color2": "#000040"
+  },
+  "platense": {
+    "id": "platense",
+    "title": "Club Atlético Platense",
+    "brand": "kelme",
+    "country": "argentina",
+    "color1": "#FFFFFF",
+    "color2": "#3E2313"
   }
 }

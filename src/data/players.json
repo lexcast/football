@@ -2744,5 +2744,14 @@
     "clubs": ["barranquilla", "deportivocali", "atleticonacional", "pachuca"],
     "nationalTeam": "colombia",
     "retired": true
+  },
+  "hernancristante": {
+    "name": "Hernán Cristante",
+    "number": 1,
+    "position": "GK",
+    "clubs": ["gimnasia", "toluca", "platense", "newells", "huracan", "udeg"],
+    "nationalTeam": "argentina",
+    "retired": true,
+    "signature": false
   }
 }
