@@ -2753,5 +2753,22 @@
     "nationalTeam": "argentina",
     "retired": true,
     "signature": false
+  },
+  "rodrigoruiz": {
+    "name": "Rodrigo Ruiz",
+    "number": 11,
+    "position": "SS",
+    "clubs": [
+      "unionespanola",
+      "puebla",
+      "neza",
+      "santoslaguna",
+      "pachuca",
+      "tecos",
+      "veracruz"
+    ],
+    "nationalTeam": "chile",
+    "retired": true,
+    "last": "tecos"
   }
 }

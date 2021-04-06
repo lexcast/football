@@ -3487,5 +3487,21 @@
     "country": "argentina",
     "color1": "#FFFFFF",
     "color2": "#3E2313"
+  },
+  "unionespanola": {
+    "id": "unionespanola",
+    "title": "Unión Española",
+    "brand": "kappa",
+    "country": "chile",
+    "color1": "#D40000",
+    "color2": "#0048B6"
+  },
+  "neza": {
+    "id": "neza",
+    "title": "Neza FC",
+    "brand": "keuka",
+    "country": "mexico",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
   }
 }
