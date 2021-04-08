@@ -2770,5 +2770,14 @@
     "nationalTeam": "chile",
     "retired": true,
     "last": "tecos"
+  },
+  "fernandoredondo": {
+    "name": "Fernando Redondo",
+    "number": 5,
+    "position": "DM",
+    "clubs": ["argentinos", "tenerife", "realmadrid", "milan"],
+    "nationalTeam": "argentina",
+    "retired": true,
+    "championsLeagues": 3
   }
 }
