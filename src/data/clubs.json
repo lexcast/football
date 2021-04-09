@@ -3503,5 +3503,13 @@
     "country": "mexico",
     "color1": "#FF0000",
     "color2": "#FFFFFF"
+  },
+  "maritimo": {
+    "id": "maritimo",
+    "title": "CS Marítimo",
+    "brand": "nike",
+    "country": "portugal",
+    "color1": "#007500",
+    "color2": "#FF0909"
   }
 }
