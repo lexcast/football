@@ -2788,5 +2788,22 @@
     "nationalTeam": "portugal",
     "last": "porto",
     "championsLeagues": 3
+  },
+  "fernandomorientes": {
+    "name": "Fernando Morientes",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "albacete",
+      "realzaragoza",
+      "realmadrid",
+      "monaco",
+      "liverpool",
+      "valencia",
+      "olympiquedemarseille"
+    ],
+    "nationalTeam": "spain",
+    "retired": true,
+    "championsLeagues": 3
   }
 }
