@@ -2805,5 +2805,22 @@
     "nationalTeam": "spain",
     "retired": true,
     "championsLeagues": 3
+  },
+  "santiagosolari": {
+    "name": "Santiago Solari",
+    "number": 21,
+    "position": "LM",
+    "clubs": [
+      "riverplate",
+      "atleticomadrid",
+      "realmadrid",
+      "inter",
+      "sanlorenzo",
+      "atlante",
+      "penarol"
+    ],
+    "nationalTeam": "argentina",
+    "retired": true,
+    "championsLeagues": 1
   }
 }
