@@ -2822,5 +2822,14 @@
     "nationalTeam": "argentina",
     "retired": true,
     "championsLeagues": 1
+  },
+  "manolosanchis": {
+    "name": "Manolo Sanchís",
+    "number": 5,
+    "position": "CB",
+    "clubs": ["realmadrid"],
+    "nationalTeam": "spain",
+    "retired": true,
+    "championsLeagues": 2
   }
 }
