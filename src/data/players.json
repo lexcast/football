@@ -2831,5 +2831,23 @@
     "nationalTeam": "spain",
     "retired": true,
     "championsLeagues": 2
+  },
+  "georgeweah": {
+    "name": "George Weah",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "invincibleeleven",
+      "tonnerre",
+      "monaco",
+      "psg",
+      "milan",
+      "chelsea",
+      "manchestercity",
+      "olympiquedemarseille",
+      "aljazira"
+    ],
+    "nationalTeam": "liberia",
+    "retired": true
   }
 }

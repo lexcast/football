@@ -359,6 +359,14 @@
     "color2": "#071746",
     "isNational": true
   },
+  "liberia": {
+    "id": "liberia",
+    "title": "Liberia",
+    "brand": "adidas",
+    "color1": "#0033E1",
+    "color2": "#FFFFFF",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -3511,5 +3519,27 @@
     "country": "portugal",
     "color1": "#007500",
     "color2": "#FF0909"
+  },
+  "invincibleeleven": {
+    "id": "invincibleeleven",
+    "title": "Invincible Eleven",
+    "country": "liberia",
+    "color1": "#FDCF41",
+    "color2": "#293860"
+  },
+  "tonnerre": {
+    "id": "tonnerre",
+    "title": "Tonnerre Yaoundé",
+    "country": "cameroon",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "aljazira": {
+    "id": "aljazira",
+    "title": "Al-Jazira SC",
+    "brand": "puma",
+    "country": "unitedarabemirates",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
   }
 }
