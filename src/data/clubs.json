@@ -3541,5 +3541,21 @@
     "country": "unitedarabemirates",
     "color1": "#FFFFFF",
     "color2": "#000000"
+  },
+  "sabadell": {
+    "id": "sabadell",
+    "title": "CE Sabadell",
+    "brand": "hummel",
+    "country": "spain",
+    "color1": "#003F92",
+    "color2": "#FFFFFF"
+  },
+  "bolivar": {
+    "id": "bolivar",
+    "title": "Club Bolívar",
+    "brand": "puma",
+    "country": "bolivia",
+    "color1": "#55B1DE",
+    "color2": "#013F6E"
   }
 }
