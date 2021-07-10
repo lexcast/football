@@ -3565,5 +3565,29 @@
     "country": "france",
     "color1": "#CC1E1E",
     "color2": "#FFFFFF"
+  },
+  "cerroporteno": {
+    "id": "cerroporteno",
+    "title": "Club Cerro Porteño",
+    "brand": "puma",
+    "country": "paraguay",
+    "color1": "#FF0000",
+    "color2": "#000066"
+  },
+  "genclerbirligi": {
+    "id": "genclerbirligi",
+    "title": "Gençlerbirliği SK",
+    "brand": "macron",
+    "country": "turkey",
+    "color1": "#DF0808",
+    "color2": "#000000"
+  },
+  "ankaragucu": {
+    "id": "ankaragucu",
+    "title": "MKE Ankaragücü",
+    "brand": "nike",
+    "country": "turkey",
+    "color1": "#000050",
+    "color2": "#FFDD00"
   }
 }

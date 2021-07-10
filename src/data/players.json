@@ -2872,5 +2872,22 @@
     ],
     "nationalTeam": "cameroon",
     "retired": true
+  },
+  "geremi": {
+    "name": "Geremi",
+    "number": 8,
+    "position": "RM",
+    "clubs": [
+      "cerroporteno",
+      "genclerbirligi",
+      "realmadrid",
+      "middlesbrough",
+      "chelsea",
+      "newcastle",
+      "ankaragucu"
+    ],
+    "nationalTeam": "cameroon",
+    "retired": true,
+    "championsLeagues": 2
   }
 }
