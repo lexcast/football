@@ -2857,5 +2857,20 @@
     "clubs": ["espanyol", "sabadell", "bolivar"],
     "nationalTeam": "cameroon",
     "retired": true
+  },
+  "rogermilla": {
+    "name": "Roger Milla",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "valenciennes",
+      "monaco",
+      "bastia",
+      "saintetienne",
+      "montpellier",
+      "maduraunited"
+    ],
+    "nationalTeam": "cameroon",
+    "retired": true
   }
 }

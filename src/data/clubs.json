@@ -3557,5 +3557,13 @@
     "country": "bolivia",
     "color1": "#55B1DE",
     "color2": "#013F6E"
+  },
+  "valenciennes": {
+    "id": "valenciennes",
+    "title": "Valenciennes FC",
+    "brand": "acerbis",
+    "country": "france",
+    "color1": "#CC1E1E",
+    "color2": "#FFFFFF"
   }
 }
