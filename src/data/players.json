@@ -2889,5 +2889,13 @@
     "nationalTeam": "cameroon",
     "retired": true,
     "championsLeagues": 2
+  },
+  "sadiomane": {
+    "name": "Sadio Mané",
+    "number": 10,
+    "position": "LW",
+    "clubs": ["metz", "salzburg", "southampton", "liverpool"],
+    "nationalTeam": "senegal",
+    "championsLeagues": 1
   }
 }

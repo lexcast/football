@@ -367,6 +367,14 @@
     "color2": "#FFFFFF",
     "isNational": true
   },
+  "senegal": {
+    "id": "senegal",
+    "title": "Senegal",
+    "brand": "puma",
+    "color1": "#FFFFFF",
+    "color2": "#25885F",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
