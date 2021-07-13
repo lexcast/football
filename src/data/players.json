@@ -2897,5 +2897,25 @@
     "clubs": ["metz", "salzburg", "southampton", "liverpool"],
     "nationalTeam": "senegal",
     "championsLeagues": 1
+  },
+  "elhadjidiouf": {
+    "name": "El Hadji Diouf",
+    "number": 11,
+    "position": "CF",
+    "clubs": [
+      "sochaux",
+      "rennais",
+      "lens",
+      "liverpool",
+      "bolton",
+      "sunderland",
+      "blackburn",
+      "rangers",
+      "doncaster",
+      "leeds",
+      "sabah"
+    ],
+    "nationalTeam": "senegal",
+    "retired": true
   }
 }

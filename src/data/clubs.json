@@ -3597,5 +3597,36 @@
     "country": "turkey",
     "color1": "#000050",
     "color2": "#FFDD00"
+  },
+  "sochaux": {
+    "id": "sochaux",
+    "title": "MFC Sochaux-Montbéliard",
+    "brand": "nike",
+    "country": "france",
+    "color1": "#FFFF00",
+    "color2": "#0000FF"
+  },
+  "lens": {
+    "id": "lens",
+    "title": "RC Lens",
+    "brand": "macron",
+    "country": "france",
+    "color1": "#FFF000",
+    "color2": "#FF0000"
+  },
+  "doncaster": {
+    "id": "doncaster",
+    "title": "Doncaster Rovers FC",
+    "country": "england",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
+  },
+  "sabah": {
+    "id": "sabah",
+    "title": "Sabah FC",
+    "brand": "lotto",
+    "country": "malaysia",
+    "color1": "#FF0000",
+    "color2": "#FFFFFF"
   }
 }
