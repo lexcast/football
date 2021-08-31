@@ -2917,5 +2917,20 @@
     ],
     "nationalTeam": "senegal",
     "retired": true
+  },
+  "pierreemerickaubameyang": {
+    "name": "Pierre-Emerick Aubameyang",
+    "number": 9,
+    "position": "CF",
+    "clubs": [
+      "milan",
+      "dijon",
+      "lille",
+      "monaco",
+      "saintetienne",
+      "dortmund",
+      "arsenal"
+    ],
+    "nationalTeam": "gabon"
   }
 }

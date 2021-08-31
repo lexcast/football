@@ -375,6 +375,14 @@
     "color2": "#25885F",
     "isNational": true
   },
+  "gabon": {
+    "id": "gabon",
+    "title": "Gabon",
+    "brand": "adidas",
+    "color1": "#FEF101",
+    "color2": "#0F22CA",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -3628,5 +3636,13 @@
     "country": "malaysia",
     "color1": "#FF0000",
     "color2": "#FFFFFF"
+  },
+  "dijon": {
+    "id": "dijon",
+    "title": "Dijon FCO",
+    "brand": "lotto",
+    "country": "france",
+    "color1": "#FF2424",
+    "color2": "#000000"
   }
 }
