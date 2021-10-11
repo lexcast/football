@@ -162,7 +162,7 @@
     "name": "Lionel Messi",
     "number": 10,
     "position": "RW",
-    "clubs": ["barcelona"],
+    "clubs": ["barcelona", "psg"],
     "nationalTeam": "argentina",
     "championsLeagues": 4
   },
@@ -172,7 +172,8 @@
     "position": "LW",
     "clubs": ["sporting", "manchesterunited", "realmadrid", "juventus"],
     "nationalTeam": "portugal",
-    "championsLeagues": 5
+    "championsLeagues": 5,
+    "last": "manchesterunited"
   },
   "oliverkahn": {
     "name": "Oliver Kahn",
@@ -715,7 +716,8 @@
     "position": "CF",
     "clubs": ["everton", "manchesterunited", "dcunited", "derbycounty"],
     "nationalTeam": "england",
-    "championsLeagues": 1
+    "championsLeagues": 1,
+    "retired": true
   },
   "alissonbecker": {
     "name": "Alisson Becker",
@@ -1389,7 +1391,8 @@
     "number": 22,
     "position": "RW",
     "clubs": ["dortmund", "chelsea"],
-    "nationalTeam": "unitedstates"
+    "nationalTeam": "unitedstates",
+    "championsLeagues": 1
   },
   "paulowanchope": {
     "name": "Paulo Wanchope",
