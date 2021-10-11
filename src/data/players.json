@@ -2932,5 +2932,12 @@
       "arsenal"
     ],
     "nationalTeam": "gabon"
+  },
+  "riyadmahrez": {
+    "name": "Riyad Mahrez",
+    "number": 26,
+    "position": "RW",
+    "clubs": ["lehavre", "leicester", "manchestercity"],
+    "nationalTeam": "algeria"
   }
 }

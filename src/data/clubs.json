@@ -383,6 +383,14 @@
     "color2": "#0F22CA",
     "isNational": true
   },
+  "algeria": {
+    "id": "algeria",
+    "title": "Algeria",
+    "brand": "adidas",
+    "color1": "#FFFFFF",
+    "color2": "#007A5C",
+    "isNational": true
+  },
   "realmadrid": {
     "id": "realmadrid",
     "title": "Real Madrid",
@@ -3644,5 +3652,13 @@
     "country": "france",
     "color1": "#FF2424",
     "color2": "#000000"
+  },
+  "lehavre": {
+    "id": "lehavre",
+    "title": "Le Havre Athletic Club",
+    "brand": "joma",
+    "country": "france",
+    "color1": "#000066",
+    "color2": "#AAE3F3"
   }
 }
