@@ -2942,5 +2942,12 @@
     "position": "RW",
     "clubs": ["lehavre", "leicester", "manchestercity"],
     "nationalTeam": "algeria"
+  },
+  "kalidoukoulibaly": {
+    "name": "Kalidou Koulibaly",
+    "number": 26,
+    "position": "CB",
+    "clubs": ["metz", "genk", "napoli"],
+    "nationalTeam": "senegal"
   }
 }
