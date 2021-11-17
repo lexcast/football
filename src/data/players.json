@@ -2949,5 +2949,24 @@
     "position": "CB",
     "clubs": ["metz", "genk", "napoli"],
     "nationalTeam": "senegal"
+  },
+  "diegoforlan": {
+    "name": "Diego Forlán",
+    "number": 10,
+    "position": "CF",
+    "clubs": [
+      "independiente",
+      "manchesterunited",
+      "villarreal",
+      "atleticomadrid",
+      "inter",
+      "internacional",
+      "osaka",
+      "penarol",
+      "mumbai",
+      "kitchee"
+    ],
+    "nationalTeam": "uruguay",
+    "retired": true
   }
 }
