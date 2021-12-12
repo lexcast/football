@@ -2968,5 +2968,14 @@
     ],
     "nationalTeam": "uruguay",
     "retired": true
+  },
+  "alvarorecoba": {
+    "name": "Álvaro Recoba",
+    "number": 20,
+    "position": "SS",
+    "clubs": ["danubio", "nacional", "inter", "venezia", "torino", "panionios"],
+    "nationalTeam": "uruguay",
+    "retired": true,
+    "last": "nacional"
   }
 }

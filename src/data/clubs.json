@@ -3676,5 +3676,21 @@
     "country": "hongkong",
     "color1": "#81C0FF",
     "color2": "#DFEFFF"
+  },
+  "venezia": {
+    "id": "venezia",
+    "title": "Venezia FC",
+    "brand": "kappa",
+    "country": "italy",
+    "color1": "#060502",
+    "color2": "#B39B56"
+  },
+  "panionios": {
+    "id": "panionios",
+    "title": "PAE Panionios GSS",
+    "brand": "luanvi",
+    "country": "greece",
+    "color1": "#CA0000",
+    "color2": "#262985"
   }
 }
