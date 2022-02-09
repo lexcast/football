@@ -2977,5 +2977,14 @@
     "nationalTeam": "uruguay",
     "retired": true,
     "last": "nacional"
+  },
+  "juanschiaffino": {
+    "name": "Juan Schiaffino",
+    "number": 10,
+    "position": "AM",
+    "clubs": ["penarol", "milan", "roma"],
+    "nationalTeam": "uruguay",
+    "retired": true,
+    "worldCups": 1
   }
 }
