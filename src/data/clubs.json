@@ -3692,5 +3692,29 @@
     "country": "greece",
     "color1": "#CA0000",
     "color2": "#262985"
+  },
+  "montevideo": {
+    "id": "montevideo",
+    "title": "Montevideo Wanderers FC",
+    "brand": "umbro",
+    "country": "uruguay",
+    "color1": "#FFFFFF",
+    "color2": "#000000"
+  },
+  "racingcf": {
+    "id": "racingcf",
+    "title": "Racing Club de France",
+    "brand": "adidas",
+    "country": "france",
+    "color1": "#B0DAF0",
+    "color2": "#FFFFFF"
+  },
+  "cagliari": {
+    "id": "cagliari",
+    "title": "Cagliari Calcio",
+    "brand": "adidas",
+    "country": "italy",
+    "color1": "#D84646",
+    "color2": "#353B5F"
   }
 }

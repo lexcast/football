@@ -2986,5 +2986,21 @@
     "nationalTeam": "uruguay",
     "retired": true,
     "worldCups": 1
+  },
+  "enzofrancescoli": {
+    "name": "Enzo Francescoli",
+    "number": 10,
+    "position": "CF",
+    "clubs": [
+      "montevideo",
+      "riverplate",
+      "racingcf",
+      "olympiquedemarseille",
+      "cagliari",
+      "torino"
+    ],
+    "nationalTeam": "uruguay",
+    "retired": true,
+    "last": "riverplate"
   }
 }
