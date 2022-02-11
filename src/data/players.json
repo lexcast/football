@@ -3002,5 +3002,14 @@
     "nationalTeam": "uruguay",
     "retired": true,
     "last": "riverplate"
+  },
+  "obduliovarela": {
+    "name": "Obdulio Varela",
+    "number": 5,
+    "position": "DM",
+    "clubs": ["montevideo", "penarol"],
+    "nationalTeam": "uruguay",
+    "retired": true,
+    "worldCups": 1
   }
 }
