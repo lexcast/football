@@ -3022,5 +3022,15 @@
     "retired": true,
     "worldCups": 1,
     "signature": false
+  },
+  "alcidesghiggia": {
+    "name": "Alcides Ghiggia",
+    "number": 7,
+    "position": "RW",
+    "clubs": ["sudamerica", "penarol", "roma", "milan", "danubio"],
+    "last": "sudamerica",
+    "nationalTeam": "uruguay",
+    "retired": true,
+    "worldCups": 1
   }
 }

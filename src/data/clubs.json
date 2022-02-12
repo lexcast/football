@@ -3716,5 +3716,13 @@
     "country": "italy",
     "color1": "#D84646",
     "color2": "#353B5F"
+  },
+  "sudamerica": {
+    "id": "sudamerica",
+    "title": "Sud América",
+    "brand": "starbade",
+    "country": "uruguay",
+    "color1": "#FF5C00",
+    "color2": "#000000"
   }
 }
