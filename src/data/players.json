@@ -3011,5 +3011,16 @@
     "nationalTeam": "uruguay",
     "retired": true,
     "worldCups": 1
+  },
+  "hectorscarone": {
+    "name": "Héctor Scarone",
+    "number": 10,
+    "position": "CF",
+    "clubs": ["nacional", "barcelona", "inter", "palermo"],
+    "last": "nacional",
+    "nationalTeam": "uruguay",
+    "retired": true,
+    "worldCups": 1,
+    "signature": false
   }
 }
