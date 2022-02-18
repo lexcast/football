@@ -3032,5 +3032,22 @@
     "nationalTeam": "uruguay",
     "retired": true,
     "worldCups": 1
+  },
+  "ladislaomazurkiewicz": {
+    "name": "Ladislao Mazurkiewicz",
+    "number": 1,
+    "position": "GK",
+    "clubs": [
+      "racingmontevideo",
+      "penarol",
+      "atleticomineiro",
+      "granada",
+      "cobreloa",
+      "americacali"
+    ],
+    "last": "penarol",
+    "nationalTeam": "uruguay",
+    "retired": true,
+    "signature": false
   }
 }

@@ -3724,5 +3724,29 @@
     "country": "uruguay",
     "color1": "#FF5C00",
     "color2": "#000000"
+  },
+  "racingmontevideo": {
+    "id": "racingmontevideo",
+    "title": "Racing Club de Montevideo",
+    "brand": "macron",
+    "country": "uruguay",
+    "color1": "#008100",
+    "color2": "#FFFFFF"
+  },
+  "cobreloa": {
+    "id": "cobreloa",
+    "title": "CD Cobreloa",
+    "brand": "macron",
+    "country": "chile",
+    "color1": "#FF6600",
+    "color2": "#FFFFFF"
+  },
+  "americacali": {
+    "id": "americacali",
+    "title": "América de Cali",
+    "brand": "umbro",
+    "country": "colombia",
+    "color1": "#F03535",
+    "color2": "#FFFFFF"
   }
 }
