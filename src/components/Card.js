@@ -18,10 +18,10 @@ const Card = ({ children, flipped }) => {
           (isFlipped ? "rotate-y-half" : "rotate-y-none")
         }
       >
-        <div className="absolute w-full h-full rounded-lg overflow-hidden">
+        <div className="absolute w-full h-full rounded-lg overflow-hidden backface-hidden">
           {children[0]}
         </div>
-        <div className="absolute w-full h-full rotate-y-half rounded-lg overflow-hidden">
+        <div className="absolute w-full h-full rotate-y-half rounded-lg overflow-hidden backface-hidden">
           {children[1]}
         </div>
       </div>
